@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f7981358de57b5a3717c5899d960a23f",
-"assets/AssetManifest.bin.json": "b3bb1381db81eb1a24c5f2d769be6bce",
-"assets/AssetManifest.json": "9826972aecc025c254e19fc82c881dfe",
+const RESOURCES = {"assets/AssetManifest.bin": "889b3129a615b4d432f9a6a88e211ee5",
+"assets/AssetManifest.bin.json": "ccd4508377b73f8b7b505d615e24327a",
+"assets/AssetManifest.json": "d8170188f67d8d6bbc41e864d72753b6",
 "assets/assets/fonts/IRANYekan_Light.ttf": "71c5a6f8f34814cf1a1eca64bc2e4edd",
 "assets/assets/fonts/IRANYekan_Regular.ttf": "9928dd67b4dfd7c80c10fba302dcfe1b",
+"assets/assets/fonts/NastaliqShekaste.ttf": "e63e9420856fe0c5c1e23a10512b216f",
 "assets/assets/images/app_logo.png": "ccae355ce293dbfbab8e9691d7d93f8f",
 "assets/assets/images/contact_us.png": "82c802f704e87d961c16bc9725d6b459",
 "assets/assets/images/face_authentication_icon.png": "fc74129c34cf2c097331d02a74f442ba",
@@ -19,9 +20,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f7981358de57b5a3717c5899d960a23f
 "assets/assets/images/profile.png": "ae92ecebb646e1c88762348e975e98d5",
 "assets/assets/json/cities_etemad.json": "df58b865a0d95732ff93d702ee319d15",
 "assets/assets/json/states_etemad.json": "b369b9cfef11430ed3625d97fecb92b3",
-"assets/FontManifest.json": "c66f317876c41a9cb9218856f166a502",
-"assets/fonts/MaterialIcons-Regular.otf": "9b63ad8aa6f3552f7d8bf31247be25dd",
-"assets/NOTICES": "803a9651f2a7e0493951bf128d507fec",
+"assets/FontManifest.json": "58f7742adcb9ac6e0a499581d9f6fbcc",
+"assets/fonts/MaterialIcons-Regular.otf": "9e8d7d3f72ecb3ba87624c94efd940bc",
+"assets/NOTICES": "49337c80da14a9de0c7d70e978b60085",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "canvaskit/canvaskit.js": "eb8797020acdbdf96a12fb0405582c1b",
@@ -37,9 +38,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f7981358de57b5a3717c5899d960a23f
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3d247bd1e7e901ca3b375f2ac4a89306",
-"/": "3d247bd1e7e901ca3b375f2ac4a89306",
-"main.dart.js": "ca7d7f13020c112fb0e271ab254d84d8",
+"index.html": "6648edd205bbfbaa16e39c19454271c5",
+"/": "6648edd205bbfbaa16e39c19454271c5",
+"main.dart.js": "15f6d8a5ed2a8767def4458a7912c8d6",
 "manifest.json": "c8f3437af73dcee8d01feae2b0cdf01b",
 "version.json": "4f7e6b5bd62fe6963b764930dcd5c321"};
 // The application shell files that are downloaded before a service worker can
