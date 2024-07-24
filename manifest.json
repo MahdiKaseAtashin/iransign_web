@@ -1,11 +1,11 @@
 {
-    "name": "IranSign",
-    "short_name": "IranSign",
+    "name": "trust_sign",
+    "short_name": "trust_sign",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
-    "description": "PWA of IranSign application.",
+    "description": "A digital signature application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
