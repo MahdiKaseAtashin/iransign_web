@@ -3,7 +3,7 @@
     "short_name": "trust_sign",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FFFFFF",
+    "background_color": "#FFFFFFFF",
     "theme_color": "#FFFFFF",
     "description": "A digital signature application.",
     "orientation": "portrait-primary",
