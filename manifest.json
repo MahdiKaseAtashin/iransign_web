@@ -1,6 +1,6 @@
 {
-    "name": "trust_sign",
-    "short_name": "trust_sign",
+    "name": "Trust Sign",
+    "short_name": "Trust Sign",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFFFF",
