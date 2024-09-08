@@ -2,165 +2,170 @@
 <html>
 
 <head>
-  <base href="/">
+    <base href="/">
 
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A digital signature application.">
+    <meta charset="UTF-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="description" content="A digital signature application.">
 
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="trust_sign">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+    <!-- iOS meta tags & icons -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="trust_sign">
+    <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png">
-
-  <title>Trust Sign</title>
-  <link rel="manifest" href="manifest.json">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
 
 
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-
-  <style id="splash-screen-style">
-    @font-face {
-      font-family: myFirstFont;
-      src: url(sansation_light.woff);
-    }
-
-    html {
-      height: 100%
-    }
-
-    body {
-      margin: 0;
-      min-height: 100%;
-      background-color: #263038;
-      background-size: 100% 100%;
-    }
-
-    .center {
-      margin: 0;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-    }
-
-    .contain {
-      display: block;
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-    }
-
-    .stretch {
-      display: block;
-      width: 100%;
-      height: 100%;
-    }
-
-    .cover {
-      display: block;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-
-    .bottom {
-      position: absolute;
-      bottom: 0;
-      left: 50%;
-      -ms-transform: translate(-50%, 0);
-      transform: translate(-50%, 0);
-    }
-
-    .bottomLeft {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-    }
-
-    .bottomRight {
-      position: absolute;
-      bottom: 0;
-      right: 0;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #263038;
-      }
-    }
-
-    .loader {
-      position: relative;
-      width: 48px;
-      height: 48px;
-      left: 35%;
-      background: #de3500;
-      transform: rotateX(65deg) rotate(45deg);
-      color: #fff;
-      animation: layers1 1s linear infinite alternate;
-    }
-
-    .loader:after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: rgba(255, 255, 255, 0.7);
-      animation: layerTr 1s linear infinite alternate;
-    }
-
-    @keyframes layers1 {
-      0% {
-        box-shadow: 0px 0px 0 0px
-      }
-
-      90%,
-      100% {
-        box-shadow: 20px 20px 0 -4px
-      }
-    }
-
-    @keyframes layerTr {
-      0% {
-        transform: translate(0, 0) scale(1)
-      }
-
-      100% {
-        transform: translate(-25px, -25px) scale(1)
-      }
-    }
+    <title>Trust Sign</title>
+    <link rel="manifest" href="manifest.json">
 
 
-    * {
-      font-family: myFirstFont, sans-serif;
-      color: #fff;
-    }
-  </style>
-  <script id="splash-screen-script">
-    window.onbeforeunload = function () {
-      return "Changes that you made may not be saved.";
-    }
-    function removeSplashFromWeb() {
-      document.getElementById("splash")?.remove();
-      document.getElementById("splash-branding")?.remove();
-      document.body.style.background = "transparent";
-    }
-  </script>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+          name="viewport">
+
+    <style id="splash-screen-style">
+        @font-face {
+          font-family: myFirstFont;
+          src: url(sansation_light.woff);
+        }
+
+        html {
+          height: 100%
+        }
+
+        body {
+          margin: 0;
+          min-height: 100%;
+          background-color: #263038;
+          background-size: 100% 100%;
+        }
+
+        .center {
+          margin: 0;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+        }
+
+        .contain {
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: contain;
+        }
+
+        .stretch {
+          display: block;
+          width: 100%;
+          height: 100%;
+        }
+
+        .cover {
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+
+        .bottom {
+          position: absolute;
+          bottom: 0;
+          left: 50%;
+          -ms-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+        }
+
+        .bottomLeft {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+        }
+
+        .bottomRight {
+          position: absolute;
+          bottom: 0;
+          right: 0;
+        }
+
+        @media (prefers-color-scheme: dark) {
+          body {
+            background-color: #263038;
+          }
+        }
+
+        .loader {
+          position: relative;
+          width: 48px;
+          height: 48px;
+          left: 35%;
+          background: #de3500;
+          transform: rotateX(65deg) rotate(45deg);
+          color: #fff;
+          animation: layers1 1s linear infinite alternate;
+        }
+
+        .loader:after {
+          content: '';
+          position: absolute;
+          inset: 0;
+          background: rgba(255, 255, 255, 0.7);
+          animation: layerTr 1s linear infinite alternate;
+        }
+
+        @keyframes layers1 {
+          0% {
+            box-shadow: 0px 0px 0 0px
+          }
+
+          90%,
+          100% {
+            box-shadow: 20px 20px 0 -4px
+          }
+        }
+
+        @keyframes layerTr {
+          0% {
+            transform: translate(0, 0) scale(1)
+          }
+
+          100% {
+            transform: translate(-25px, -25px) scale(1)
+          }
+        }
+
+
+        * {
+          font-family: myFirstFont, sans-serif;
+          color: #fff;
+        }
+    </style>
+    <script type="application/javascript"
+            src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js"
+            defer/>
+    <script id="splash-screen-script">
+        window.onbeforeunload = function () {
+          return "Changes that you made may not be saved.";
+        }
+        function removeSplashFromWeb() {
+          document.getElementById("splash")?.remove();
+          document.getElementById("splash-branding")?.remove();
+          document.body.style.background = "transparent";
+        }
+    </script>
 </head>
 
 <body>
 
-  <div class="center">
+<div class="center">
     <h1 class="myFont">Trust Sign</h1>
-    <div class="loader" />
-  </div>
+    <div class="loader"/>
+</div>
 
-  <script src="flutter_bootstrap.js" async=""></script>
+<script src="flutter_bootstrap.js" async=""></script>
 
 
 </body>
