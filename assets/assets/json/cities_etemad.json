@@ -1,0 +1,12747 @@
+[
+  {
+    "name": "اسكو",
+    "code": 163,
+    "stateCode": 41
+  },
+  {
+    "name": "اهر",
+    "code": 164,
+    "stateCode": 41
+  },
+  {
+    "name": "ايلخچي",
+    "code": 165,
+    "stateCode": 41
+  },
+  {
+    "name": "آبش احمد",
+    "code": 166,
+    "stateCode": 41
+  },
+  {
+    "name": "آذرشهر",
+    "code": 167,
+    "stateCode": 41
+  },
+  {
+    "name": "آقكند",
+    "code": 168,
+    "stateCode": 41
+  },
+  {
+    "name": "باسمنج",
+    "code": 169,
+    "stateCode": 41
+  },
+  {
+    "name": "بخشايش",
+    "code": 170,
+    "stateCode": 41
+  },
+  {
+    "name": "بستان آباد",
+    "code": 171,
+    "stateCode": 41
+  },
+  {
+    "name": "بناب",
+    "code": 172,
+    "stateCode": 41
+  },
+  {
+    "name": "بناب جديد",
+    "code": 173,
+    "stateCode": 41
+  },
+  {
+    "name": "تبريز",
+    "code": 174,
+    "stateCode": 41
+  },
+  {
+    "name": "ترك",
+    "code": 175,
+    "stateCode": 41
+  },
+  {
+    "name": "تركمانچاي",
+    "code": 176,
+    "stateCode": 41
+  },
+  {
+    "name": "تسوج",
+    "code": 177,
+    "stateCode": 41
+  },
+  {
+    "name": "تيكمه داش",
+    "code": 178,
+    "stateCode": 41
+  },
+  {
+    "name": "جلفا",
+    "code": 179,
+    "stateCode": 41
+  },
+  {
+    "name": "خاروانا",
+    "code": 180,
+    "stateCode": 41
+  },
+  {
+    "name": "خامنه",
+    "code": 181,
+    "stateCode": 41
+  },
+  {
+    "name": "خراجو",
+    "code": 182,
+    "stateCode": 41
+  },
+  {
+    "name": "خسروشهر",
+    "code": 183,
+    "stateCode": 41
+  },
+  {
+    "name": "خمارلو",
+    "code": 184,
+    "stateCode": 41
+  },
+  {
+    "name": "خواجه",
+    "code": 185,
+    "stateCode": 41
+  },
+  {
+    "name": "دوزدوزان",
+    "code": 186,
+    "stateCode": 41
+  },
+  {
+    "name": "زرنق",
+    "code": 187,
+    "stateCode": 41
+  },
+  {
+    "name": "زنوز",
+    "code": 188,
+    "stateCode": 41
+  },
+  {
+    "name": "سراب",
+    "code": 189,
+    "stateCode": 41
+  },
+  {
+    "name": "سردرود",
+    "code": 190,
+    "stateCode": 41
+  },
+  {
+    "name": "سيس",
+    "code": 191,
+    "stateCode": 41
+  },
+  {
+    "name": "سيه رود",
+    "code": 192,
+    "stateCode": 41
+  },
+  {
+    "name": "شبستر",
+    "code": 193,
+    "stateCode": 41
+  },
+  {
+    "name": "شربيان",
+    "code": 194,
+    "stateCode": 41
+  },
+  {
+    "name": "شرفخانه",
+    "code": 195,
+    "stateCode": 41
+  },
+  {
+    "name": "شندآباد",
+    "code": 196,
+    "stateCode": 41
+  },
+  {
+    "name": "شهرجديدسهند",
+    "code": 197,
+    "stateCode": 41
+  },
+  {
+    "name": "صوفيان",
+    "code": 198,
+    "stateCode": 41
+  },
+  {
+    "name": "عجب شير",
+    "code": 199,
+    "stateCode": 41
+  },
+  {
+    "name": "قره آغاج",
+    "code": 200,
+    "stateCode": 41
+  },
+  {
+    "name": "كشكسراي",
+    "code": 201,
+    "stateCode": 41
+  },
+  {
+    "name": "كلوانق",
+    "code": 202,
+    "stateCode": 41
+  },
+  {
+    "name": "كليبر",
+    "code": 203,
+    "stateCode": 41
+  },
+  {
+    "name": "كوزه كنان",
+    "code": 204,
+    "stateCode": 41
+  },
+  {
+    "name": "گوگان",
+    "code": 205,
+    "stateCode": 41
+  },
+  {
+    "name": "ليلان",
+    "code": 206,
+    "stateCode": 41
+  },
+  {
+    "name": "مراغه",
+    "code": 207,
+    "stateCode": 41
+  },
+  {
+    "name": "مرند",
+    "code": 208,
+    "stateCode": 41
+  },
+  {
+    "name": "ملكان",
+    "code": 209,
+    "stateCode": 41
+  },
+  {
+    "name": "ممقان",
+    "code": 210,
+    "stateCode": 41
+  },
+  {
+    "name": "مهربان",
+    "code": 211,
+    "stateCode": 41
+  },
+  {
+    "name": "ميانه",
+    "code": 212,
+    "stateCode": 41
+  },
+  {
+    "name": "نظركهريزي",
+    "code": 213,
+    "stateCode": 41
+  },
+  {
+    "name": "وايقان",
+    "code": 214,
+    "stateCode": 41
+  },
+  {
+    "name": "ورزقان",
+    "code": 215,
+    "stateCode": 41
+  },
+  {
+    "name": "هاديشهر",
+    "code": 216,
+    "stateCode": 41
+  },
+  {
+    "name": "هريس",
+    "code": 217,
+    "stateCode": 41
+  },
+  {
+    "name": "هشترود",
+    "code": 218,
+    "stateCode": 41
+  },
+  {
+    "name": "هوراند",
+    "code": 219,
+    "stateCode": 41
+  },
+  {
+    "name": "يامچي",
+    "code": 220,
+    "stateCode": 41
+  },
+  {
+    "name": " مراغه-آذربایجان شرقی ",
+    "code": 53551,
+    "stateCode": 41
+  },
+  {
+    "name": " اغچه ریش ",
+    "code": 5586,
+    "stateCode": 41
+  },
+  {
+    "name": " خاتون اباد-آذربایجان شرقی ",
+    "code": 53361,
+    "stateCode": 41
+  },
+  {
+    "name": " شیخدراباد ",
+    "code": 53371,
+    "stateCode": 41
+  },
+  {
+    "name": " قره بلاغ-آذربایجان شرقی ",
+    "code": 53381,
+    "stateCode": 41
+  },
+  {
+    "name": " اچاچی ",
+    "code": 53431,
+    "stateCode": 41
+  },
+  {
+    "name": " گوندوغدی ",
+    "code": 53441,
+    "stateCode": 41
+  },
+  {
+    "name": " پورسخلو ",
+    "code": 53451,
+    "stateCode": 41
+  },
+  {
+    "name": " کنگاور-آذربایجان شرقی ",
+    "code": 53461,
+    "stateCode": 41
+  },
+  {
+    "name": " قویوجاق ",
+    "code": 53481,
+    "stateCode": 41
+  },
+  {
+    "name": " ارموداق ",
+    "code": 53491,
+    "stateCode": 41
+  },
+  {
+    "name": " کهنمو ",
+    "code": 53531,
+    "stateCode": 41
+  },
+  {
+    "name": " اربط ",
+    "code": 53541,
+    "stateCode": 41
+  },
+  {
+    "name": " لاهیجان-آذربایجان شرقی ",
+    "code": 53561,
+    "stateCode": 41
+  },
+  {
+    "name": " خاص اباد (خاصبان ) ",
+    "code": 53571,
+    "stateCode": 41
+  },
+  {
+    "name": " سرای (سرای ده ) ",
+    "code": 53591,
+    "stateCode": 41
+  },
+  {
+    "name": " کجوار ",
+    "code": 53631,
+    "stateCode": 41
+  },
+  {
+    "name": " خلجان ",
+    "code": 53641,
+    "stateCode": 41
+  },
+  {
+    "name": " کندرود ",
+    "code": 53681,
+    "stateCode": 41
+  },
+  {
+    "name": " مایان سفلی ",
+    "code": 53691,
+    "stateCode": 41
+  },
+  {
+    "name": " تیمورلو ",
+    "code": 53731,
+    "stateCode": 41
+  },
+  {
+    "name": " قدمگاه (بادام یار) ",
+    "code": 53741,
+    "stateCode": 41
+  },
+  {
+    "name": " شیرامین ",
+    "code": 53771,
+    "stateCode": 41
+  },
+  {
+    "name": " هفت چشمه-آذربایجان شرقی ",
+    "code": 53791,
+    "stateCode": 41
+  },
+  {
+    "name": " امند ",
+    "code": 53831,
+    "stateCode": 41
+  },
+  {
+    "name": " مینق ",
+    "code": 53941,
+    "stateCode": 41
+  },
+  {
+    "name": " سرند ",
+    "code": 53961,
+    "stateCode": 41
+  },
+  {
+    "name": " بیلوردی ",
+    "code": 53981,
+    "stateCode": 41
+  },
+  {
+    "name": " گلین قیه ",
+    "code": 54331,
+    "stateCode": 41
+  },
+  {
+    "name": " هرزندجدید (چای هرزند) ",
+    "code": 54341,
+    "stateCode": 41
+  },
+  {
+    "name": " دولت اباد-آذربایجان شرقی ",
+    "code": 54371,
+    "stateCode": 41
+  },
+  {
+    "name": " یکان کهریز ",
+    "code": 54381,
+    "stateCode": 41
+  },
+  {
+    "name": " شجاع ",
+    "code": 54431,
+    "stateCode": 41
+  },
+  {
+    "name": " داران-آذربایجان شرقی ",
+    "code": 54441,
+    "stateCode": 41
+  },
+  {
+    "name": " نوجه مهر ",
+    "code": 54461,
+    "stateCode": 41
+  },
+  {
+    "name": " چول قشلاقی ",
+    "code": 54531,
+    "stateCode": 41
+  },
+  {
+    "name": " ورگهان ",
+    "code": 54541,
+    "stateCode": 41
+  },
+  {
+    "name": " افیل ",
+    "code": 54551,
+    "stateCode": 41
+  },
+  {
+    "name": " اذغان (ازغان ) ",
+    "code": 54561,
+    "stateCode": 41
+  },
+  {
+    "name": " سیه کلان ",
+    "code": 54571,
+    "stateCode": 41
+  },
+  {
+    "name": " اق براز ",
+    "code": 54591,
+    "stateCode": 41
+  },
+  {
+    "name": " مولان ",
+    "code": 54631,
+    "stateCode": 41
+  },
+  {
+    "name": " عاشقلو ",
+    "code": 54651,
+    "stateCode": 41
+  },
+  {
+    "name": " اسکلو (اسگلو) ",
+    "code": 54661,
+    "stateCode": 41
+  },
+  {
+    "name": " یوزبند ",
+    "code": 54681,
+    "stateCode": 41
+  },
+  {
+    "name": " شهرک صنعتی کاغذکنان ",
+    "code": 54682,
+    "stateCode": 41
+  },
+  {
+    "name": " کندوان ",
+    "code": 54685,
+    "stateCode": 41
+  },
+  {
+    "name": " تیل ",
+    "code": 54686,
+    "stateCode": 41
+  },
+  {
+    "name": " لاریجان ",
+    "code": 54691,
+    "stateCode": 41
+  },
+  {
+    "name": " اسبفروشان ",
+    "code": 54731,
+    "stateCode": 41
+  },
+  {
+    "name": " ابرغان ",
+    "code": 54741,
+    "stateCode": 41
+  },
+  {
+    "name": " رازلیق ",
+    "code": 54771,
+    "stateCode": 41
+  },
+  {
+    "name": " اغمیون ",
+    "code": 54781,
+    "stateCode": 41
+  },
+  {
+    "name": " اردها ",
+    "code": 54791,
+    "stateCode": 41
+  },
+  {
+    "name": " قره چای حاج علی ",
+    "code": 54931,
+    "stateCode": 41
+  },
+  {
+    "name": " قره بابا ",
+    "code": 54941,
+    "stateCode": 41
+  },
+  {
+    "name": " سعیداباد-آذربایجان شرقی ",
+    "code": 54951,
+    "stateCode": 41
+  },
+  {
+    "name": " الانق ",
+    "code": 54961,
+    "stateCode": 41
+  },
+  {
+    "name": " کردکندی ",
+    "code": 54971,
+    "stateCode": 41
+  },
+  {
+    "name": " قره چمن ",
+    "code": 54991,
+    "stateCode": 41
+  },
+  {
+    "name": " ورجوی ",
+    "code": 55330,
+    "stateCode": 41
+  },
+  {
+    "name": " گل تپه-آذربایجان شرقی ",
+    "code": 55341,
+    "stateCode": 41
+  },
+  {
+    "name": " خداجو ",
+    "code": 55351,
+    "stateCode": 41
+  },
+  {
+    "name": " داش اتان ",
+    "code": 55361,
+    "stateCode": 41
+  },
+  {
+    "name": " داش بلاغ بازار ",
+    "code": 55371,
+    "stateCode": 41
+  },
+  {
+    "name": " صومعه ",
+    "code": 55381,
+    "stateCode": 41
+  },
+  {
+    "name": " علویان ",
+    "code": 55391,
+    "stateCode": 41
+  },
+  {
+    "name": " شیراز-آذربایجان شرقی ",
+    "code": 55431,
+    "stateCode": 41
+  },
+  {
+    "name": " خضرلو ",
+    "code": 55441,
+    "stateCode": 41
+  },
+  {
+    "name": " ینگجه ",
+    "code": 55451,
+    "stateCode": 41
+  },
+  {
+    "name": " مهماندار ",
+    "code": 55461,
+    "stateCode": 41
+  },
+  {
+    "name": " خانیان ",
+    "code": 55471,
+    "stateCode": 41
+  },
+  {
+    "name": " دانالو ",
+    "code": 55481,
+    "stateCode": 41
+  },
+  {
+    "name": " رحمانلو ",
+    "code": 55491,
+    "stateCode": 41
+  },
+  {
+    "name": " زاوشت ",
+    "code": 55531,
+    "stateCode": 41
+  },
+  {
+    "name": " القو ",
+    "code": 55541,
+    "stateCode": 41
+  },
+  {
+    "name": " روشت بزرگ ",
+    "code": 55551,
+    "stateCode": 41
+  },
+  {
+    "name": " خوشه مهر (خواجه امیر) ",
+    "code": 55561,
+    "stateCode": 41
+  },
+  {
+    "name": " زوارق ",
+    "code": 55571,
+    "stateCode": 41
+  },
+  {
+    "name": " لکلر ",
+    "code": 55631,
+    "stateCode": 41
+  },
+  {
+    "name": " بایقوت ",
+    "code": 55641,
+    "stateCode": 41
+  },
+  {
+    "name": " اروق ",
+    "code": 55651,
+    "stateCode": 41
+  },
+  {
+    "name": " اق منار ",
+    "code": 55661,
+    "stateCode": 41
+  },
+  {
+    "name": " طوراغای (طوراغایی ) ",
+    "code": 55681,
+    "stateCode": 41
+  },
+  {
+    "name": " اوشندل ",
+    "code": 55731,
+    "stateCode": 41
+  },
+  {
+    "name": " علی ابادعلیا ",
+    "code": 55741,
+    "stateCode": 41
+  },
+  {
+    "name": " ذوالبین ",
+    "code": 55751,
+    "stateCode": 41
+  },
+  {
+    "name": " اتش بیگ ",
+    "code": 55771,
+    "stateCode": 41
+  },
+  {
+    "name": " سلوک ",
+    "code": 55781,
+    "stateCode": 41
+  },
+  {
+    "name": " نصیرابادسفلی ",
+    "code": 55791,
+    "stateCode": 41
+  },
+  {
+    "name": " ارسگنای سفلی ",
+    "code": 55831,
+    "stateCode": 41
+  },
+  {
+    "name": " قلعه حسین اباد ",
+    "code": 55851,
+    "stateCode": 41
+  },
+  {
+    "name": " ذاکرکندی ",
+    "code": 55871,
+    "stateCode": 41
+  },
+  {
+    "name": " قوچ احمد ",
+    "code": 55881,
+    "stateCode": 41
+  },
+  {
+    "name": " اغ زیارت ",
+    "code": 55891,
+    "stateCode": 41
+  },
+  {
+    "name": "اروميه",
+    "code": 221,
+    "stateCode": 44
+  },
+  {
+    "name": "اشنويه",
+    "code": 222,
+    "stateCode": 44
+  },
+  {
+    "name": "ايواوغلي",
+    "code": 223,
+    "stateCode": 44
+  },
+  {
+    "name": "آواجيق",
+    "code": 224,
+    "stateCode": 44
+  },
+  {
+    "name": "باروق",
+    "code": 225,
+    "stateCode": 44
+  },
+  {
+    "name": "بازرگان",
+    "code": 226,
+    "stateCode": 44
+  },
+  {
+    "name": "بوكان",
+    "code": 227,
+    "stateCode": 44
+  },
+  {
+    "name": "پلدشت",
+    "code": 228,
+    "stateCode": 44
+  },
+  {
+    "name": "پيرانشهر",
+    "code": 229,
+    "stateCode": 44
+  },
+  {
+    "name": "تازه شهر",
+    "code": 230,
+    "stateCode": 44
+  },
+  {
+    "name": "تكاب",
+    "code": 231,
+    "stateCode": 44
+  },
+  {
+    "name": "چهاربرج",
+    "code": 232,
+    "stateCode": 44
+  },
+  {
+    "name": "خليفان",
+    "code": 233,
+    "stateCode": 44
+  },
+  {
+    "name": "خوي",
+    "code": 234,
+    "stateCode": 44
+  },
+  {
+    "name": "ديزج ديز",
+    "code": 235,
+    "stateCode": 44
+  },
+  {
+    "name": "ربط",
+    "code": 236,
+    "stateCode": 44
+  },
+  {
+    "name": "سردشت",
+    "code": 237,
+    "stateCode": 44
+  },
+  {
+    "name": "سرو",
+    "code": 238,
+    "stateCode": 44
+  },
+  {
+    "name": "سلماس",
+    "code": 239,
+    "stateCode": 44
+  },
+  {
+    "name": "سيلوانه",
+    "code": 240,
+    "stateCode": 44
+  },
+  {
+    "name": "سيمينه",
+    "code": 241,
+    "stateCode": 44
+  },
+  {
+    "name": "سيه چشمه",
+    "code": 242,
+    "stateCode": 44
+  },
+  {
+    "name": "شاهين دژ",
+    "code": 243,
+    "stateCode": 44
+  },
+  {
+    "name": "شوط",
+    "code": 244,
+    "stateCode": 44
+  },
+  {
+    "name": "فيرورق",
+    "code": 245,
+    "stateCode": 44
+  },
+  {
+    "name": "قره ضياءالدين",
+    "code": 246,
+    "stateCode": 44
+  },
+  {
+    "name": "قطور",
+    "code": 247,
+    "stateCode": 44
+  },
+  {
+    "name": "قوشچي",
+    "code": 248,
+    "stateCode": 44
+  },
+  {
+    "name": "كشاورز",
+    "code": 249,
+    "stateCode": 44
+  },
+  {
+    "name": "گردكشانه",
+    "code": 250,
+    "stateCode": 44
+  },
+  {
+    "name": "ماكو",
+    "code": 251,
+    "stateCode": 44
+  },
+  {
+    "name": "محمديار",
+    "code": 252,
+    "stateCode": 44
+  },
+  {
+    "name": "محمودآباد",
+    "code": 253,
+    "stateCode": 44
+  },
+  {
+    "name": "مهاباد",
+    "code": 254,
+    "stateCode": 44
+  },
+  {
+    "name": "مياندوآب",
+    "code": 255,
+    "stateCode": 44
+  },
+  {
+    "name": "ميرآباد",
+    "code": 256,
+    "stateCode": 44
+  },
+  {
+    "name": "نالوس",
+    "code": 257,
+    "stateCode": 44
+  },
+  {
+    "name": "نقده",
+    "code": 258,
+    "stateCode": 44
+  },
+  {
+    "name": "نوشين",
+    "code": 259,
+    "stateCode": 44
+  },
+  {
+    "name": " سیلوه ",
+    "code": 5573,
+    "stateCode": 44
+  },
+  {
+    "name": " مهاباد-آذربایجان غربی ",
+    "code": 5591,
+    "stateCode": 44
+  },
+  {
+    "name": " جلدیان ",
+    "code": 5791,
+    "stateCode": 44
+  },
+  {
+    "name": " گوگ تپه-آذربایجان غربی ",
+    "code": 5931,
+    "stateCode": 44
+  },
+  {
+    "name": " سردشت-آذربایجان غربی ",
+    "code": 5961,
+    "stateCode": 44
+  },
+  {
+    "name": " باراندوز ",
+    "code": 57331,
+    "stateCode": 44
+  },
+  {
+    "name": " دیزج دول ",
+    "code": 57341,
+    "stateCode": 44
+  },
+  {
+    "name": " میاوق ",
+    "code": 57351,
+    "stateCode": 44
+  },
+  {
+    "name": " ایبلو ",
+    "code": 57361,
+    "stateCode": 44
+  },
+  {
+    "name": " دستجرد-آذربایجان غربی ",
+    "code": 57371,
+    "stateCode": 44
+  },
+  {
+    "name": " طلاتپه ",
+    "code": 57391,
+    "stateCode": 44
+  },
+  {
+    "name": " راژان ",
+    "code": 57431,
+    "stateCode": 44
+  },
+  {
+    "name": " هاشم اباد ",
+    "code": 57441,
+    "stateCode": 44
+  },
+  {
+    "name": " دیزج-آذربایجان غربی ",
+    "code": 57451,
+    "stateCode": 44
+  },
+  {
+    "name": " زیوه ",
+    "code": 57461,
+    "stateCode": 44
+  },
+  {
+    "name": " تویی ",
+    "code": 57471,
+    "stateCode": 44
+  },
+  {
+    "name": " موانا ",
+    "code": 57481,
+    "stateCode": 44
+  },
+  {
+    "name": " قره باغ ",
+    "code": 57531,
+    "stateCode": 44
+  },
+  {
+    "name": " بهله ",
+    "code": 57541,
+    "stateCode": 44
+  },
+  {
+    "name": " امام کندی ",
+    "code": 57551,
+    "stateCode": 44
+  },
+  {
+    "name": " نازلو ",
+    "code": 57561,
+    "stateCode": 44
+  },
+  {
+    "name": " کانسپی ",
+    "code": 57581,
+    "stateCode": 44
+  },
+  {
+    "name": " ممکان ",
+    "code": 57591,
+    "stateCode": 44
+  },
+  {
+    "name": " حسنلو ",
+    "code": 57641,
+    "stateCode": 44
+  },
+  {
+    "name": " کهریزعجم ",
+    "code": 57651,
+    "stateCode": 44
+  },
+  {
+    "name": " شیخ احمد ",
+    "code": 57671,
+    "stateCode": 44
+  },
+  {
+    "name": " بیگم قلعه ",
+    "code": 57681,
+    "stateCode": 44
+  },
+  {
+    "name": " راهدانه ",
+    "code": 57691,
+    "stateCode": 44
+  },
+  {
+    "name": " شاهوانه ",
+    "code": 57731,
+    "stateCode": 44
+  },
+  {
+    "name": " ده شمس بزرگ ",
+    "code": 57751,
+    "stateCode": 44
+  },
+  {
+    "name": " گلاز ",
+    "code": 57761,
+    "stateCode": 44
+  },
+  {
+    "name": " لولکان ",
+    "code": 57771,
+    "stateCode": 44
+  },
+  {
+    "name": " سیاوان ",
+    "code": 57781,
+    "stateCode": 44
+  },
+  {
+    "name": " کله کین ",
+    "code": 57831,
+    "stateCode": 44
+  },
+  {
+    "name": " شین اباد ",
+    "code": 57841,
+    "stateCode": 44
+  },
+  {
+    "name": " چیانه ",
+    "code": 57851,
+    "stateCode": 44
+  },
+  {
+    "name": " بیکوس ",
+    "code": 57861,
+    "stateCode": 44
+  },
+  {
+    "name": " هنگ اباد ",
+    "code": 57871,
+    "stateCode": 44
+  },
+  {
+    "name": " پسوه ",
+    "code": 57951,
+    "stateCode": 44
+  },
+  {
+    "name": " ریگ اباد ",
+    "code": 57961,
+    "stateCode": 44
+  },
+  {
+    "name": " احمدغریب ",
+    "code": 57971,
+    "stateCode": 44
+  },
+  {
+    "name": " سیه باز ",
+    "code": 58331,
+    "stateCode": 44
+  },
+  {
+    "name": " بیله وار ",
+    "code": 58341,
+    "stateCode": 44
+  },
+  {
+    "name": " ولدیان ",
+    "code": 58361,
+    "stateCode": 44
+  },
+  {
+    "name": " قوروق ",
+    "code": 58381,
+    "stateCode": 44
+  },
+  {
+    "name": " هندوان ",
+    "code": 58391,
+    "stateCode": 44
+  },
+  {
+    "name": " بدلان ",
+    "code": 58431,
+    "stateCode": 44
+  },
+  {
+    "name": " بلسورسفلی ",
+    "code": 58441,
+    "stateCode": 44
+  },
+  {
+    "name": " زرآباد ",
+    "code": 58450,
+    "stateCode": 44
+  },
+  {
+    "name": " استران ",
+    "code": 58471,
+    "stateCode": 44
+  },
+  {
+    "name": " شیرین بلاغ ",
+    "code": 58531,
+    "stateCode": 44
+  },
+  {
+    "name": " مراکان ",
+    "code": 58541,
+    "stateCode": 44
+  },
+  {
+    "name": " چورس ",
+    "code": 58551,
+    "stateCode": 44
+  },
+  {
+    "name": " قورول علیا ",
+    "code": 58561,
+    "stateCode": 44
+  },
+  {
+    "name": " بسطام-آذربایجان غربی ",
+    "code": 58571,
+    "stateCode": 44
+  },
+  {
+    "name": " قره تپه ",
+    "code": 58631,
+    "stateCode": 44
+  },
+  {
+    "name": " ریحانلوی علیا ",
+    "code": 58641,
+    "stateCode": 44
+  },
+  {
+    "name": " زاویه سفلی ",
+    "code": 58651,
+    "stateCode": 44
+  },
+  {
+    "name": " قم قشلاق ",
+    "code": 58681,
+    "stateCode": 44
+  },
+  {
+    "name": " یولاگلدی ",
+    "code": 58691,
+    "stateCode": 44
+  },
+  {
+    "name": " قرنقو ",
+    "code": 58731,
+    "stateCode": 44
+  },
+  {
+    "name": " مرگنلر ",
+    "code": 58761,
+    "stateCode": 44
+  },
+  {
+    "name": " نازک علیا ",
+    "code": 58781,
+    "stateCode": 44
+  },
+  {
+    "name": " حسن کندی ",
+    "code": 58791,
+    "stateCode": 44
+  },
+  {
+    "name": " وردان ",
+    "code": 58831,
+    "stateCode": 44
+  },
+  {
+    "name": " قره قشلاق ",
+    "code": 58861,
+    "stateCode": 44
+  },
+  {
+    "name": " تمر ",
+    "code": 58871,
+    "stateCode": 44
+  },
+  {
+    "name": " ابگرم-آذربایجان غربی ",
+    "code": 58881,
+    "stateCode": 44
+  },
+  {
+    "name": " سرنق ",
+    "code": 58891,
+    "stateCode": 44
+  },
+  {
+    "name": " چهریق علیا ",
+    "code": 58931,
+    "stateCode": 44
+  },
+  {
+    "name": " داراب-آذربایجان غربی ",
+    "code": 58941,
+    "stateCode": 44
+  },
+  {
+    "name": " دلزی ",
+    "code": 58951,
+    "stateCode": 44
+  },
+  {
+    "name": " اغ برزه ",
+    "code": 58961,
+    "stateCode": 44
+  },
+  {
+    "name": " سنجی ",
+    "code": 58971,
+    "stateCode": 44
+  },
+  {
+    "name": " خاتون باغ ",
+    "code": 59341,
+    "stateCode": 44
+  },
+  {
+    "name": " حاجی حسن ",
+    "code": 59351,
+    "stateCode": 44
+  },
+  {
+    "name": " سوگلی تپه ",
+    "code": 59361,
+    "stateCode": 44
+  },
+  {
+    "name": " گلیجه ",
+    "code": 59371,
+    "stateCode": 44
+  },
+  {
+    "name": " حاجی کند ",
+    "code": 59381,
+    "stateCode": 44
+  },
+  {
+    "name": " باغچه ",
+    "code": 59431,
+    "stateCode": 44
+  },
+  {
+    "name": " خورخوره-آذربایجان غربی ",
+    "code": 59441,
+    "stateCode": 44
+  },
+  {
+    "name": " کاولان علیا ",
+    "code": 59451,
+    "stateCode": 44
+  },
+  {
+    "name": " سیاقول علیا ",
+    "code": 59461,
+    "stateCode": 44
+  },
+  {
+    "name": " اگریقاش ",
+    "code": 59471,
+    "stateCode": 44
+  },
+  {
+    "name": " اوزون دره علیا ",
+    "code": 59481,
+    "stateCode": 44
+  },
+  {
+    "name": " یکشوه ",
+    "code": 59531,
+    "stateCode": 44
+  },
+  {
+    "name": " جوانمرد ",
+    "code": 59541,
+    "stateCode": 44
+  },
+  {
+    "name": " اختتر ",
+    "code": 59551,
+    "stateCode": 44
+  },
+  {
+    "name": " رحیم خان ",
+    "code": 59571,
+    "stateCode": 44
+  },
+  {
+    "name": " گل تپه قورمیش ",
+    "code": 59581,
+    "stateCode": 44
+  },
+  {
+    "name": " شلماش ",
+    "code": 59631,
+    "stateCode": 44
+  },
+  {
+    "name": " اسلام اباد-آذربایجان غربی ",
+    "code": 59641,
+    "stateCode": 44
+  },
+  {
+    "name": " بیوران سفلی ",
+    "code": 59651,
+    "stateCode": 44
+  },
+  {
+    "name": " زمزیران ",
+    "code": 59681,
+    "stateCode": 44
+  },
+  {
+    "name": " اقبال ",
+    "code": 59731,
+    "stateCode": 44
+  },
+  {
+    "name": " ملاشهاب الدین ",
+    "code": 59741,
+    "stateCode": 44
+  },
+  {
+    "name": " للکلو ",
+    "code": 59751,
+    "stateCode": 44
+  },
+  {
+    "name": " بگتاش ",
+    "code": 59761,
+    "stateCode": 44
+  },
+  {
+    "name": " گوگ تپه خالصه ",
+    "code": 59781,
+    "stateCode": 44
+  },
+  {
+    "name": " تک اغاج ",
+    "code": 59791,
+    "stateCode": 44
+  },
+  {
+    "name": " هاچاسو ",
+    "code": 59831,
+    "stateCode": 44
+  },
+  {
+    "name": " هولاسو ",
+    "code": 59841,
+    "stateCode": 44
+  },
+  {
+    "name": " قوزلوی افشار ",
+    "code": 59851,
+    "stateCode": 44
+  },
+  {
+    "name": " محمودآباد-آذربایجان غربی ",
+    "code": 59861,
+    "stateCode": 44
+  },
+  {
+    "name": " الی چین ",
+    "code": 59871,
+    "stateCode": 44
+  },
+  {
+    "name": " حیدرباغی ",
+    "code": 59881,
+    "stateCode": 44
+  },
+  {
+    "name": " حمزه قاسم ",
+    "code": 59891,
+    "stateCode": 44
+  },
+  {
+    "name": " اوغول بیگ ",
+    "code": 59931,
+    "stateCode": 44
+  },
+  {
+    "name": " دورباش ",
+    "code": 59941,
+    "stateCode": 44
+  },
+  {
+    "name": " اقابیگ ",
+    "code": 59951,
+    "stateCode": 44
+  },
+  {
+    "name": " احمدابادسفلی ",
+    "code": 59961,
+    "stateCode": 44
+  },
+  {
+    "name": " ننه کران ",
+    "code": 56341,
+    "stateCode": 45
+  },
+  {
+    "name": " گرده ",
+    "code": 56361,
+    "stateCode": 45
+  },
+  {
+    "name": " ثمرین ",
+    "code": 56371,
+    "stateCode": 45
+  },
+  {
+    "name": " اردیموسی ",
+    "code": 56381,
+    "stateCode": 45
+  },
+  {
+    "name": " کورائیم ",
+    "code": 56431,
+    "stateCode": 45
+  },
+  {
+    "name": " اسلام اباد-اردبیل ",
+    "code": 56441,
+    "stateCode": 45
+  },
+  {
+    "name": " مهماندوست علیا ",
+    "code": 56451,
+    "stateCode": 45
+  },
+  {
+    "name": " بقراباد ",
+    "code": 56471,
+    "stateCode": 45
+  },
+  {
+    "name": " بودالالو ",
+    "code": 56481,
+    "stateCode": 45
+  },
+  {
+    "name": " اراللوی بزرگ ",
+    "code": 56491,
+    "stateCode": 45
+  },
+  {
+    "name": " دیزج-اردبیل ",
+    "code": 56531,
+    "stateCode": 45
+  },
+  {
+    "name": " حمزه خانلو ",
+    "code": 56541,
+    "stateCode": 45
+  },
+  {
+    "name": " زهرا ",
+    "code": 56551,
+    "stateCode": 45
+  },
+  {
+    "name": " قصابه ",
+    "code": 56641,
+    "stateCode": 45
+  },
+  {
+    "name": "رضي",
+    "code": 11,
+    "stateCode": 45
+  },
+  {
+    "name": "هير",
+    "code": 25,
+    "stateCode": 45
+  },
+  {
+    "name": "اردبيل",
+    "code": 2,
+    "stateCode": 45
+  },
+  {
+    "name": "اصلاندوز",
+    "code": 3,
+    "stateCode": 45
+  },
+  {
+    "name": "آبي بيگلو",
+    "code": 4,
+    "stateCode": 45
+  },
+  {
+    "name": "بيله سوار",
+    "code": 5,
+    "stateCode": 45
+  },
+  {
+    "name": "پارس آباد",
+    "code": 6,
+    "stateCode": 45
+  },
+  {
+    "name": "تازه كند",
+    "code": 7,
+    "stateCode": 45
+  },
+  {
+    "name": "تازه كندانگوت",
+    "code": 8,
+    "stateCode": 45
+  },
+  {
+    "name": "جعفرآباد",
+    "code": 9,
+    "stateCode": 45
+  },
+  {
+    "name": "خلخال",
+    "code": 10,
+    "stateCode": 45
+  },
+  {
+    "name": "سرعين",
+    "code": 12,
+    "stateCode": 45
+  },
+  {
+    "name": "عنبران",
+    "code": 13,
+    "stateCode": 45
+  },
+  {
+    "name": "فخرآباد",
+    "code": 14,
+    "stateCode": 45
+  },
+  {
+    "name": "كلور",
+    "code": 15,
+    "stateCode": 45
+  },
+  {
+    "name": "كوراييم",
+    "code": 16,
+    "stateCode": 45
+  },
+  {
+    "name": "گرمي",
+    "code": 17,
+    "stateCode": 45
+  },
+  {
+    "name": "گيوي",
+    "code": 18,
+    "stateCode": 45
+  },
+  {
+    "name": "لاهرود",
+    "code": 19,
+    "stateCode": 45
+  },
+  {
+    "name": "مرادلو",
+    "code": 20,
+    "stateCode": 45
+  },
+  {
+    "name": "مشگين شهر",
+    "code": 21,
+    "stateCode": 45
+  },
+  {
+    "name": "نمين",
+    "code": 22,
+    "stateCode": 45
+  },
+  {
+    "name": "نير",
+    "code": 23,
+    "stateCode": 45
+  },
+  {
+    "name": "هشتجين",
+    "code": 24,
+    "stateCode": 45
+  },
+  {
+    "name": " انی علیا ",
+    "code": 56561,
+    "stateCode": 45
+  },
+  {
+    "name": " قاسم کندی ",
+    "code": 56571,
+    "stateCode": 45
+  },
+  {
+    "name": " قره اغاج پایین ",
+    "code": 56591,
+    "stateCode": 45
+  },
+  {
+    "name": " پریخان ",
+    "code": 56631,
+    "stateCode": 45
+  },
+  {
+    "name": " قوشه سفلی ",
+    "code": 56671,
+    "stateCode": 45
+  },
+  {
+    "name": " گنجوبه ",
+    "code": 56691,
+    "stateCode": 45
+  },
+  {
+    "name": " گوگ تپه-اردبیل ",
+    "code": 56731,
+    "stateCode": 45
+  },
+  {
+    "name": " انجیرلو ",
+    "code": 56741,
+    "stateCode": 45
+  },
+  {
+    "name": " قشلاق اغداش کلام ",
+    "code": 56761,
+    "stateCode": 45
+  },
+  {
+    "name": " خورخورسفلی ",
+    "code": 56771,
+    "stateCode": 45
+  },
+  {
+    "name": " شورگل ",
+    "code": 56781,
+    "stateCode": 45
+  },
+  {
+    "name": " نظرعلی بلاغی ",
+    "code": 56791,
+    "stateCode": 45
+  },
+  {
+    "name": " لنبر ",
+    "code": 56831,
+    "stateCode": 45
+  },
+  {
+    "name": " فیروزاباد ",
+    "code": 56841,
+    "stateCode": 45
+  },
+  {
+    "name": " خلفلو ",
+    "code": 56861,
+    "stateCode": 45
+  },
+  {
+    "name": " برندق ",
+    "code": 56881,
+    "stateCode": 45
+  },
+  {
+    "name": " تازه کندجدید ",
+    "code": 56931,
+    "stateCode": 45
+  },
+  {
+    "name": " گوشلو ",
+    "code": 56941,
+    "stateCode": 45
+  },
+  {
+    "name": " اق قباق علیا ",
+    "code": 56961,
+    "stateCode": 45
+  },
+  {
+    "name": " شهرک غفاری ",
+    "code": 56971,
+    "stateCode": 45
+  },
+  {
+    "name": " بران علیا ",
+    "code": 56991,
+    "stateCode": 45
+  },
+  {
+    "name": "ابريشم",
+    "code": 26,
+    "stateCode": 31
+  },
+  {
+    "name": "ابوزيدآباد",
+    "code": 27,
+    "stateCode": 31
+  },
+  {
+    "name": "اردستان",
+    "code": 28,
+    "stateCode": 31
+  },
+  {
+    "name": "اژيه",
+    "code": 29,
+    "stateCode": 31
+  },
+  {
+    "name": "اصفهان",
+    "code": 30,
+    "stateCode": 31
+  },
+  {
+    "name": "افوس",
+    "code": 31,
+    "stateCode": 31
+  },
+  {
+    "name": "انارك",
+    "code": 32,
+    "stateCode": 31
+  },
+  {
+    "name": "ايمانشهر",
+    "code": 33,
+    "stateCode": 31
+  },
+  {
+    "name": "آران وبيدگل",
+    "code": 34,
+    "stateCode": 31
+  },
+  {
+    "name": "بادرود",
+    "code": 35,
+    "stateCode": 31
+  },
+  {
+    "name": "باغ بهادران",
+    "code": 36,
+    "stateCode": 31
+  },
+  {
+    "name": "بافران",
+    "code": 37,
+    "stateCode": 31
+  },
+  {
+    "name": "برزك",
+    "code": 38,
+    "stateCode": 31
+  },
+  {
+    "name": "برف انبار",
+    "code": 39,
+    "stateCode": 31
+  },
+  {
+    "name": "بوئين ومياندشت",
+    "code": 40,
+    "stateCode": 31
+  },
+  {
+    "name": "بهاران شهر",
+    "code": 41,
+    "stateCode": 31
+  },
+  {
+    "name": "بهارستان",
+    "code": 42,
+    "stateCode": 31
+  },
+  {
+    "name": "پيربكران",
+    "code": 43,
+    "stateCode": 31
+  },
+  {
+    "name": "تودشك",
+    "code": 44,
+    "stateCode": 31
+  },
+  {
+    "name": "تيران",
+    "code": 45,
+    "stateCode": 31
+  },
+  {
+    "name": "جندق",
+    "code": 46,
+    "stateCode": 31
+  },
+  {
+    "name": "جوزدان",
+    "code": 47,
+    "stateCode": 31
+  },
+  {
+    "name": "جوشقان وكامو",
+    "code": 48,
+    "stateCode": 31
+  },
+  {
+    "name": "چادگان",
+    "code": 49,
+    "stateCode": 31
+  },
+  {
+    "name": "چرمهين",
+    "code": 50,
+    "stateCode": 31
+  },
+  {
+    "name": "چمگردان",
+    "code": 51,
+    "stateCode": 31
+  },
+  {
+    "name": "حبيب آباد",
+    "code": 52,
+    "stateCode": 31
+  },
+  {
+    "name": "حسن آباد",
+    "code": 53,
+    "stateCode": 31
+  },
+  {
+    "name": "حنا",
+    "code": 54,
+    "stateCode": 31
+  },
+  {
+    "name": "خالدآباد",
+    "code": 55,
+    "stateCode": 31
+  },
+  {
+    "name": "خميني شهر",
+    "code": 56,
+    "stateCode": 31
+  },
+  {
+    "name": "خوانسار",
+    "code": 57,
+    "stateCode": 31
+  },
+  {
+    "name": "خور",
+    "code": 58,
+    "stateCode": 31
+  },
+  {
+    "name": "خوراسگان",
+    "code": 59,
+    "stateCode": 31
+  },
+  {
+    "name": "خورزوق",
+    "code": 60,
+    "stateCode": 31
+  },
+  {
+    "name": "داران",
+    "code": 61,
+    "stateCode": 31
+  },
+  {
+    "name": "دامنه",
+    "code": 62,
+    "stateCode": 31
+  },
+  {
+    "name": "درچه پياز",
+    "code": 63,
+    "stateCode": 31
+  },
+  {
+    "name": "دستگرد",
+    "code": 64,
+    "stateCode": 31
+  },
+  {
+    "name": "دولت آباد",
+    "code": 65,
+    "stateCode": 31
+  },
+  {
+    "name": "دهاقان",
+    "code": 66,
+    "stateCode": 31
+  },
+  {
+    "name": "دهق",
+    "code": 67,
+    "stateCode": 31
+  },
+  {
+    "name": "ديزيچه",
+    "code": 68,
+    "stateCode": 31
+  },
+  {
+    "name": "رزوه",
+    "code": 69,
+    "stateCode": 31
+  },
+  {
+    "name": "رضوانشهر",
+    "code": 70,
+    "stateCode": 31
+  },
+  {
+    "name": "زاينده رود",
+    "code": 71,
+    "stateCode": 31
+  },
+  {
+    "name": "زرين شهر",
+    "code": 72,
+    "stateCode": 31
+  },
+  {
+    "name": "زواره",
+    "code": 73,
+    "stateCode": 31
+  },
+  {
+    "name": "زيباشهر",
+    "code": 74,
+    "stateCode": 31
+  },
+  {
+    "name": "سده لنجان",
+    "code": 75,
+    "stateCode": 31
+  },
+  {
+    "name": "سفيدشهر",
+    "code": 76,
+    "stateCode": 31
+  },
+  {
+    "name": "سگزي",
+    "code": 77,
+    "stateCode": 31
+  },
+  {
+    "name": "سميرم",
+    "code": 78,
+    "stateCode": 31
+  },
+  {
+    "name": "شاپورآباد",
+    "code": 79,
+    "stateCode": 31
+  },
+  {
+    "name": "شاهين شهر",
+    "code": 80,
+    "stateCode": 31
+  },
+  {
+    "name": "شهرضا",
+    "code": 81,
+    "stateCode": 31
+  },
+  {
+    "name": "طالخونچه",
+    "code": 82,
+    "stateCode": 31
+  },
+  {
+    "name": "عسگران",
+    "code": 83,
+    "stateCode": 31
+  },
+  {
+    "name": "علويچه",
+    "code": 84,
+    "stateCode": 31
+  },
+  {
+    "name": "فرخي",
+    "code": 85,
+    "stateCode": 31
+  },
+  {
+    "name": "فريدونشهر",
+    "code": 86,
+    "stateCode": 31
+  },
+  {
+    "name": "فلاورجان",
+    "code": 87,
+    "stateCode": 31
+  },
+  {
+    "name": "فولادشهر",
+    "code": 88,
+    "stateCode": 31
+  },
+  {
+    "name": "قمصر",
+    "code": 89,
+    "stateCode": 31
+  },
+  {
+    "name": "قهجاورستان",
+    "code": 90,
+    "stateCode": 31
+  },
+  {
+    "name": "قهدريجان",
+    "code": 91,
+    "stateCode": 31
+  },
+  {
+    "name": "كاشان",
+    "code": 92,
+    "stateCode": 31
+  },
+  {
+    "name": "كركوند",
+    "code": 93,
+    "stateCode": 31
+  },
+  {
+    "name": "كليشادوسودرجان",
+    "code": 94,
+    "stateCode": 31
+  },
+  {
+    "name": "كمشچه",
+    "code": 95,
+    "stateCode": 31
+  },
+  {
+    "name": "كمه",
+    "code": 96,
+    "stateCode": 31
+  },
+  {
+    "name": "كوشك",
+    "code": 97,
+    "stateCode": 31
+  },
+  {
+    "name": "كوهپايه",
+    "code": 98,
+    "stateCode": 31
+  },
+  {
+    "name": "كهريزسنگ",
+    "code": 99,
+    "stateCode": 31
+  },
+  {
+    "name": "گرگاب",
+    "code": 100,
+    "stateCode": 31
+  },
+  {
+    "name": "گزبرخوار",
+    "code": 101,
+    "stateCode": 31
+  },
+  {
+    "name": "گلپايگان",
+    "code": 102,
+    "stateCode": 31
+  },
+  {
+    "name": "گلدشت",
+    "code": 103,
+    "stateCode": 31
+  },
+  {
+    "name": "گلشن",
+    "code": 104,
+    "stateCode": 31
+  },
+  {
+    "name": "گلشهر",
+    "code": 105,
+    "stateCode": 31
+  },
+  {
+    "name": "گوگد",
+    "code": 106,
+    "stateCode": 31
+  },
+  {
+    "name": "لاي بيد",
+    "code": 107,
+    "stateCode": 31
+  },
+  {
+    "name": "مباركه",
+    "code": 108,
+    "stateCode": 31
+  },
+  {
+    "name": "محمدآباد",
+    "code": 109,
+    "stateCode": 31
+  },
+  {
+    "name": "مشكات",
+    "code": 110,
+    "stateCode": 31
+  },
+  {
+    "name": "منظريه",
+    "code": 111,
+    "stateCode": 31
+  },
+  {
+    "name": "مهاباد",
+    "code": 112,
+    "stateCode": 31
+  },
+  {
+    "name": "ميمه",
+    "code": 113,
+    "stateCode": 31
+  },
+  {
+    "name": "نائين",
+    "code": 114,
+    "stateCode": 31
+  },
+  {
+    "name": "نجف آباد",
+    "code": 115,
+    "stateCode": 31
+  },
+  {
+    "name": "نصرآباد",
+    "code": 116,
+    "stateCode": 31
+  },
+  {
+    "name": "نطنز",
+    "code": 117,
+    "stateCode": 31
+  },
+  {
+    "name": "نوش آباد",
+    "code": 118,
+    "stateCode": 31
+  },
+  {
+    "name": "نياسر",
+    "code": 119,
+    "stateCode": 31
+  },
+  {
+    "name": "نيك آباد",
+    "code": 120,
+    "stateCode": 31
+  },
+  {
+    "name": "ورزنه",
+    "code": 121,
+    "stateCode": 31
+  },
+  {
+    "name": "ورنامخواست",
+    "code": 122,
+    "stateCode": 31
+  },
+  {
+    "name": "وزوان",
+    "code": 123,
+    "stateCode": 31
+  },
+  {
+    "name": "ونك",
+    "code": 124,
+    "stateCode": 31
+  },
+  {
+    "name": "هرند",
+    "code": 125,
+    "stateCode": 31
+  },
+  {
+    "name": " منطقه صنعتی محموداباد ",
+    "code": 8161,
+    "stateCode": 31
+  },
+  {
+    "name": " مورچه خورت ",
+    "code": 8331,
+    "stateCode": 31
+  },
+  {
+    "name": " علویجه ",
+    "code": 8551,
+    "stateCode": 31
+  },
+  {
+    "name": " اسفرجان ",
+    "code": 8651,
+    "stateCode": 31
+  },
+  {
+    "name": " مهرگرد ",
+    "code": 8681,
+    "stateCode": 31
+  },
+  {
+    "name": " جوشقان استرک ",
+    "code": 8731,
+    "stateCode": 31
+  },
+  {
+    "name": " گورت ",
+    "code": 81594,
+    "stateCode": 31
+  },
+  {
+    "name": " دستجا ",
+    "code": 81671,
+    "stateCode": 31
+  },
+  {
+    "name": " زیار ",
+    "code": 81681,
+    "stateCode": 31
+  },
+  {
+    "name": " اصفهان-(سپاهان شهر) ",
+    "code": 81799,
+    "stateCode": 31
+  },
+  {
+    "name": " پادگان اموزشی امام ص ",
+    "code": 83341,
+    "stateCode": 31
+  },
+  {
+    "name": " پالایشگاه اصفهان ",
+    "code": 83351,
+    "stateCode": 31
+  },
+  {
+    "name": " کلهرود ",
+    "code": 83361,
+    "stateCode": 31
+  },
+  {
+    "name": " موته ",
+    "code": 83531,
+    "stateCode": 31
+  },
+  {
+    "name": " رباطاقاکمال ",
+    "code": 83561,
+    "stateCode": 31
+  },
+  {
+    "name": " خسرواباد-اصفهان ",
+    "code": 83581,
+    "stateCode": 31
+  },
+  {
+    "name": " مزیک ",
+    "code": 83651,
+    "stateCode": 31
+  },
+  {
+    "name": " مهرجان ",
+    "code": 83661,
+    "stateCode": 31
+  },
+  {
+    "name": " بیاضه ",
+    "code": 83671,
+    "stateCode": 31
+  },
+  {
+    "name": " چوپانان ",
+    "code": 83681,
+    "stateCode": 31
+  },
+  {
+    "name": " بلان ",
+    "code": 83691,
+    "stateCode": 31
+  },
+  {
+    "name": " حسن اباد-اصفهان ",
+    "code": 83791,
+    "stateCode": 31
+  },
+  {
+    "name": " کچومثقال ",
+    "code": 83831,
+    "stateCode": 31
+  },
+  {
+    "name": " ظفرقند ",
+    "code": 83841,
+    "stateCode": 31
+  },
+  {
+    "name": " نهوج ",
+    "code": 83851,
+    "stateCode": 31
+  },
+  {
+    "name": " نیسیان ",
+    "code": 83861,
+    "stateCode": 31
+  },
+  {
+    "name": " ومکان ",
+    "code": 83871,
+    "stateCode": 31
+  },
+  {
+    "name": " همسار ",
+    "code": 83881,
+    "stateCode": 31
+  },
+  {
+    "name": " فسخود ",
+    "code": 83891,
+    "stateCode": 31
+  },
+  {
+    "name": " فوداز ",
+    "code": 83931,
+    "stateCode": 31
+  },
+  {
+    "name": " اشکستان ",
+    "code": 83941,
+    "stateCode": 31
+  },
+  {
+    "name": " کجان ",
+    "code": 83951,
+    "stateCode": 31
+  },
+  {
+    "name": " نیستانک ",
+    "code": 83961,
+    "stateCode": 31
+  },
+  {
+    "name": " تیرانچی ",
+    "code": 84331,
+    "stateCode": 31
+  },
+  {
+    "name": " قلعه امیریه ",
+    "code": 84371,
+    "stateCode": 31
+  },
+  {
+    "name": " درقه ",
+    "code": 84441,
+    "stateCode": 31
+  },
+  {
+    "name": " شهراب-اصفهان ",
+    "code": 84451,
+    "stateCode": 31
+  },
+  {
+    "name": " تورزن ",
+    "code": 84461,
+    "stateCode": 31
+  },
+  {
+    "name": " کریم اباد-اصفهان ",
+    "code": 84471,
+    "stateCode": 31
+  },
+  {
+    "name": " تلک اباد ",
+    "code": 84481,
+    "stateCode": 31
+  },
+  {
+    "name": " موغار ",
+    "code": 84491,
+    "stateCode": 31
+  },
+  {
+    "name": " خوانسارک ",
+    "code": 84531,
+    "stateCode": 31
+  },
+  {
+    "name": " کرسگان ",
+    "code": 84581,
+    "stateCode": 31
+  },
+  {
+    "name": " سهروفیروزان ",
+    "code": 84631,
+    "stateCode": 31
+  },
+  {
+    "name": " زازران ",
+    "code": 84671,
+    "stateCode": 31
+  },
+  {
+    "name": " شرودان ",
+    "code": 84681,
+    "stateCode": 31
+  },
+  {
+    "name": " جوجیل ",
+    "code": 84691,
+    "stateCode": 31
+  },
+  {
+    "name": " نوگوران ",
+    "code": 84771,
+    "stateCode": 31
+  },
+  {
+    "name": " کرچگان ",
+    "code": 84791,
+    "stateCode": 31
+  },
+  {
+    "name": " باغ ملک-اصفهان ",
+    "code": 84851,
+    "stateCode": 31
+  },
+  {
+    "name": " دهسرخ ",
+    "code": 84861,
+    "stateCode": 31
+  },
+  {
+    "name": " پلی اکریل ",
+    "code": 84871,
+    "stateCode": 31
+  },
+  {
+    "name": " فولادمبارکه ",
+    "code": 84881,
+    "stateCode": 31
+  },
+  {
+    "name": " چم نور ",
+    "code": 84951,
+    "stateCode": 31
+  },
+  {
+    "name": " کچوییه ",
+    "code": 84961,
+    "stateCode": 31
+  },
+  {
+    "name": " اشیان ",
+    "code": 84971,
+    "stateCode": 31
+  },
+  {
+    "name": " تاسیسات سدنکواباد ",
+    "code": 84991,
+    "stateCode": 31
+  },
+  {
+    "name": " ورپشت ",
+    "code": 85341,
+    "stateCode": 31
+  },
+  {
+    "name": " عزیزاباد-اصفهان ",
+    "code": 85371,
+    "stateCode": 31
+  },
+  {
+    "name": " میراباد-اصفهان ",
+    "code": 85381,
+    "stateCode": 31
+  },
+  {
+    "name": " حاجی اباد ",
+    "code": 85391,
+    "stateCode": 31
+  },
+  {
+    "name": " خیراباد-اصفهان ",
+    "code": 85441,
+    "stateCode": 31
+  },
+  {
+    "name": " اشن ",
+    "code": 85451,
+    "stateCode": 31
+  },
+  {
+    "name": " خونداب ",
+    "code": 85471,
+    "stateCode": 31
+  },
+  {
+    "name": " حسین اباد-اصفهان ",
+    "code": 85531,
+    "stateCode": 31
+  },
+  {
+    "name": " غرغن ",
+    "code": 85631,
+    "stateCode": 31
+  },
+  {
+    "name": " زرنه-اصفهان ",
+    "code": 85661,
+    "stateCode": 31
+  },
+  {
+    "name": " بلطاق ",
+    "code": 85671,
+    "stateCode": 31
+  },
+  {
+    "name": " کرچ ",
+    "code": 85681,
+    "stateCode": 31
+  },
+  {
+    "name": " قره بلطاق ",
+    "code": 85691,
+    "stateCode": 31
+  },
+  {
+    "name": " سازمان عمران زاینده رود ",
+    "code": 85731,
+    "stateCode": 31
+  },
+  {
+    "name": " مشهدکاوه ",
+    "code": 85741,
+    "stateCode": 31
+  },
+  {
+    "name": " اسکندری ",
+    "code": 85751,
+    "stateCode": 31
+  },
+  {
+    "name": " نهرخلج ",
+    "code": 85771,
+    "stateCode": 31
+  },
+  {
+    "name": " چاه غلامرضارحیمی ",
+    "code": 85781,
+    "stateCode": 31
+  },
+  {
+    "name": " اورگان-اصفهان ",
+    "code": 85791,
+    "stateCode": 31
+  },
+  {
+    "name": " نهضت اباد ",
+    "code": 85931,
+    "stateCode": 31
+  },
+  {
+    "name": " قلعه سرخ ",
+    "code": 85941,
+    "stateCode": 31
+  },
+  {
+    "name": " اسلام ابادموگویی ",
+    "code": 85961,
+    "stateCode": 31
+  },
+  {
+    "name": " مصیر ",
+    "code": 85971,
+    "stateCode": 31
+  },
+  {
+    "name": " قمشلو ",
+    "code": 86331,
+    "stateCode": 31
+  },
+  {
+    "name": " پوده ",
+    "code": 86341,
+    "stateCode": 31
+  },
+  {
+    "name": " مهیار ",
+    "code": 86351,
+    "stateCode": 31
+  },
+  {
+    "name": " پرزان ",
+    "code": 86361,
+    "stateCode": 31
+  },
+  {
+    "name": " منوچهراباد ",
+    "code": 86371,
+    "stateCode": 31
+  },
+  {
+    "name": " شهرک صنایع شیمیایی ر ",
+    "code": 86391,
+    "stateCode": 31
+  },
+  {
+    "name": " همگین ",
+    "code": 86431,
+    "stateCode": 31
+  },
+  {
+    "name": " کهرویه ",
+    "code": 86461,
+    "stateCode": 31
+  },
+  {
+    "name": " قصرچم ",
+    "code": 86471,
+    "stateCode": 31
+  },
+  {
+    "name": " امین اباد ",
+    "code": 86531,
+    "stateCode": 31
+  },
+  {
+    "name": " مقصودبیک ",
+    "code": 86541,
+    "stateCode": 31
+  },
+  {
+    "name": " سولار ",
+    "code": 86551,
+    "stateCode": 31
+  },
+  {
+    "name": " گرموک ",
+    "code": 86631,
+    "stateCode": 31
+  },
+  {
+    "name": " هست ",
+    "code": 86651,
+    "stateCode": 31
+  },
+  {
+    "name": " کهنگان ",
+    "code": 86751,
+    "stateCode": 31
+  },
+  {
+    "name": " مورک ",
+    "code": 86781,
+    "stateCode": 31
+  },
+  {
+    "name": " چهارراه ",
+    "code": 86791,
+    "stateCode": 31
+  },
+  {
+    "name": " ده نسا سفلی ",
+    "code": 86831,
+    "stateCode": 31
+  },
+  {
+    "name": " اغداش ",
+    "code": 86841,
+    "stateCode": 31
+  },
+  {
+    "name": " چشمه رحمان ",
+    "code": 86851,
+    "stateCode": 31
+  },
+  {
+    "name": " ورق ",
+    "code": 86861,
+    "stateCode": 31
+  },
+  {
+    "name": " سعادت اباد ",
+    "code": 86881,
+    "stateCode": 31
+  },
+  {
+    "name": " فتح اباد-اصفهان ",
+    "code": 86891,
+    "stateCode": 31
+  },
+  {
+    "name": " سن سن ",
+    "code": 87331,
+    "stateCode": 31
+  },
+  {
+    "name": " ده زیره ",
+    "code": 87351,
+    "stateCode": 31
+  },
+  {
+    "name": " رحق ",
+    "code": 87361,
+    "stateCode": 31
+  },
+  {
+    "name": " اب شیرین ",
+    "code": 87371,
+    "stateCode": 31
+  },
+  {
+    "name": " نشلج ",
+    "code": 87381,
+    "stateCode": 31
+  },
+  {
+    "name": " مزرعه صدر ",
+    "code": 87441,
+    "stateCode": 31
+  },
+  {
+    "name": " کاغذی ",
+    "code": 87491,
+    "stateCode": 31
+  },
+  {
+    "name": " قهرود ",
+    "code": 87541,
+    "stateCode": 31
+  },
+  {
+    "name": " اسحق اباد-اصفهان ",
+    "code": 87571,
+    "stateCode": 31
+  },
+  {
+    "name": " وادقان ",
+    "code": 87581,
+    "stateCode": 31
+  },
+  {
+    "name": " اذان ",
+    "code": 87591,
+    "stateCode": 31
+  },
+  {
+    "name": " طرق رود ",
+    "code": 87631,
+    "stateCode": 31
+  },
+  {
+    "name": " اریسمان ",
+    "code": 87641,
+    "stateCode": 31
+  },
+  {
+    "name": " ابیانه ",
+    "code": 87651,
+    "stateCode": 31
+  },
+  {
+    "name": " اوره ",
+    "code": 87681,
+    "stateCode": 31
+  },
+  {
+    "name": " ملازجان ",
+    "code": 87731,
+    "stateCode": 31
+  },
+  {
+    "name": " سعیداباد-اصفهان ",
+    "code": 87741,
+    "stateCode": 31
+  },
+  {
+    "name": " مرغ ",
+    "code": 87751,
+    "stateCode": 31
+  },
+  {
+    "name": " قرغن ",
+    "code": 87771,
+    "stateCode": 31
+  },
+  {
+    "name": " کوچری ",
+    "code": 87781,
+    "stateCode": 31
+  },
+  {
+    "name": " کلوچان ",
+    "code": 87831,
+    "stateCode": 31
+  },
+  {
+    "name": " زرنجان ",
+    "code": 87861,
+    "stateCode": 31
+  },
+  {
+    "name": " وانشان ",
+    "code": 87871,
+    "stateCode": 31
+  },
+  {
+    "name": " تیکن ",
+    "code": 87881,
+    "stateCode": 31
+  },
+  {
+    "name": " سنگ سفید ",
+    "code": 87931,
+    "stateCode": 31
+  },
+  {
+    "name": " رحمت اباد ",
+    "code": 87941,
+    "stateCode": 31
+  },
+  {
+    "name": " خم پیچ ",
+    "code": 87951,
+    "stateCode": 31
+  },
+  {
+    "name": " مهراباد ",
+    "code": 87961,
+    "stateCode": 31
+  },
+  {
+    "name": " تیدجان ",
+    "code": 87971,
+    "stateCode": 31
+  },
+  {
+    "name": " خشکرود-اصفهان ",
+    "code": 87981,
+    "stateCode": 31
+  },
+  {
+    "name": " ویست ",
+    "code": 87991,
+    "stateCode": 31
+  },
+  {
+    "name": "اشتهارد",
+    "code": 126,
+    "stateCode": 26
+  },
+  {
+    "name": "آسارا",
+    "code": 127,
+    "stateCode": 26
+  },
+  {
+    "name": "تنكمان",
+    "code": 128,
+    "stateCode": 26
+  },
+  {
+    "name": "چهارباغ",
+    "code": 129,
+    "stateCode": 26
+  },
+  {
+    "name": "سيف آباد",
+    "code": 130,
+    "stateCode": 26
+  },
+  {
+    "name": "شهرجديدهشتگرد",
+    "code": 131,
+    "stateCode": 26
+  },
+  {
+    "name": "طالقان",
+    "code": 132,
+    "stateCode": 26
+  },
+  {
+    "name": "كرج",
+    "code": 133,
+    "stateCode": 26
+  },
+  {
+    "name": "كمال شهر",
+    "code": 134,
+    "stateCode": 26
+  },
+  {
+    "name": "كوهسار",
+    "code": 135,
+    "stateCode": 26
+  },
+  {
+    "name": "گرمدره",
+    "code": 136,
+    "stateCode": 26
+  },
+  {
+    "name": "ماهدشت",
+    "code": 137,
+    "stateCode": 26
+  },
+  {
+    "name": "محمدشهر",
+    "code": 138,
+    "stateCode": 26
+  },
+  {
+    "name": "مشكين دشت",
+    "code": 139,
+    "stateCode": 26
+  },
+  {
+    "name": "نظرآباد",
+    "code": 140,
+    "stateCode": 26
+  },
+  {
+    "name": "هشتگرد",
+    "code": 141,
+    "stateCode": 26
+  },
+  {
+    "name": " ادران ",
+    "code": 31541,
+    "stateCode": 26
+  },
+  {
+    "name": " فردیس ",
+    "code": 31656,
+    "stateCode": 26
+  },
+  {
+    "name": " کرج-(مهرشهر) ",
+    "code": 31836,
+    "stateCode": 26
+  },
+  {
+    "name": " گلسار ",
+    "code": 33611,
+    "stateCode": 26
+  },
+  {
+    "name": "اركواز",
+    "code": 142,
+    "stateCode": 84
+  },
+  {
+    "name": "ايلام",
+    "code": 143,
+    "stateCode": 84
+  },
+  {
+    "name": "ايوان",
+    "code": 144,
+    "stateCode": 84
+  },
+  {
+    "name": "آبدانان",
+    "code": 145,
+    "stateCode": 84
+  },
+  {
+    "name": "آسمان آباد",
+    "code": 146,
+    "stateCode": 84
+  },
+  {
+    "name": "بدره",
+    "code": 147,
+    "stateCode": 84
+  },
+  {
+    "name": "پهله",
+    "code": 148,
+    "stateCode": 84
+  },
+  {
+    "name": "توحيد",
+    "code": 149,
+    "stateCode": 84
+  },
+  {
+    "name": "چوار",
+    "code": 150,
+    "stateCode": 84
+  },
+  {
+    "name": "دره شهر",
+    "code": 151,
+    "stateCode": 84
+  },
+  {
+    "name": "دلگشا",
+    "code": 152,
+    "stateCode": 84
+  },
+  {
+    "name": "دهلران",
+    "code": 153,
+    "stateCode": 84
+  },
+  {
+    "name": "زرنه",
+    "code": 154,
+    "stateCode": 84
+  },
+  {
+    "name": "سراب باغ",
+    "code": 155,
+    "stateCode": 84
+  },
+  {
+    "name": "سرابله",
+    "code": 156,
+    "stateCode": 84
+  },
+  {
+    "name": "صالح آباد",
+    "code": 157,
+    "stateCode": 84
+  },
+  {
+    "name": "لومار",
+    "code": 158,
+    "stateCode": 84
+  },
+  {
+    "name": "مورموري",
+    "code": 159,
+    "stateCode": 84
+  },
+  {
+    "name": "موسيان",
+    "code": 160,
+    "stateCode": 84
+  },
+  {
+    "name": "مهران",
+    "code": 161,
+    "stateCode": 84
+  },
+  {
+    "name": "ميمه",
+    "code": 162,
+    "stateCode": 84
+  },
+  {
+    "name": " سرآبله ",
+    "code": 6951,
+    "stateCode": 84
+  },
+  {
+    "name": " چنارباشی ",
+    "code": 69331,
+    "stateCode": 84
+  },
+  {
+    "name": " بیشه دراز ",
+    "code": 69341,
+    "stateCode": 84
+  },
+  {
+    "name": " چشمه کبود ",
+    "code": 69351,
+    "stateCode": 84
+  },
+  {
+    "name": " بانویزه ",
+    "code": 69371,
+    "stateCode": 84
+  },
+  {
+    "name": " چمن سیدمحمد ",
+    "code": 69381,
+    "stateCode": 84
+  },
+  {
+    "name": " هفت چشمه-ایلام ",
+    "code": 69391,
+    "stateCode": 84
+  },
+  {
+    "name": " شورابه ملک ",
+    "code": 69441,
+    "stateCode": 84
+  },
+  {
+    "name": " کلان ",
+    "code": 69451,
+    "stateCode": 84
+  },
+  {
+    "name": " شباب ",
+    "code": 69511,
+    "stateCode": 84
+  },
+  {
+    "name": " بلاوه تره سفلی ",
+    "code": 69541,
+    "stateCode": 84
+  },
+  {
+    "name": " سراب کارزان ",
+    "code": 69571,
+    "stateCode": 84
+  },
+  {
+    "name": " شهرک سرتنگ ",
+    "code": 69581,
+    "stateCode": 84
+  },
+  {
+    "name": " علی اباد-ایلام ",
+    "code": 69591,
+    "stateCode": 84
+  },
+  {
+    "name": " ماژین ",
+    "code": 69631,
+    "stateCode": 84
+  },
+  {
+    "name": " ارمو ",
+    "code": 69641,
+    "stateCode": 84
+  },
+  {
+    "name": " چشمه شیرین ",
+    "code": 69661,
+    "stateCode": 84
+  },
+  {
+    "name": " شهرک ولیعصر ",
+    "code": 69681,
+    "stateCode": 84
+  },
+  {
+    "name": " گنداب ",
+    "code": 69731,
+    "stateCode": 84
+  },
+  {
+    "name": " ژیور ",
+    "code": 69741,
+    "stateCode": 84
+  },
+  {
+    "name": " سیاه گل ",
+    "code": 69771,
+    "stateCode": 84
+  },
+  {
+    "name": " اب انار ",
+    "code": 69781,
+    "stateCode": 84
+  },
+  {
+    "name": " چم هندی ",
+    "code": 69831,
+    "stateCode": 84
+  },
+  {
+    "name": " گولاب ",
+    "code": 69851,
+    "stateCode": 84
+  },
+  {
+    "name": " عین خوش ",
+    "code": 69881,
+    "stateCode": 84
+  },
+  {
+    "name": " دشت عباس ",
+    "code": 69891,
+    "stateCode": 84
+  },
+  {
+    "name": " شهرک اسلامیه ",
+    "code": 69931,
+    "stateCode": 84
+  },
+  {
+    "name": " مهر-ایلام ",
+    "code": 69972,
+    "stateCode": 84
+  },
+  {
+    "name": " دول کبودخوشادول ",
+    "code": 69981,
+    "stateCode": 84
+  },
+  {
+    "name": " پاریاب ",
+    "code": 69991,
+    "stateCode": 84
+  },
+  {
+    "name": "امام حسن",
+    "code": 260,
+    "stateCode": 77
+  },
+  {
+    "name": "انارستان",
+    "code": 261,
+    "stateCode": 77
+  },
+  {
+    "name": "اهرم",
+    "code": 262,
+    "stateCode": 77
+  },
+  {
+    "name": "آبپخش",
+    "code": 263,
+    "stateCode": 77
+  },
+  {
+    "name": "آبدان",
+    "code": 264,
+    "stateCode": 77
+  },
+  {
+    "name": "برازجان",
+    "code": 265,
+    "stateCode": 77
+  },
+  {
+    "name": "بردخون",
+    "code": 266,
+    "stateCode": 77
+  },
+  {
+    "name": "بردستان",
+    "code": 267,
+    "stateCode": 77
+  },
+  {
+    "name": "بندردير",
+    "code": 268,
+    "stateCode": 77
+  },
+  {
+    "name": "بندرديلم",
+    "code": 269,
+    "stateCode": 77
+  },
+  {
+    "name": "بندرريگ",
+    "code": 270,
+    "stateCode": 77
+  },
+  {
+    "name": "بندركنگان",
+    "code": 271,
+    "stateCode": 77
+  },
+  {
+    "name": "بندرگناوه",
+    "code": 272,
+    "stateCode": 77
+  },
+  {
+    "name": "بنك",
+    "code": 273,
+    "stateCode": 77
+  },
+  {
+    "name": "بوشهر",
+    "code": 274,
+    "stateCode": 77
+  },
+  {
+    "name": "تنگ ارم",
+    "code": 275,
+    "stateCode": 77
+  },
+  {
+    "name": "جم",
+    "code": 276,
+    "stateCode": 77
+  },
+  {
+    "name": "چغادك",
+    "code": 277,
+    "stateCode": 77
+  },
+  {
+    "name": "خارك",
+    "code": 278,
+    "stateCode": 77
+  },
+  {
+    "name": "خورموج",
+    "code": 279,
+    "stateCode": 77
+  },
+  {
+    "name": "دالكي",
+    "code": 280,
+    "stateCode": 77
+  },
+  {
+    "name": "دلوار",
+    "code": 281,
+    "stateCode": 77
+  },
+  {
+    "name": "ريز",
+    "code": 282,
+    "stateCode": 77
+  },
+  {
+    "name": "سعدآباد",
+    "code": 283,
+    "stateCode": 77
+  },
+  {
+    "name": "سيراف",
+    "code": 284,
+    "stateCode": 77
+  },
+  {
+    "name": "شبانكاره",
+    "code": 285,
+    "stateCode": 77
+  },
+  {
+    "name": "شنبه",
+    "code": 286,
+    "stateCode": 77
+  },
+  {
+    "name": "عسلويه",
+    "code": 287,
+    "stateCode": 77
+  },
+  {
+    "name": "كاكي",
+    "code": 288,
+    "stateCode": 77
+  },
+  {
+    "name": "كلمه",
+    "code": 289,
+    "stateCode": 77
+  },
+  {
+    "name": "نخل تقي",
+    "code": 290,
+    "stateCode": 77
+  },
+  {
+    "name": "وحدتيه",
+    "code": 291,
+    "stateCode": 77
+  },
+  {
+    "name": " چهارروستایی ",
+    "code": 75341,
+    "stateCode": 77
+  },
+  {
+    "name": " شول ",
+    "code": 75351,
+    "stateCode": 77
+  },
+  {
+    "name": " بادوله ",
+    "code": 75431,
+    "stateCode": 77
+  },
+  {
+    "name": " بنه گز ",
+    "code": 75481,
+    "stateCode": 77
+  },
+  {
+    "name": " اباد ",
+    "code": 75491,
+    "stateCode": 77
+  },
+  {
+    "name": " ابگرمک ",
+    "code": 75591,
+    "stateCode": 77
+  },
+  {
+    "name": "ارجمند",
+    "code": 292,
+    "stateCode": 21
+  },
+  {
+    "name": "اسلامشهر",
+    "code": 293,
+    "stateCode": 21
+  },
+  {
+    "name": "انديشه",
+    "code": 294,
+    "stateCode": 21
+  },
+  {
+    "name": "آبسرد",
+    "code": 295,
+    "stateCode": 21
+  },
+  {
+    "name": "آبعلي",
+    "code": 296,
+    "stateCode": 21
+  },
+  {
+    "name": "باغستان",
+    "code": 297,
+    "stateCode": 21
+  },
+  {
+    "name": "باقرشهر",
+    "code": 298,
+    "stateCode": 21
+  },
+  {
+    "name": "بومهن",
+    "code": 299,
+    "stateCode": 21
+  },
+  {
+    "name": "پاكدشت",
+    "code": 300,
+    "stateCode": 21
+  },
+  {
+    "name": "پرديس",
+    "code": 301,
+    "stateCode": 21
+  },
+  {
+    "name": "پيشوا",
+    "code": 302,
+    "stateCode": 21
+  },
+  {
+    "name": "تجريش",
+    "code": 303,
+    "stateCode": 21
+  },
+  {
+    "name": "تهران",
+    "code": 304,
+    "stateCode": 21
+  },
+  {
+    "name": "جوادآباد",
+    "code": 305,
+    "stateCode": 21
+  },
+  {
+    "name": "چهاردانگه",
+    "code": 306,
+    "stateCode": 21
+  },
+  {
+    "name": "حسن آباد",
+    "code": 307,
+    "stateCode": 21
+  },
+  {
+    "name": "دماوند",
+    "code": 308,
+    "stateCode": 21
+  },
+  {
+    "name": "رباط كريم",
+    "code": 309,
+    "stateCode": 21
+  },
+  {
+    "name": "رودهن",
+    "code": 310,
+    "stateCode": 21
+  },
+  {
+    "name": "ري",
+    "code": 311,
+    "stateCode": 21
+  },
+  {
+    "name": "شاهدشهر",
+    "code": 312,
+    "stateCode": 21
+  },
+  {
+    "name": "شريف آباد",
+    "code": 313,
+    "stateCode": 21
+  },
+  {
+    "name": "شهريار",
+    "code": 314,
+    "stateCode": 21
+  },
+  {
+    "name": "صالح آباد",
+    "code": 315,
+    "stateCode": 21
+  },
+  {
+    "name": "صباشهر",
+    "code": 316,
+    "stateCode": 21
+  },
+  {
+    "name": "صفادشت",
+    "code": 317,
+    "stateCode": 21
+  },
+  {
+    "name": "فردوسيه",
+    "code": 318,
+    "stateCode": 21
+  },
+  {
+    "name": "فرون آباد",
+    "code": 319,
+    "stateCode": 21
+  },
+  {
+    "name": "فشم",
+    "code": 320,
+    "stateCode": 21
+  },
+  {
+    "name": "فيروزكوه",
+    "code": 321,
+    "stateCode": 21
+  },
+  {
+    "name": "قدس",
+    "code": 322,
+    "stateCode": 21
+  },
+  {
+    "name": "قرچك",
+    "code": 323,
+    "stateCode": 21
+  },
+  {
+    "name": "كهريزك",
+    "code": 324,
+    "stateCode": 21
+  },
+  {
+    "name": "كيلان",
+    "code": 325,
+    "stateCode": 21
+  },
+  {
+    "name": "گلستان",
+    "code": 326,
+    "stateCode": 21
+  },
+  {
+    "name": "لواسان",
+    "code": 327,
+    "stateCode": 21
+  },
+  {
+    "name": "ملارد",
+    "code": 328,
+    "stateCode": 21
+  },
+  {
+    "name": "نسيم شهر",
+    "code": 329,
+    "stateCode": 21
+  },
+  {
+    "name": "نصيرآباد",
+    "code": 330,
+    "stateCode": 21
+  },
+  {
+    "name": "وحيديه",
+    "code": 331,
+    "stateCode": 21
+  },
+  {
+    "name": "ورامين",
+    "code": 332,
+    "stateCode": 21
+  },
+  {
+    "name": " جاجرود(خسروآباد) ",
+    "code": 16531,
+    "stateCode": 21
+  },
+  {
+    "name": " شهرصنعتی خرمدشت ",
+    "code": 16571,
+    "stateCode": 21
+  },
+  {
+    "name": " جعفرابادباقراف ",
+    "code": 18141,
+    "stateCode": 21
+  },
+  {
+    "name": " مرقدامام ره ",
+    "code": 18151,
+    "stateCode": 21
+  },
+  {
+    "name": " طورقوزاباد ",
+    "code": 18171,
+    "stateCode": 21
+  },
+  {
+    "name": " قاسم ابادشوراباد ",
+    "code": 18181,
+    "stateCode": 21
+  },
+  {
+    "name": " قمصر-تهران ",
+    "code": 18191,
+    "stateCode": 21
+  },
+  {
+    "name": " شمس اباد ",
+    "code": 18341,
+    "stateCode": 21
+  },
+  {
+    "name": " ابراهیم اباد-تهران ",
+    "code": 18351,
+    "stateCode": 21
+  },
+  {
+    "name": " چرمشهر ",
+    "code": 18361,
+    "stateCode": 21
+  },
+  {
+    "name": " قلعه محمدعلی خان ",
+    "code": 18371,
+    "stateCode": 21
+  },
+  {
+    "name": " فرودگاه امام خمینی ",
+    "code": 18381,
+    "stateCode": 21
+  },
+  {
+    "name": " وهن اباد ",
+    "code": 18391,
+    "stateCode": 21
+  },
+  {
+    "name": " قلعه نوخالصه ",
+    "code": 18441,
+    "stateCode": 21
+  },
+  {
+    "name": " گل تپه کبیر ",
+    "code": 18451,
+    "stateCode": 21
+  },
+  {
+    "name": " محمودابادپیرزاده ",
+    "code": 18461,
+    "stateCode": 21
+  },
+  {
+    "name": " فرون اباد ",
+    "code": 18471,
+    "stateCode": 21
+  },
+  {
+    "name": " خاورشهر ",
+    "code": 18631,
+    "stateCode": 21
+  },
+  {
+    "name": " اسلام اباد-تهران ",
+    "code": 18641,
+    "stateCode": 21
+  },
+  {
+    "name": " لپه زنگ ",
+    "code": 18651,
+    "stateCode": 21
+  },
+  {
+    "name": " قیامدشت ",
+    "code": 18661,
+    "stateCode": 21
+  },
+  {
+    "name": " خلازیر ",
+    "code": 18986,
+    "stateCode": 21
+  },
+  {
+    "name": " نصیرشهر ",
+    "code": 31130,
+    "stateCode": 21
+  },
+  {
+    "name": " شهرک صنعتی نصیرشهر ",
+    "code": 31133,
+    "stateCode": 21
+  },
+  {
+    "name": " شهرک قلعه میر ",
+    "code": 31136,
+    "stateCode": 21
+  },
+  {
+    "name": " گرمدره-تهران ",
+    "code": 31694,
+    "stateCode": 21
+  },
+  {
+    "name": " احمدابادمستوفی ",
+    "code": 33131,
+    "stateCode": 21
+  },
+  {
+    "name": " فیروزبهرام ",
+    "code": 33141,
+    "stateCode": 21
+  },
+  {
+    "name": " گلدسته ",
+    "code": 33151,
+    "stateCode": 21
+  },
+  {
+    "name": " شاطره ",
+    "code": 33186,
+    "stateCode": 21
+  },
+  {
+    "name": " سعیدآباد ",
+    "code": 33361,
+    "stateCode": 21
+  },
+  {
+    "name": " لواسان بزرگ ",
+    "code": 33461,
+    "stateCode": 21
+  },
+  {
+    "name": " لم اباد ",
+    "code": 33591,
+    "stateCode": 21
+  },
+  {
+    "name": " قلعه سین ",
+    "code": 33711,
+    "stateCode": 21
+  },
+  {
+    "name": " عسگرابادعباسی ",
+    "code": 33741,
+    "stateCode": 21
+  },
+  {
+    "name": " دهماسین ",
+    "code": 33751,
+    "stateCode": 21
+  },
+  {
+    "name": " باغخواص ",
+    "code": 33761,
+    "stateCode": 21
+  },
+  {
+    "name": " ایجدان ",
+    "code": 33771,
+    "stateCode": 21
+  },
+  {
+    "name": " ابباریک ",
+    "code": 33781,
+    "stateCode": 21
+  },
+  {
+    "name": " خاوه ",
+    "code": 33841,
+    "stateCode": 21
+  },
+  {
+    "name": " جلیل اباد ",
+    "code": 33861,
+    "stateCode": 21
+  },
+  {
+    "name": " کریم اباد-تهران ",
+    "code": 33871,
+    "stateCode": 21
+  },
+  {
+    "name": " قلعه خواجه-تهران ",
+    "code": 33881,
+    "stateCode": 21
+  },
+  {
+    "name": " شهرک عباس آباد ",
+    "code": 33930,
+    "stateCode": 21
+  },
+  {
+    "name": " داوداباد ",
+    "code": 33931,
+    "stateCode": 21
+  },
+  {
+    "name": " پارچین ",
+    "code": 33971,
+    "stateCode": 21
+  },
+  {
+    "name": " حصارامیر ",
+    "code": 33981,
+    "stateCode": 21
+  },
+  {
+    "name": " خاتون اباد-تهران ",
+    "code": 33991,
+    "stateCode": 21
+  },
+  {
+    "name": " گلستان (تهران) ",
+    "code": 37571,
+    "stateCode": 21
+  },
+  {
+    "name": " کلمه-تهران ",
+    "code": 37581,
+    "stateCode": 21
+  },
+  {
+    "name": " پرند ",
+    "code": 37611,
+    "stateCode": 21
+  },
+  {
+    "name": " شهر صنعتی پرند ",
+    "code": 37614,
+    "stateCode": 21
+  },
+  {
+    "name": " سلطان اباد-تهران ",
+    "code": 37631,
+    "stateCode": 21
+  },
+  {
+    "name": " حصارک پایین ",
+    "code": 37650,
+    "stateCode": 21
+  },
+  {
+    "name": " حصارک بالا ",
+    "code": 37652,
+    "stateCode": 21
+  },
+  {
+    "name": " سبزدشت ",
+    "code": 37653,
+    "stateCode": 21
+  },
+  {
+    "name": " بهارستان ",
+    "code": 37654,
+    "stateCode": 21
+  },
+  {
+    "name": " احمدآبادجانسپار ",
+    "code": 37656,
+    "stateCode": 21
+  },
+  {
+    "name": " اسماعیل آباد ",
+    "code": 37661,
+    "stateCode": 21
+  },
+  {
+    "name": " جابان ",
+    "code": 39720,
+    "stateCode": 21
+  },
+  {
+    "name": " سربندان ",
+    "code": 39771,
+    "stateCode": 21
+  },
+  {
+    "name": " مهرآباد ",
+    "code": 39780,
+    "stateCode": 21
+  },
+  {
+    "name": " مشا ",
+    "code": 39781,
+    "stateCode": 21
+  },
+  {
+    "name": " مرا ",
+    "code": 39791,
+    "stateCode": 21
+  },
+  {
+    "name": " هرانده ",
+    "code": 39811,
+    "stateCode": 21
+  },
+  {
+    "name": " درده ",
+    "code": 39831,
+    "stateCode": 21
+  },
+  {
+    "name": " حصاربن ",
+    "code": 39841,
+    "stateCode": 21
+  },
+  {
+    "name": " امیریه-تهران ",
+    "code": 39861,
+    "stateCode": 21
+  },
+  {
+    "name": "اردل",
+    "code": 333,
+    "stateCode": 38
+  },
+  {
+    "name": "آلوني",
+    "code": 334,
+    "stateCode": 38
+  },
+  {
+    "name": "باباحيدر",
+    "code": 335,
+    "stateCode": 38
+  },
+  {
+    "name": "بروجن",
+    "code": 336,
+    "stateCode": 38
+  },
+  {
+    "name": "بلداجي",
+    "code": 337,
+    "stateCode": 38
+  },
+  {
+    "name": "بن",
+    "code": 338,
+    "stateCode": 38
+  },
+  {
+    "name": "جونقان",
+    "code": 339,
+    "stateCode": 38
+  },
+  {
+    "name": "چلگرد",
+    "code": 340,
+    "stateCode": 38
+  },
+  {
+    "name": "سامان",
+    "code": 341,
+    "stateCode": 38
+  },
+  {
+    "name": "سفيددشت",
+    "code": 342,
+    "stateCode": 38
+  },
+  {
+    "name": "سودجان",
+    "code": 343,
+    "stateCode": 38
+  },
+  {
+    "name": "سورشجان",
+    "code": 344,
+    "stateCode": 38
+  },
+  {
+    "name": "شلمزار",
+    "code": 345,
+    "stateCode": 38
+  },
+  {
+    "name": "شهركرد",
+    "code": 346,
+    "stateCode": 38
+  },
+  {
+    "name": "طاقانك",
+    "code": 347,
+    "stateCode": 38
+  },
+  {
+    "name": "فارسان",
+    "code": 348,
+    "stateCode": 38
+  },
+  {
+    "name": "فرادنبه",
+    "code": 349,
+    "stateCode": 38
+  },
+  {
+    "name": "فرخ شهر",
+    "code": 350,
+    "stateCode": 38
+  },
+  {
+    "name": "كيان",
+    "code": 351,
+    "stateCode": 38
+  },
+  {
+    "name": "گندمان",
+    "code": 352,
+    "stateCode": 38
+  },
+  {
+    "name": "گهرو",
+    "code": 353,
+    "stateCode": 38
+  },
+  {
+    "name": "لردگان",
+    "code": 354,
+    "stateCode": 38
+  },
+  {
+    "name": "مال خليفه",
+    "code": 355,
+    "stateCode": 38
+  },
+  {
+    "name": "ناغان",
+    "code": 356,
+    "stateCode": 38
+  },
+  {
+    "name": "نافچ",
+    "code": 357,
+    "stateCode": 38
+  },
+  {
+    "name": "نقنه",
+    "code": 358,
+    "stateCode": 38
+  },
+  {
+    "name": "هفشجان",
+    "code": 359,
+    "stateCode": 38
+  },
+  {
+    "name": " دزک ",
+    "code": 8834,
+    "stateCode": 38
+  },
+  {
+    "name": " هارونی ",
+    "code": 8844,
+    "stateCode": 38
+  },
+  {
+    "name": " سامان-چهارمحال و بختیاری ",
+    "code": 8851,
+    "stateCode": 38
+  },
+  {
+    "name": " خراجی ",
+    "code": 88351,
+    "stateCode": 38
+  },
+  {
+    "name": " دستناء ",
+    "code": 88361,
+    "stateCode": 38
+  },
+  {
+    "name": " مرغملک ",
+    "code": 88451,
+    "stateCode": 38
+  },
+  {
+    "name": " وردنجان ",
+    "code": 88571,
+    "stateCode": 38
+  },
+  {
+    "name": " پردنجان ",
+    "code": 88591,
+    "stateCode": 38
+  },
+  {
+    "name": " شهریاری ",
+    "code": 88661,
+    "stateCode": 38
+  },
+  {
+    "name": " اورگان-چهارمحال و بختیاری ",
+    "code": 88771,
+    "stateCode": 38
+  },
+  {
+    "name": " امام قیس ",
+    "code": 88791,
+    "stateCode": 38
+  },
+  {
+    "name": " گل سفید ",
+    "code": 88841,
+    "stateCode": 38
+  },
+  {
+    "name": " چوله دان ",
+    "code": 88861,
+    "stateCode": 38
+  },
+  {
+    "name": " دشتک ",
+    "code": 88881,
+    "stateCode": 38
+  },
+  {
+    "name": " چمن بید ",
+    "code": 88961,
+    "stateCode": 38
+  },
+  {
+    "name": " سردشت-چهارمحال و بختیاری ",
+    "code": 88971,
+    "stateCode": 38
+  },
+  {
+    "name": " منج ",
+    "code": 88991,
+    "stateCode": 38
+  },
+  {
+    "name": "ارسك",
+    "code": 360,
+    "stateCode": 56
+  },
+  {
+    "name": "اسديه",
+    "code": 361,
+    "stateCode": 56
+  },
+  {
+    "name": "اسفدن",
+    "code": 362,
+    "stateCode": 56
+  },
+  {
+    "name": "اسلاميه",
+    "code": 363,
+    "stateCode": 56
+  },
+  {
+    "name": "آرين شهر",
+    "code": 364,
+    "stateCode": 56
+  },
+  {
+    "name": "آيسك",
+    "code": 365,
+    "stateCode": 56
+  },
+  {
+    "name": "بشرويه",
+    "code": 366,
+    "stateCode": 56
+  },
+  {
+    "name": "بيرجند",
+    "code": 367,
+    "stateCode": 56
+  },
+  {
+    "name": "حاجي آباد",
+    "code": 368,
+    "stateCode": 56
+  },
+  {
+    "name": "خضري دشت بياض",
+    "code": 369,
+    "stateCode": 56
+  },
+  {
+    "name": "خوسف",
+    "code": 370,
+    "stateCode": 56
+  },
+  {
+    "name": "زهان",
+    "code": 371,
+    "stateCode": 56
+  },
+  {
+    "name": "سرايان",
+    "code": 372,
+    "stateCode": 56
+  },
+  {
+    "name": "سربيشه",
+    "code": 373,
+    "stateCode": 56
+  },
+  {
+    "name": "سه قلعه",
+    "code": 374,
+    "stateCode": 56
+  },
+  {
+    "name": "شوسف",
+    "code": 375,
+    "stateCode": 56
+  },
+  {
+    "name": "طبس مسينا",
+    "code": 376,
+    "stateCode": 56
+  },
+  {
+    "name": "فردوس",
+    "code": 377,
+    "stateCode": 56
+  },
+  {
+    "name": "قائن",
+    "code": 378,
+    "stateCode": 56
+  },
+  {
+    "name": "قهستان",
+    "code": 379,
+    "stateCode": 56
+  },
+  {
+    "name": "گزيك",
+    "code": 380,
+    "stateCode": 56
+  },
+  {
+    "name": "محمدشهر",
+    "code": 381,
+    "stateCode": 56
+  },
+  {
+    "name": "مود",
+    "code": 382,
+    "stateCode": 56
+  },
+  {
+    "name": "نهبندان",
+    "code": 383,
+    "stateCode": 56
+  },
+  {
+    "name": "نيمبلوك",
+    "code": 384,
+    "stateCode": 56
+  },
+  {
+    "name": " سربیشه-خراسان جنوبی ",
+    "code": 9741,
+    "stateCode": 56
+  },
+  {
+    "name": " قاین ",
+    "code": 9761,
+    "stateCode": 56
+  },
+  {
+    "name": " طبس ",
+    "code": 9791,
+    "stateCode": 56
+  },
+  {
+    "name": " محمدشهر-خراسان جنوبی ",
+    "code": 97350,
+    "stateCode": 56
+  },
+  {
+    "name": " اسفدن-خراسان جنوبی ",
+    "code": 97591,
+    "stateCode": 56
+  },
+  {
+    "name": " بیهود ",
+    "code": 97641,
+    "stateCode": 56
+  },
+  {
+    "name": " حاجی آباد-خراسان جنوبی ",
+    "code": 97671,
+    "stateCode": 56
+  },
+  {
+    "name": " اسفدن-خراسان جنوبی ",
+    "code": 97690,
+    "stateCode": 56
+  },
+  {
+    "name": " دیهوک ",
+    "code": 97931,
+    "stateCode": 56
+  },
+  {
+    "name": " عشق آباد-خراسان جنوبی ",
+    "code": 97981,
+    "stateCode": 56
+  },
+  {
+    "name": " گزو ",
+    "code": 97991,
+    "stateCode": 56
+  },
+  {
+    "name": "احمدآبادصولت",
+    "code": 385,
+    "stateCode": 51
+  },
+  {
+    "name": "انابد",
+    "code": 386,
+    "stateCode": 51
+  },
+  {
+    "name": "باجگيران",
+    "code": 387,
+    "stateCode": 51
+  },
+  {
+    "name": "باخرز",
+    "code": 388,
+    "stateCode": 51
+  },
+  {
+    "name": "بار",
+    "code": 389,
+    "stateCode": 51
+  },
+  {
+    "name": "بايگ",
+    "code": 390,
+    "stateCode": 51
+  },
+  {
+    "name": "بجستان",
+    "code": 391,
+    "stateCode": 51
+  },
+  {
+    "name": "بردسكن",
+    "code": 392,
+    "stateCode": 51
+  },
+  {
+    "name": "بيدخت",
+    "code": 393,
+    "stateCode": 51
+  },
+  {
+    "name": "تايباد",
+    "code": 394,
+    "stateCode": 51
+  },
+  {
+    "name": "تربت جام",
+    "code": 395,
+    "stateCode": 51
+  },
+  {
+    "name": "تربت حيدريه",
+    "code": 396,
+    "stateCode": 51
+  },
+  {
+    "name": "جغتاي",
+    "code": 397,
+    "stateCode": 51
+  },
+  {
+    "name": "جنگل",
+    "code": 398,
+    "stateCode": 51
+  },
+  {
+    "name": "چاپشلو",
+    "code": 399,
+    "stateCode": 51
+  },
+  {
+    "name": "چكنه",
+    "code": 400,
+    "stateCode": 51
+  },
+  {
+    "name": "چناران",
+    "code": 401,
+    "stateCode": 51
+  },
+  {
+    "name": "خرو",
+    "code": 402,
+    "stateCode": 51
+  },
+  {
+    "name": "خليل آباد",
+    "code": 403,
+    "stateCode": 51
+  },
+  {
+    "name": "خواف",
+    "code": 404,
+    "stateCode": 51
+  },
+  {
+    "name": "داورزن",
+    "code": 405,
+    "stateCode": 51
+  },
+  {
+    "name": "درگز",
+    "code": 406,
+    "stateCode": 51
+  },
+  {
+    "name": "درود",
+    "code": 407,
+    "stateCode": 51
+  },
+  {
+    "name": "دولت آباد",
+    "code": 408,
+    "stateCode": 51
+  },
+  {
+    "name": "رباط سنگ",
+    "code": 409,
+    "stateCode": 51
+  },
+  {
+    "name": "رشتخوار",
+    "code": 410,
+    "stateCode": 51
+  },
+  {
+    "name": "رضويه",
+    "code": 411,
+    "stateCode": 51
+  },
+  {
+    "name": "روداب",
+    "code": 412,
+    "stateCode": 51
+  },
+  {
+    "name": "ريوش",
+    "code": 413,
+    "stateCode": 51
+  },
+  {
+    "name": "سبزوار",
+    "code": 414,
+    "stateCode": 51
+  },
+  {
+    "name": "سرخس",
+    "code": 415,
+    "stateCode": 51
+  },
+  {
+    "name": "سفيدسنگ",
+    "code": 416,
+    "stateCode": 51
+  },
+  {
+    "name": "سلامي",
+    "code": 417,
+    "stateCode": 51
+  },
+  {
+    "name": "سلطان آباد",
+    "code": 418,
+    "stateCode": 51
+  },
+  {
+    "name": "سنگان",
+    "code": 419,
+    "stateCode": 51
+  },
+  {
+    "name": "شادمهر",
+    "code": 420,
+    "stateCode": 51
+  },
+  {
+    "name": "شانديز",
+    "code": 421,
+    "stateCode": 51
+  },
+  {
+    "name": "ششتمد",
+    "code": 422,
+    "stateCode": 51
+  },
+  {
+    "name": "شهرآباد",
+    "code": 423,
+    "stateCode": 51
+  },
+  {
+    "name": "شهرزو",
+    "code": 424,
+    "stateCode": 51
+  },
+  {
+    "name": "صالح آباد",
+    "code": 425,
+    "stateCode": 51
+  },
+  {
+    "name": "طرقبه",
+    "code": 426,
+    "stateCode": 51
+  },
+  {
+    "name": "عشق آباد",
+    "code": 427,
+    "stateCode": 51
+  },
+  {
+    "name": "فرهادگرد",
+    "code": 428,
+    "stateCode": 51
+  },
+  {
+    "name": "فريمان",
+    "code": 429,
+    "stateCode": 51
+  },
+  {
+    "name": "فيروزه",
+    "code": 430,
+    "stateCode": 51
+  },
+  {
+    "name": "فيض آباد",
+    "code": 431,
+    "stateCode": 51
+  },
+  {
+    "name": "قاسم آباد",
+    "code": 432,
+    "stateCode": 51
+  },
+  {
+    "name": "قدمگاه",
+    "code": 433,
+    "stateCode": 51
+  },
+  {
+    "name": "قلندرآباد",
+    "code": 434,
+    "stateCode": 51
+  },
+  {
+    "name": "قوچان",
+    "code": 435,
+    "stateCode": 51
+  },
+  {
+    "name": "كاخك",
+    "code": 436,
+    "stateCode": 51
+  },
+  {
+    "name": "كاريز",
+    "code": 437,
+    "stateCode": 51
+  },
+  {
+    "name": "كاشمر",
+    "code": 438,
+    "stateCode": 51
+  },
+  {
+    "name": "كدكن",
+    "code": 439,
+    "stateCode": 51
+  },
+  {
+    "name": "كلات",
+    "code": 440,
+    "stateCode": 51
+  },
+  {
+    "name": "كندر",
+    "code": 441,
+    "stateCode": 51
+  },
+  {
+    "name": "گلمكان",
+    "code": 442,
+    "stateCode": 51
+  },
+  {
+    "name": "گناباد",
+    "code": 443,
+    "stateCode": 51
+  },
+  {
+    "name": "لطف آباد",
+    "code": 444,
+    "stateCode": 51
+  },
+  {
+    "name": "مزدآوند",
+    "code": 445,
+    "stateCode": 51
+  },
+  {
+    "name": "مشهد",
+    "code": 446,
+    "stateCode": 51
+  },
+  {
+    "name": "مشهدريزه",
+    "code": 447,
+    "stateCode": 51
+  },
+  {
+    "name": "ملك آباد",
+    "code": 448,
+    "stateCode": 51
+  },
+  {
+    "name": "نشتيفان",
+    "code": 449,
+    "stateCode": 51
+  },
+  {
+    "name": "نصرآباد",
+    "code": 450,
+    "stateCode": 51
+  },
+  {
+    "name": "نقاب",
+    "code": 451,
+    "stateCode": 51
+  },
+  {
+    "name": "نوخندان",
+    "code": 452,
+    "stateCode": 51
+  },
+  {
+    "name": "نيشابور",
+    "code": 453,
+    "stateCode": 51
+  },
+  {
+    "name": "نيل شهر",
+    "code": 454,
+    "stateCode": 51
+  },
+  {
+    "name": "همت آباد",
+    "code": 455,
+    "stateCode": 51
+  },
+  {
+    "name": "يونسي",
+    "code": 456,
+    "stateCode": 51
+  },
+  {
+    "name": " صالح آباد-خراسان رضوی ",
+    "code": 9581,
+    "stateCode": 51
+  },
+  {
+    "name": " شوراب ",
+    "code": 93331,
+    "stateCode": 51
+  },
+  {
+    "name": " گلبوی پایین ",
+    "code": 93341,
+    "stateCode": 51
+  },
+  {
+    "name": " مبارکه-خراسان رضوی ",
+    "code": 93351,
+    "stateCode": 51
+  },
+  {
+    "name": " برزنون ",
+    "code": 93371,
+    "stateCode": 51
+  },
+  {
+    "name": " فدیشه ",
+    "code": 93381,
+    "stateCode": 51
+  },
+  {
+    "name": " میراباد-خراسان رضوی ",
+    "code": 93431,
+    "stateCode": 51
+  },
+  {
+    "name": " فرخک ",
+    "code": 93441,
+    "stateCode": 51
+  },
+  {
+    "name": " قدمگاه-خراسان رضوی ",
+    "code": 93461,
+    "stateCode": 51
+  },
+  {
+    "name": " اسحق اباد-خراسان رضوی ",
+    "code": 93471,
+    "stateCode": 51
+  },
+  {
+    "name": " خوجان ",
+    "code": 93481,
+    "stateCode": 51
+  },
+  {
+    "name": " عشق آباد-خراسان رضوی ",
+    "code": 93491,
+    "stateCode": 51
+  },
+  {
+    "name": " کورده ",
+    "code": 93551,
+    "stateCode": 51
+  },
+  {
+    "name": " طوس سفلی ",
+    "code": 93571,
+    "stateCode": 51
+  },
+  {
+    "name": " قرقی سفلی (شهیدکاوه ) ",
+    "code": 93581,
+    "stateCode": 51
+  },
+  {
+    "name": " کنه بیست ",
+    "code": 93591,
+    "stateCode": 51
+  },
+  {
+    "name": " رادکان ",
+    "code": 93631,
+    "stateCode": 51
+  },
+  {
+    "name": " سیداباد-خراسان رضوی ",
+    "code": 93641,
+    "stateCode": 51
+  },
+  {
+    "name": " گلبهار ",
+    "code": 93651,
+    "stateCode": 51
+  },
+  {
+    "name": " سلوگرد ",
+    "code": 93661,
+    "stateCode": 51
+  },
+  {
+    "name": " ارداک ",
+    "code": 93671,
+    "stateCode": 51
+  },
+  {
+    "name": " بقمج ",
+    "code": 93681,
+    "stateCode": 51
+  },
+  {
+    "name": " میامی-خراسان رضوی ",
+    "code": 93741,
+    "stateCode": 51
+  },
+  {
+    "name": " چاهک ",
+    "code": 93751,
+    "stateCode": 51
+  },
+  {
+    "name": " گوش ",
+    "code": 93771,
+    "stateCode": 51
+  },
+  {
+    "name": " نریمانی سفلی ",
+    "code": 93781,
+    "stateCode": 51
+  },
+  {
+    "name": " تقی اباد-خراسان رضوی ",
+    "code": 93791,
+    "stateCode": 51
+  },
+  {
+    "name": " کچولی ",
+    "code": 93831,
+    "stateCode": 51
+  },
+  {
+    "name": " شیرتپه ",
+    "code": 93841,
+    "stateCode": 51
+  },
+  {
+    "name": " پس کمر ",
+    "code": 93851,
+    "stateCode": 51
+  },
+  {
+    "name": " بزنگان ",
+    "code": 93871,
+    "stateCode": 51
+  },
+  {
+    "name": " گنبدلی ",
+    "code": 93881,
+    "stateCode": 51
+  },
+  {
+    "name": " کندک لی ",
+    "code": 93891,
+    "stateCode": 51
+  },
+  {
+    "name": " کته شمشیرسفلی ",
+    "code": 93931,
+    "stateCode": 51
+  },
+  {
+    "name": " سنگ بست ",
+    "code": 93941,
+    "stateCode": 51
+  },
+  {
+    "name": " زرکک ",
+    "code": 93981,
+    "stateCode": 51
+  },
+  {
+    "name": " شهرکهنه ",
+    "code": 94731,
+    "stateCode": 51
+  },
+  {
+    "name": " قریه شرف ",
+    "code": 94741,
+    "stateCode": 51
+  },
+  {
+    "name": " یدک ",
+    "code": 94751,
+    "stateCode": 51
+  },
+  {
+    "name": " دیزادیز ",
+    "code": 94761,
+    "stateCode": 51
+  },
+  {
+    "name": " شفیع ",
+    "code": 94781,
+    "stateCode": 51
+  },
+  {
+    "name": " دوغایی ",
+    "code": 94791,
+    "stateCode": 51
+  },
+  {
+    "name": " جوزان-خراسان رضوی ",
+    "code": 94841,
+    "stateCode": 51
+  },
+  {
+    "name": " امامقلی ",
+    "code": 94851,
+    "stateCode": 51
+  },
+  {
+    "name": " حسن ابادلایین نو ",
+    "code": 94931,
+    "stateCode": 51
+  },
+  {
+    "name": " کپکان ",
+    "code": 94951,
+    "stateCode": 51
+  },
+  {
+    "name": " شهرک زیندانلو ",
+    "code": 94981,
+    "stateCode": 51
+  },
+  {
+    "name": " محمدتقی ",
+    "code": 94991,
+    "stateCode": 51
+  },
+  {
+    "name": " سیوکی ",
+    "code": 95341,
+    "stateCode": 51
+  },
+  {
+    "name": " مهنه ",
+    "code": 95351,
+    "stateCode": 51
+  },
+  {
+    "name": " عبدل اباد ",
+    "code": 95361,
+    "stateCode": 51
+  },
+  {
+    "name": " بایک ",
+    "code": 95391,
+    "stateCode": 51
+  },
+  {
+    "name": " چخماق ",
+    "code": 95431,
+    "stateCode": 51
+  },
+  {
+    "name": " قلعه اقاحسن ",
+    "code": 95441,
+    "stateCode": 51
+  },
+  {
+    "name": " زرغری ",
+    "code": 95461,
+    "stateCode": 51
+  },
+  {
+    "name": " باسفر ",
+    "code": 95481,
+    "stateCode": 51
+  },
+  {
+    "name": " دولت آباد-خراسان رضوی ",
+    "code": 95491,
+    "stateCode": 51
+  },
+  {
+    "name": " یک لنگی علیا ",
+    "code": 95531,
+    "stateCode": 51
+  },
+  {
+    "name": " کامه سفلی ",
+    "code": 95541,
+    "stateCode": 51
+  },
+  {
+    "name": " رودخانه ",
+    "code": 95561,
+    "stateCode": 51
+  },
+  {
+    "name": " اسداباد-خراسان رضوی ",
+    "code": 95581,
+    "stateCode": 51
+  },
+  {
+    "name": " نصر ",
+    "code": 95591,
+    "stateCode": 51
+  },
+  {
+    "name": " سنگان-خراسان رضوی ",
+    "code": 95641,
+    "stateCode": 51
+  },
+  {
+    "name": " مژن اباد ",
+    "code": 95651,
+    "stateCode": 51
+  },
+  {
+    "name": " چمن اباد ",
+    "code": 95671,
+    "stateCode": 51
+  },
+  {
+    "name": " حسن اباد-خراسان رضوی ",
+    "code": 95681,
+    "stateCode": 51
+  },
+  {
+    "name": " چشمه گل ",
+    "code": 95731,
+    "stateCode": 51
+  },
+  {
+    "name": " نصرآباد-خراسان رضوی ",
+    "code": 95771,
+    "stateCode": 51
+  },
+  {
+    "name": " ابدال اباد ",
+    "code": 95781,
+    "stateCode": 51
+  },
+  {
+    "name": " کاریزنو ",
+    "code": 95791,
+    "stateCode": 51
+  },
+  {
+    "name": " درزاب ",
+    "code": 95831,
+    "stateCode": 51
+  },
+  {
+    "name": " محموداباد-خراسان رضوی ",
+    "code": 95841,
+    "stateCode": 51
+  },
+  {
+    "name": " یاقوتین جدید ",
+    "code": 95851,
+    "stateCode": 51
+  },
+  {
+    "name": " جنت اباد-خراسان رضوی ",
+    "code": 95861,
+    "stateCode": 51
+  },
+  {
+    "name": " موسی اباد-خراسان رضوی ",
+    "code": 95871,
+    "stateCode": 51
+  },
+  {
+    "name": " بنی تاک ",
+    "code": 95881,
+    "stateCode": 51
+  },
+  {
+    "name": " ازاده ",
+    "code": 95891,
+    "stateCode": 51
+  },
+  {
+    "name": " دوقارون ",
+    "code": 95941,
+    "stateCode": 51
+  },
+  {
+    "name": " کرات ",
+    "code": 95951,
+    "stateCode": 51
+  },
+  {
+    "name": " قلعه نو-خراسان رضوی ",
+    "code": 95981,
+    "stateCode": 51
+  },
+  {
+    "name": " کوه سفید ",
+    "code": 95991,
+    "stateCode": 51
+  },
+  {
+    "name": " مهر-خراسان رضوی ",
+    "code": 96331,
+    "stateCode": 51
+  },
+  {
+    "name": " رباطسرپوشی ",
+    "code": 96341,
+    "stateCode": 51
+  },
+  {
+    "name": " مشکان-خراسان رضوی ",
+    "code": 96351,
+    "stateCode": 51
+  },
+  {
+    "name": " نامن ",
+    "code": 96361,
+    "stateCode": 51
+  },
+  {
+    "name": " مزینان ",
+    "code": 96391,
+    "stateCode": 51
+  },
+  {
+    "name": " دستوران ",
+    "code": 96431,
+    "stateCode": 51
+  },
+  {
+    "name": " ازادوار ",
+    "code": 96441,
+    "stateCode": 51
+  },
+  {
+    "name": " راه چمن ",
+    "code": 96451,
+    "stateCode": 51
+  },
+  {
+    "name": " انداده ",
+    "code": 96461,
+    "stateCode": 51
+  },
+  {
+    "name": " حکم اباد ",
+    "code": 96481,
+    "stateCode": 51
+  },
+  {
+    "name": " برغمد ",
+    "code": 96491,
+    "stateCode": 51
+  },
+  {
+    "name": " بلاشی اباد ",
+    "code": 96531,
+    "stateCode": 51
+  },
+  {
+    "name": " نوده انقلاب ",
+    "code": 96541,
+    "stateCode": 51
+  },
+  {
+    "name": " رباطجز ",
+    "code": 96551,
+    "stateCode": 51
+  },
+  {
+    "name": " سلطان آباد-خراسان رضوی ",
+    "code": 96561,
+    "stateCode": 51
+  },
+  {
+    "name": " شامکان ",
+    "code": 96571,
+    "stateCode": 51
+  },
+  {
+    "name": " تندک ",
+    "code": 96581,
+    "stateCode": 51
+  },
+  {
+    "name": " اوندر ",
+    "code": 96731,
+    "stateCode": 51
+  },
+  {
+    "name": " دهنو-خراسان رضوی ",
+    "code": 96751,
+    "stateCode": 51
+  },
+  {
+    "name": " فدافن ",
+    "code": 96761,
+    "stateCode": 51
+  },
+  {
+    "name": " بندقرا ",
+    "code": 96791,
+    "stateCode": 51
+  },
+  {
+    "name": " کاسف ",
+    "code": 96831,
+    "stateCode": 51
+  },
+  {
+    "name": " کبودان ",
+    "code": 96841,
+    "stateCode": 51
+  },
+  {
+    "name": " شفیع اباد ",
+    "code": 96851,
+    "stateCode": 51
+  },
+  {
+    "name": " رکن اباد ",
+    "code": 96861,
+    "stateCode": 51
+  },
+  {
+    "name": " درونه ",
+    "code": 96891,
+    "stateCode": 51
+  },
+  {
+    "name": " گیسوربالا ",
+    "code": 96951,
+    "stateCode": 51
+  },
+  {
+    "name": " زیبد ",
+    "code": 96971,
+    "stateCode": 51
+  },
+  {
+    "name": " جزین ",
+    "code": 96991,
+    "stateCode": 51
+  },
+  {
+    "name": "اسفراين",
+    "code": 457,
+    "stateCode": 58
+  },
+  {
+    "name": "ايور",
+    "code": 458,
+    "stateCode": 58
+  },
+  {
+    "name": "آشخانه",
+    "code": 459,
+    "stateCode": 58
+  },
+  {
+    "name": "بجنورد",
+    "code": 460,
+    "stateCode": 58
+  },
+  {
+    "name": "پيش قلعه",
+    "code": 461,
+    "stateCode": 58
+  },
+  {
+    "name": "تيتكانلو",
+    "code": 462,
+    "stateCode": 58
+  },
+  {
+    "name": "جاجرم",
+    "code": 463,
+    "stateCode": 58
+  },
+  {
+    "name": "حصارگرمخان",
+    "code": 464,
+    "stateCode": 58
+  },
+  {
+    "name": "درق",
+    "code": 465,
+    "stateCode": 58
+  },
+  {
+    "name": "راز",
+    "code": 466,
+    "stateCode": 58
+  },
+  {
+    "name": "سنخواست",
+    "code": 467,
+    "stateCode": 58
+  },
+  {
+    "name": "شوقان",
+    "code": 468,
+    "stateCode": 58
+  },
+  {
+    "name": "شيروان",
+    "code": 469,
+    "stateCode": 58
+  },
+  {
+    "name": "صفي آباد",
+    "code": 470,
+    "stateCode": 58
+  },
+  {
+    "name": "فاروج",
+    "code": 471,
+    "stateCode": 58
+  },
+  {
+    "name": "قاضي",
+    "code": 472,
+    "stateCode": 58
+  },
+  {
+    "name": "گرمه",
+    "code": 473,
+    "stateCode": 58
+  },
+  {
+    "name": "لوجلي",
+    "code": 474,
+    "stateCode": 58
+  },
+  {
+    "name": " دوین ",
+    "code": 94651,
+    "stateCode": 58
+  },
+  {
+    "name": " زیارت ",
+    "code": 94681,
+    "stateCode": 58
+  },
+  {
+    "name": " رباط-خراسان شمالی ",
+    "code": 94691,
+    "stateCode": 58
+  },
+  {
+    "name": " خرق ",
+    "code": 94891,
+    "stateCode": 58
+  },
+  {
+    "name": " صفی آباد-خراسان شمالی ",
+    "code": 96651,
+    "stateCode": 58
+  },
+  {
+    "name": " رزق اباد ",
+    "code": 96671,
+    "stateCode": 58
+  },
+  {
+    "name": " رویینی ",
+    "code": 96691,
+    "stateCode": 58
+  },
+  {
+    "name": "اروندكنار",
+    "code": 475,
+    "stateCode": 61
+  },
+  {
+    "name": "الوان",
+    "code": 476,
+    "stateCode": 61
+  },
+  {
+    "name": "اميديه",
+    "code": 477,
+    "stateCode": 61
+  },
+  {
+    "name": "انديمشك",
+    "code": 478,
+    "stateCode": 61
+  },
+  {
+    "name": "اهواز",
+    "code": 479,
+    "stateCode": 61
+  },
+  {
+    "name": "ايذه",
+    "code": 480,
+    "stateCode": 61
+  },
+  {
+    "name": "آبادان",
+    "code": 481,
+    "stateCode": 61
+  },
+  {
+    "name": "آغاجاري",
+    "code": 482,
+    "stateCode": 61
+  },
+  {
+    "name": "باغ ملك",
+    "code": 483,
+    "stateCode": 61
+  },
+  {
+    "name": "بستان",
+    "code": 484,
+    "stateCode": 61
+  },
+  {
+    "name": "بندرامام خميني",
+    "code": 485,
+    "stateCode": 61
+  },
+  {
+    "name": "بندرماهشهر",
+    "code": 486,
+    "stateCode": 61
+  },
+  {
+    "name": "بهبهان",
+    "code": 487,
+    "stateCode": 61
+  },
+  {
+    "name": "تركالكي",
+    "code": 488,
+    "stateCode": 61
+  },
+  {
+    "name": "جايزان",
+    "code": 489,
+    "stateCode": 61
+  },
+  {
+    "name": "جنت مكان",
+    "code": 490,
+    "stateCode": 61
+  },
+  {
+    "name": "چغاميش",
+    "code": 491,
+    "stateCode": 61
+  },
+  {
+    "name": "چمران",
+    "code": 492,
+    "stateCode": 61
+  },
+  {
+    "name": "چوئبده",
+    "code": 493,
+    "stateCode": 61
+  },
+  {
+    "name": "حر",
+    "code": 494,
+    "stateCode": 61
+  },
+  {
+    "name": "حسينيه",
+    "code": 495,
+    "stateCode": 61
+  },
+  {
+    "name": "حمزه",
+    "code": 496,
+    "stateCode": 61
+  },
+  {
+    "name": "حميديه",
+    "code": 497,
+    "stateCode": 61
+  },
+  {
+    "name": "خرمشهر",
+    "code": 498,
+    "stateCode": 61
+  },
+  {
+    "name": "دارخوين",
+    "code": 499,
+    "stateCode": 61
+  },
+  {
+    "name": "دزآب",
+    "code": 500,
+    "stateCode": 61
+  },
+  {
+    "name": "دزفول",
+    "code": 501,
+    "stateCode": 61
+  },
+  {
+    "name": "دهدز",
+    "code": 502,
+    "stateCode": 61
+  },
+  {
+    "name": "رامشير",
+    "code": 503,
+    "stateCode": 61
+  },
+  {
+    "name": "رامهرمز",
+    "code": 504,
+    "stateCode": 61
+  },
+  {
+    "name": "رفيع",
+    "code": 505,
+    "stateCode": 61
+  },
+  {
+    "name": "زهره",
+    "code": 506,
+    "stateCode": 61
+  },
+  {
+    "name": "سالند",
+    "code": 507,
+    "stateCode": 61
+  },
+  {
+    "name": "سردشت",
+    "code": 508,
+    "stateCode": 61
+  },
+  {
+    "name": "سماله",
+    "code": 509,
+    "stateCode": 61
+  },
+  {
+    "name": "سوسنگرد",
+    "code": 510,
+    "stateCode": 61
+  },
+  {
+    "name": "شادگان",
+    "code": 511,
+    "stateCode": 61
+  },
+  {
+    "name": "شاوور",
+    "code": 512,
+    "stateCode": 61
+  },
+  {
+    "name": "شرافت",
+    "code": 513,
+    "stateCode": 61
+  },
+  {
+    "name": "شوش",
+    "code": 514,
+    "stateCode": 61
+  },
+  {
+    "name": "شوشتر",
+    "code": 515,
+    "stateCode": 61
+  },
+  {
+    "name": "شيبان",
+    "code": 516,
+    "stateCode": 61
+  },
+  {
+    "name": "صالح شهر",
+    "code": 517,
+    "stateCode": 61
+  },
+  {
+    "name": "صالح مشطط",
+    "code": 518,
+    "stateCode": 61
+  },
+  {
+    "name": "صفي آباد",
+    "code": 519,
+    "stateCode": 61
+  },
+  {
+    "name": "صيدون",
+    "code": 520,
+    "stateCode": 61
+  },
+  {
+    "name": "قلعه تل",
+    "code": 521,
+    "stateCode": 61
+  },
+  {
+    "name": "قلعه خواجه",
+    "code": 522,
+    "stateCode": 61
+  },
+  {
+    "name": "گتوند",
+    "code": 523,
+    "stateCode": 61
+  },
+  {
+    "name": "گوريه",
+    "code": 524,
+    "stateCode": 61
+  },
+  {
+    "name": "لالي",
+    "code": 525,
+    "stateCode": 61
+  },
+  {
+    "name": "مسجدسليمان",
+    "code": 526,
+    "stateCode": 61
+  },
+  {
+    "name": "مشراگه",
+    "code": 527,
+    "stateCode": 61
+  },
+  {
+    "name": "مقاومت",
+    "code": 528,
+    "stateCode": 61
+  },
+  {
+    "name": "ملاثاني",
+    "code": 529,
+    "stateCode": 61
+  },
+  {
+    "name": "ميانرود",
+    "code": 530,
+    "stateCode": 61
+  },
+  {
+    "name": "ميداود",
+    "code": 531,
+    "stateCode": 61
+  },
+  {
+    "name": "مينوشهر",
+    "code": 532,
+    "stateCode": 61
+  },
+  {
+    "name": "ويس",
+    "code": 533,
+    "stateCode": 61
+  },
+  {
+    "name": "هفتگل",
+    "code": 534,
+    "stateCode": 61
+  },
+  {
+    "name": "هنديجان",
+    "code": 535,
+    "stateCode": 61
+  },
+  {
+    "name": "هويزه",
+    "code": 536,
+    "stateCode": 61
+  },
+  {
+    "name": " الهائی ",
+    "code": 61431,
+    "stateCode": 61
+  },
+  {
+    "name": " فیاضی ",
+    "code": 63331,
+    "stateCode": 61
+  },
+  {
+    "name": " تنگ یک ",
+    "code": 63341,
+    "stateCode": 61
+  },
+  {
+    "name": " نهرسلیم ",
+    "code": 63361,
+    "stateCode": 61
+  },
+  {
+    "name": " نهرابطر ",
+    "code": 63381,
+    "stateCode": 61
+  },
+  {
+    "name": " عین دو ",
+    "code": 63431,
+    "stateCode": 61
+  },
+  {
+    "name": " ام الطمیر (سیدیوسف ) ",
+    "code": 63451,
+    "stateCode": 61
+  },
+  {
+    "name": " کوت عبدالله ",
+    "code": 63461,
+    "stateCode": 61
+  },
+  {
+    "name": " قلعه چنعان ",
+    "code": 63471,
+    "stateCode": 61
+  },
+  {
+    "name": " کریت برومی ",
+    "code": 63481,
+    "stateCode": 61
+  },
+  {
+    "name": " غیزانیه بزرگ ",
+    "code": 63491,
+    "stateCode": 61
+  },
+  {
+    "name": " چم کلگه ",
+    "code": 63531,
+    "stateCode": 61
+  },
+  {
+    "name": " اسیاب ",
+    "code": 63581,
+    "stateCode": 61
+  },
+  {
+    "name": " تشان ",
+    "code": 63640,
+    "stateCode": 61
+  },
+  {
+    "name": " گروه پدافندهوایی بهبها ",
+    "code": 63641,
+    "stateCode": 61
+  },
+  {
+    "name": " شاه غالب ده ابراهیم ",
+    "code": 63651,
+    "stateCode": 61
+  },
+  {
+    "name": " کردستان بزرگ ",
+    "code": 63661,
+    "stateCode": 61
+  },
+  {
+    "name": " منصوریه ",
+    "code": 63671,
+    "stateCode": 61
+  },
+  {
+    "name": " میانکوه ",
+    "code": 63751,
+    "stateCode": 61
+  },
+  {
+    "name": " رودزرد ",
+    "code": 63831,
+    "stateCode": 61
+  },
+  {
+    "name": " نفت سفید ",
+    "code": 63851,
+    "stateCode": 61
+  },
+  {
+    "name": " دره تونم نمی ",
+    "code": 63891,
+    "stateCode": 61
+  },
+  {
+    "name": " چنارستان ",
+    "code": 63971,
+    "stateCode": 61
+  },
+  {
+    "name": " پشت پیان ",
+    "code": 63981,
+    "stateCode": 61
+  },
+  {
+    "name": " خنافره ",
+    "code": 64330,
+    "stateCode": 61
+  },
+  {
+    "name": " عبودی ",
+    "code": 64331,
+    "stateCode": 61
+  },
+  {
+    "name": " درویشی ",
+    "code": 64351,
+    "stateCode": 61
+  },
+  {
+    "name": " بوزی سیف ",
+    "code": 64361,
+    "stateCode": 61
+  },
+  {
+    "name": " حفاری شرقی ",
+    "code": 64381,
+    "stateCode": 61
+  },
+  {
+    "name": " بروایه یوسف ",
+    "code": 64431,
+    "stateCode": 61
+  },
+  {
+    "name": " کوت سیدنعیم ",
+    "code": 64440,
+    "stateCode": 61
+  },
+  {
+    "name": " ابوحمیظه ",
+    "code": 64441,
+    "stateCode": 61
+  },
+  {
+    "name": " یزدنو ",
+    "code": 64461,
+    "stateCode": 61
+  },
+  {
+    "name": " سیدعباس ",
+    "code": 64491,
+    "stateCode": 61
+  },
+  {
+    "name": " سرداران ",
+    "code": 64510,
+    "stateCode": 61
+  },
+  {
+    "name": " شهرک نورمحمدی ",
+    "code": 64571,
+    "stateCode": 61
+  },
+  {
+    "name": " گاومیش اباد ",
+    "code": 64581,
+    "stateCode": 61
+  },
+  {
+    "name": " عرب حسن ",
+    "code": 64591,
+    "stateCode": 61
+  },
+  {
+    "name": " شمس آباد ",
+    "code": 64650,
+    "stateCode": 61
+  },
+  {
+    "name": " امام ",
+    "code": 64651,
+    "stateCode": 61
+  },
+  {
+    "name": " سیاه منصور ",
+    "code": 64652,
+    "stateCode": 61
+  },
+  {
+    "name": " چلون ",
+    "code": 64681,
+    "stateCode": 61
+  },
+  {
+    "name": " مزرعه یک ",
+    "code": 64741,
+    "stateCode": 61
+  },
+  {
+    "name": " خسرجی راضی حمد ",
+    "code": 64751,
+    "stateCode": 61
+  },
+  {
+    "name": " علمه تیمورابوذرغفاری ",
+    "code": 64771,
+    "stateCode": 61
+  },
+  {
+    "name": " شهرک بهرام ",
+    "code": 64781,
+    "stateCode": 61
+  },
+  {
+    "name": " فتح المبین ",
+    "code": 64791,
+    "stateCode": 61
+  },
+  {
+    "name": " آزادی ",
+    "code": 64830,
+    "stateCode": 61
+  },
+  {
+    "name": " شهرک انصار ",
+    "code": 64831,
+    "stateCode": 61
+  },
+  {
+    "name": " خواجوی ",
+    "code": 64841,
+    "stateCode": 61
+  },
+  {
+    "name": " بیدروبه ",
+    "code": 64850,
+    "stateCode": 61
+  },
+  {
+    "name": " کلگه دره دو ",
+    "code": 64861,
+    "stateCode": 61
+  },
+  {
+    "name": " تله زنگ پایین ",
+    "code": 64871,
+    "stateCode": 61
+  },
+  {
+    "name": " چم گلک ",
+    "code": 64881,
+    "stateCode": 61
+  },
+  {
+    "name": " روستای عنبر ",
+    "code": 64931,
+    "stateCode": 61
+  },
+  {
+    "name": " دره بوری ",
+    "code": 64951,
+    "stateCode": 61
+  },
+  {
+    "name": " کوشکک-خوزستان ",
+    "code": 64971,
+    "stateCode": 61
+  },
+  {
+    "name": " آبژدان ",
+    "code": 64980,
+    "stateCode": 61
+  },
+  {
+    "name": " گلگیر ",
+    "code": 64991,
+    "stateCode": 61
+  },
+  {
+    "name": "ابهر",
+    "code": 537,
+    "stateCode": 24
+  },
+  {
+    "name": "ارمغانخانه",
+    "code": 538,
+    "stateCode": 24
+  },
+  {
+    "name": "آب بر",
+    "code": 539,
+    "stateCode": 24
+  },
+  {
+    "name": "چورزق",
+    "code": 540,
+    "stateCode": 24
+  },
+  {
+    "name": "حلب",
+    "code": 541,
+    "stateCode": 24
+  },
+  {
+    "name": "خرمدره",
+    "code": 542,
+    "stateCode": 24
+  },
+  {
+    "name": "دندي",
+    "code": 543,
+    "stateCode": 24
+  },
+  {
+    "name": "زرين آباد",
+    "code": 544,
+    "stateCode": 24
+  },
+  {
+    "name": "زرين رود",
+    "code": 545,
+    "stateCode": 24
+  },
+  {
+    "name": "زنجان",
+    "code": 546,
+    "stateCode": 24
+  },
+  {
+    "name": "سجاس",
+    "code": 547,
+    "stateCode": 24
+  },
+  {
+    "name": "سلطانيه",
+    "code": 548,
+    "stateCode": 24
+  },
+  {
+    "name": "سهرورد",
+    "code": 549,
+    "stateCode": 24
+  },
+  {
+    "name": "صائين قلعه",
+    "code": 550,
+    "stateCode": 24
+  },
+  {
+    "name": "قيدار",
+    "code": 551,
+    "stateCode": 24
+  },
+  {
+    "name": "گرماب",
+    "code": 552,
+    "stateCode": 24
+  },
+  {
+    "name": "ماه نشان",
+    "code": 553,
+    "stateCode": 24
+  },
+  {
+    "name": "هيدج",
+    "code": 554,
+    "stateCode": 24
+  },
+  {
+    "name": "ابهر",
+    "code": 1135,
+    "stateCode": 24
+  },
+  {
+    "name": "خرمدره",
+    "code": 1136,
+    "stateCode": 24
+  },
+  {
+    "name": "قیدار",
+    "code": 1137,
+    "stateCode": 24
+  },
+  {
+    "name": "هیدج",
+    "code": 1138,
+    "stateCode": 24
+  },
+  {
+    "name": "صایین قلعه",
+    "code": 1139,
+    "stateCode": 24
+  },
+  {
+    "name": "آّب بر",
+    "code": 1140,
+    "stateCode": 24
+  },
+  {
+    "name": "سجاس",
+    "code": 1141,
+    "stateCode": 24
+  },
+  {
+    "name": "سلطانیه",
+    "code": 1142,
+    "stateCode": 24
+  },
+  {
+    "name": "سهرورد",
+    "code": 1143,
+    "stateCode": 24
+  },
+  {
+    "name": "ماهنشان",
+    "code": 1144,
+    "stateCode": 24
+  },
+  {
+    "name": "گرماب",
+    "code": 1145,
+    "stateCode": 24
+  },
+  {
+    "name": "دندی",
+    "code": 1146,
+    "stateCode": 24
+  },
+  {
+    "name": "زرین رود",
+    "code": 1147,
+    "stateCode": 24
+  },
+  {
+    "name": "نوربهار",
+    "code": 1148,
+    "stateCode": 24
+  },
+  {
+    "name": "کرسف",
+    "code": 1149,
+    "stateCode": 24
+  },
+  {
+    "name": "زرین آباد",
+    "code": 1150,
+    "stateCode": 24
+  },
+  {
+    "name": "ارمغانخواه",
+    "code": 1151,
+    "stateCode": 24
+  },
+  {
+    "name": "چوزک",
+    "code": 1152,
+    "stateCode": 24
+  },
+  {
+    "name": "چورزق",
+    "code": 1153,
+    "stateCode": 24
+  },
+  {
+    "name": "نیک پی",
+    "code": 1154,
+    "stateCode": 24
+  },
+  {
+    "name": " همایون ",
+    "code": 45331,
+    "stateCode": 24
+  },
+  {
+    "name": " بوغداکندی ",
+    "code": 45341,
+    "stateCode": 24
+  },
+  {
+    "name": " اژدهاتو ",
+    "code": 45351,
+    "stateCode": 24
+  },
+  {
+    "name": " اسفجین ",
+    "code": 45371,
+    "stateCode": 24
+  },
+  {
+    "name": " قبله بلاغی ",
+    "code": 45391,
+    "stateCode": 24
+  },
+  {
+    "name": " پری ",
+    "code": 45431,
+    "stateCode": 24
+  },
+  {
+    "name": " اندابادعلیا ",
+    "code": 45441,
+    "stateCode": 24
+  },
+  {
+    "name": " قره گل ",
+    "code": 45451,
+    "stateCode": 24
+  },
+  {
+    "name": " سونتو ",
+    "code": 45481,
+    "stateCode": 24
+  },
+  {
+    "name": " قلتوق ",
+    "code": 45491,
+    "stateCode": 24
+  },
+  {
+    "name": " گوزلدره ",
+    "code": 45531,
+    "stateCode": 24
+  },
+  {
+    "name": " سنبل اباد ",
+    "code": 45551,
+    "stateCode": 24
+  },
+  {
+    "name": " درسجین ",
+    "code": 45641,
+    "stateCode": 24
+  },
+  {
+    "name": " دولت اباد-زنجان ",
+    "code": 45651,
+    "stateCode": 24
+  },
+  {
+    "name": " کینه ورس ",
+    "code": 45661,
+    "stateCode": 24
+  },
+  {
+    "name": " اقبلاغ سفلی ",
+    "code": 45781,
+    "stateCode": 24
+  },
+  {
+    "name": " محموداباد-زنجان ",
+    "code": 45851,
+    "stateCode": 24
+  },
+  {
+    "name": " باش قشلاق ",
+    "code": 45861,
+    "stateCode": 24
+  },
+  {
+    "name": " کهلا ",
+    "code": 45891,
+    "stateCode": 24
+  },
+  {
+    "name": " گیلوان ",
+    "code": 45931,
+    "stateCode": 24
+  },
+  {
+    "name": " دستجرده ",
+    "code": 45941,
+    "stateCode": 24
+  },
+  {
+    "name": " سعیداباد-زنجان ",
+    "code": 45951,
+    "stateCode": 24
+  },
+  {
+    "name": " درام ",
+    "code": 45981,
+    "stateCode": 24
+  },
+  {
+    "name": "اميريه",
+    "code": 555,
+    "stateCode": 23
+  },
+  {
+    "name": "ايوانكي",
+    "code": 556,
+    "stateCode": 23
+  },
+  {
+    "name": "آرادان",
+    "code": 557,
+    "stateCode": 23
+  },
+  {
+    "name": "بسطام",
+    "code": 558,
+    "stateCode": 23
+  },
+  {
+    "name": "بيارجمند",
+    "code": 559,
+    "stateCode": 23
+  },
+  {
+    "name": "دامغان",
+    "code": 560,
+    "stateCode": 23
+  },
+  {
+    "name": "درجزين",
+    "code": 561,
+    "stateCode": 23
+  },
+  {
+    "name": "ديباج",
+    "code": 562,
+    "stateCode": 23
+  },
+  {
+    "name": "سرخه",
+    "code": 563,
+    "stateCode": 23
+  },
+  {
+    "name": "سمنان",
+    "code": 564,
+    "stateCode": 23
+  },
+  {
+    "name": "شاهرود",
+    "code": 565,
+    "stateCode": 23
+  },
+  {
+    "name": "شهميرزاد",
+    "code": 566,
+    "stateCode": 23
+  },
+  {
+    "name": "كلاته خيج",
+    "code": 567,
+    "stateCode": 23
+  },
+  {
+    "name": "گرمسار",
+    "code": 568,
+    "stateCode": 23
+  },
+  {
+    "name": "مجن",
+    "code": 569,
+    "stateCode": 23
+  },
+  {
+    "name": "مهدي شهر",
+    "code": 570,
+    "stateCode": 23
+  },
+  {
+    "name": "ميامي",
+    "code": 571,
+    "stateCode": 23
+  },
+  {
+    "name": " علا ",
+    "code": 3531,
+    "stateCode": 23
+  },
+  {
+    "name": " ابخوری ",
+    "code": 3541,
+    "stateCode": 23
+  },
+  {
+    "name": " خیراباد-سمنان ",
+    "code": 35331,
+    "stateCode": 23
+  },
+  {
+    "name": " ایستگاه میان دره ",
+    "code": 35341,
+    "stateCode": 23
+  },
+  {
+    "name": " اهوان ",
+    "code": 35381,
+    "stateCode": 23
+  },
+  {
+    "name": " جام ",
+    "code": 35431,
+    "stateCode": 23
+  },
+  {
+    "name": " دوزهیر ",
+    "code": 35441,
+    "stateCode": 23
+  },
+  {
+    "name": " معدن نمک ",
+    "code": 35451,
+    "stateCode": 23
+  },
+  {
+    "name": " نظامی ",
+    "code": 35531,
+    "stateCode": 23
+  },
+  {
+    "name": " اسداباد-سمنان ",
+    "code": 35541,
+    "stateCode": 23
+  },
+  {
+    "name": " لاسجرد ",
+    "code": 35551,
+    "stateCode": 23
+  },
+  {
+    "name": " سیداباد-سمنان ",
+    "code": 35561,
+    "stateCode": 23
+  },
+  {
+    "name": " عبدالله ابادپایین ",
+    "code": 35571,
+    "stateCode": 23
+  },
+  {
+    "name": " بیابانک ",
+    "code": 35581,
+    "stateCode": 23
+  },
+  {
+    "name": " مومن اباد-سمنان ",
+    "code": 35591,
+    "stateCode": 23
+  },
+  {
+    "name": " دربند ",
+    "code": 35641,
+    "stateCode": 23
+  },
+  {
+    "name": " گل رودبار ",
+    "code": 35651,
+    "stateCode": 23
+  },
+  {
+    "name": " ابگرم-سمنان ",
+    "code": 35661,
+    "stateCode": 23
+  },
+  {
+    "name": " افتر ",
+    "code": 35671,
+    "stateCode": 23
+  },
+  {
+    "name": " فولادمحله ",
+    "code": 35731,
+    "stateCode": 23
+  },
+  {
+    "name": " ده صوفیان ",
+    "code": 35741,
+    "stateCode": 23
+  },
+  {
+    "name": " هیکو ",
+    "code": 35751,
+    "stateCode": 23
+  },
+  {
+    "name": " چاشم ",
+    "code": 35761,
+    "stateCode": 23
+  },
+  {
+    "name": " کردوان ",
+    "code": 35831,
+    "stateCode": 23
+  },
+  {
+    "name": " مندولک ",
+    "code": 35841,
+    "stateCode": 23
+  },
+  {
+    "name": " داوراباد ",
+    "code": 35851,
+    "stateCode": 23
+  },
+  {
+    "name": " بن کوه ",
+    "code": 35881,
+    "stateCode": 23
+  },
+  {
+    "name": " کهن آباد ",
+    "code": 35891,
+    "stateCode": 23
+  },
+  {
+    "name": " حسین ابادکوروس ",
+    "code": 35931,
+    "stateCode": 23
+  },
+  {
+    "name": " کرک ",
+    "code": 35941,
+    "stateCode": 23
+  },
+  {
+    "name": " گلستانک ",
+    "code": 35951,
+    "stateCode": 23
+  },
+  {
+    "name": " لجران ",
+    "code": 35961,
+    "stateCode": 23
+  },
+  {
+    "name": " جودانه ",
+    "code": 36331,
+    "stateCode": 23
+  },
+  {
+    "name": " ابراهیم اباد-سمنان ",
+    "code": 36341,
+    "stateCode": 23
+  },
+  {
+    "name": " بکران ",
+    "code": 36351,
+    "stateCode": 23
+  },
+  {
+    "name": " کرداباد ",
+    "code": 36361,
+    "stateCode": 23
+  },
+  {
+    "name": " نردین ",
+    "code": 36371,
+    "stateCode": 23
+  },
+  {
+    "name": " سوداغلان ",
+    "code": 36381,
+    "stateCode": 23
+  },
+  {
+    "name": " فرومد ",
+    "code": 36391,
+    "stateCode": 23
+  },
+  {
+    "name": " ابرسیج ",
+    "code": 36431,
+    "stateCode": 23
+  },
+  {
+    "name": " میغان ",
+    "code": 36441,
+    "stateCode": 23
+  },
+  {
+    "name": " قلعه نوخرقان ",
+    "code": 36451,
+    "stateCode": 23
+  },
+  {
+    "name": " چهلدخترپادگان ",
+    "code": 36461,
+    "stateCode": 23
+  },
+  {
+    "name": " نگارمن ",
+    "code": 36531,
+    "stateCode": 23
+  },
+  {
+    "name": " دهملا ",
+    "code": 36541,
+    "stateCode": 23
+  },
+  {
+    "name": " رویان-سمنان ",
+    "code": 36551,
+    "stateCode": 23
+  },
+  {
+    "name": " بدشت ",
+    "code": 36561,
+    "stateCode": 23
+  },
+  {
+    "name": " سطوه ",
+    "code": 36571,
+    "stateCode": 23
+  },
+  {
+    "name": " طرود ",
+    "code": 36581,
+    "stateCode": 23
+  },
+  {
+    "name": " مغان ",
+    "code": 36591,
+    "stateCode": 23
+  },
+  {
+    "name": " گیور ",
+    "code": 36631,
+    "stateCode": 23
+  },
+  {
+    "name": " دستجرد-سمنان ",
+    "code": 36641,
+    "stateCode": 23
+  },
+  {
+    "name": " مسیح اباد ",
+    "code": 36651,
+    "stateCode": 23
+  },
+  {
+    "name": " احمداباد ",
+    "code": 36661,
+    "stateCode": 23
+  },
+  {
+    "name": " زمان اباد ",
+    "code": 36671,
+    "stateCode": 23
+  },
+  {
+    "name": " سلمرود ",
+    "code": 36681,
+    "stateCode": 23
+  },
+  {
+    "name": " جزن ",
+    "code": 36731,
+    "stateCode": 23
+  },
+  {
+    "name": " برم ",
+    "code": 36741,
+    "stateCode": 23
+  },
+  {
+    "name": " محمداباد ",
+    "code": 36751,
+    "stateCode": 23
+  },
+  {
+    "name": " معصوم اباد ",
+    "code": 36761,
+    "stateCode": 23
+  },
+  {
+    "name": " فرات ",
+    "code": 36771,
+    "stateCode": 23
+  },
+  {
+    "name": " علیان ",
+    "code": 36781,
+    "stateCode": 23
+  },
+  {
+    "name": " عمروان ",
+    "code": 36791,
+    "stateCode": 23
+  },
+  {
+    "name": " قوشه ",
+    "code": 36831,
+    "stateCode": 23
+  },
+  {
+    "name": " دروار ",
+    "code": 36841,
+    "stateCode": 23
+  },
+  {
+    "name": " استانه ",
+    "code": 36851,
+    "stateCode": 23
+  },
+  {
+    "name": " طرزه ",
+    "code": 36871,
+    "stateCode": 23
+  },
+  {
+    "name": " مهماندوست ",
+    "code": 36881,
+    "stateCode": 23
+  },
+  {
+    "name": " کلاته ملا ",
+    "code": 36891,
+    "stateCode": 23
+  },
+  {
+    "name": " قدرت اباد ",
+    "code": 36931,
+    "stateCode": 23
+  },
+  {
+    "name": "اديمي",
+    "code": 572,
+    "stateCode": 54
+  },
+  {
+    "name": "اسپكه",
+    "code": 573,
+    "stateCode": 54
+  },
+  {
+    "name": "ايرانشهر",
+    "code": 574,
+    "stateCode": 54
+  },
+  {
+    "name": "بزمان",
+    "code": 575,
+    "stateCode": 54
+  },
+  {
+    "name": "بمپور",
+    "code": 576,
+    "stateCode": 54
+  },
+  {
+    "name": "بنت",
+    "code": 577,
+    "stateCode": 54
+  },
+  {
+    "name": "بنجار",
+    "code": 578,
+    "stateCode": 54
+  },
+  {
+    "name": "پيشين",
+    "code": 579,
+    "stateCode": 54
+  },
+  {
+    "name": "جالق",
+    "code": 580,
+    "stateCode": 54
+  },
+  {
+    "name": "چاه بهار",
+    "code": 581,
+    "stateCode": 54
+  },
+  {
+    "name": "خاش",
+    "code": 582,
+    "stateCode": 54
+  },
+  {
+    "name": "دوست محمد",
+    "code": 583,
+    "stateCode": 54
+  },
+  {
+    "name": "راسك",
+    "code": 584,
+    "stateCode": 54
+  },
+  {
+    "name": "زابل",
+    "code": 585,
+    "stateCode": 54
+  },
+  {
+    "name": "زابلي",
+    "code": 586,
+    "stateCode": 54
+  },
+  {
+    "name": "زاهدان",
+    "code": 587,
+    "stateCode": 54
+  },
+  {
+    "name": "زرآباد",
+    "code": 588,
+    "stateCode": 54
+  },
+  {
+    "name": "زهك",
+    "code": 589,
+    "stateCode": 54
+  },
+  {
+    "name": "سراوان",
+    "code": 590,
+    "stateCode": 54
+  },
+  {
+    "name": "سرباز",
+    "code": 591,
+    "stateCode": 54
+  },
+  {
+    "name": "سوران",
+    "code": 592,
+    "stateCode": 54
+  },
+  {
+    "name": "سيركان",
+    "code": 593,
+    "stateCode": 54
+  },
+  {
+    "name": "علي اكبر",
+    "code": 594,
+    "stateCode": 54
+  },
+  {
+    "name": "فنوج",
+    "code": 595,
+    "stateCode": 54
+  },
+  {
+    "name": "قصرقند",
+    "code": 596,
+    "stateCode": 54
+  },
+  {
+    "name": "كنارك",
+    "code": 597,
+    "stateCode": 54
+  },
+  {
+    "name": "گشت",
+    "code": 598,
+    "stateCode": 54
+  },
+  {
+    "name": "گلمورتي",
+    "code": 599,
+    "stateCode": 54
+  },
+  {
+    "name": "محمدان",
+    "code": 600,
+    "stateCode": 54
+  },
+  {
+    "name": "محمدآباد",
+    "code": 601,
+    "stateCode": 54
+  },
+  {
+    "name": "محمدي",
+    "code": 602,
+    "stateCode": 54
+  },
+  {
+    "name": "ميرجاوه",
+    "code": 603,
+    "stateCode": 54
+  },
+  {
+    "name": "نصرت آباد",
+    "code": 604,
+    "stateCode": 54
+  },
+  {
+    "name": "نگور",
+    "code": 605,
+    "stateCode": 54
+  },
+  {
+    "name": "نوك آباد",
+    "code": 606,
+    "stateCode": 54
+  },
+  {
+    "name": "نيك شهر",
+    "code": 607,
+    "stateCode": 54
+  },
+  {
+    "name": "هيدوج",
+    "code": 608,
+    "stateCode": 54
+  },
+  {
+    "name": " نصرت آباد-سیستان و بلوچستان ",
+    "code": 9831,
+    "stateCode": 54
+  },
+  {
+    "name": " خواجه احمد ",
+    "code": 9875,
+    "stateCode": 54
+  },
+  {
+    "name": " سراوان-سیستان و بلوچستان ",
+    "code": 9951,
+    "stateCode": 54
+  },
+  {
+    "name": " چابهار ",
+    "code": 9971,
+    "stateCode": 54
+  },
+  {
+    "name": " حرمک ",
+    "code": 98341,
+    "stateCode": 54
+  },
+  {
+    "name": " گلوگاه-سیستان و بلوچستان ",
+    "code": 98381,
+    "stateCode": 54
+  },
+  {
+    "name": " انده قدیم ",
+    "code": 98441,
+    "stateCode": 54
+  },
+  {
+    "name": " لادیزعلیا ",
+    "code": 98461,
+    "stateCode": 54
+  },
+  {
+    "name": " هیرمند ",
+    "code": 98516,
+    "stateCode": 54
+  },
+  {
+    "name": " سیادک ",
+    "code": 98531,
+    "stateCode": 54
+  },
+  {
+    "name": " خمک ",
+    "code": 98541,
+    "stateCode": 54
+  },
+  {
+    "name": " تخت عدالت ",
+    "code": 98551,
+    "stateCode": 54
+  },
+  {
+    "name": " برجمیرگل ",
+    "code": 98561,
+    "stateCode": 54
+  },
+  {
+    "name": " جهان ابادعلیا ",
+    "code": 98571,
+    "stateCode": 54
+  },
+  {
+    "name": " تیموراباد ",
+    "code": 98641,
+    "stateCode": 54
+  },
+  {
+    "name": " دولت اباد-سیستان و بلوچستان ",
+    "code": 98651,
+    "stateCode": 54
+  },
+  {
+    "name": " لوتک ",
+    "code": 98661,
+    "stateCode": 54
+  },
+  {
+    "name": " سکوهه ",
+    "code": 98671,
+    "stateCode": 54
+  },
+  {
+    "name": " جزینک ",
+    "code": 98731,
+    "stateCode": 54
+  },
+  {
+    "name": " قلعه نو-سیستان و بلوچستان ",
+    "code": 98741,
+    "stateCode": 54
+  },
+  {
+    "name": " شهرک محمدشاه کرم ",
+    "code": 98761,
+    "stateCode": 54
+  },
+  {
+    "name": " ژاله ای ",
+    "code": 98781,
+    "stateCode": 54
+  },
+  {
+    "name": " کرباسک ",
+    "code": 98791,
+    "stateCode": 54
+  },
+  {
+    "name": " نوک اباد ",
+    "code": 98816,
+    "stateCode": 54
+  },
+  {
+    "name": " نوراباد ",
+    "code": 98831,
+    "stateCode": 54
+  },
+  {
+    "name": " کارواندر ",
+    "code": 98841,
+    "stateCode": 54
+  },
+  {
+    "name": " ناصراباد-سیستان و بلوچستان ",
+    "code": 98851,
+    "stateCode": 54
+  },
+  {
+    "name": " بالاقلعه ",
+    "code": 98861,
+    "stateCode": 54
+  },
+  {
+    "name": " گمن ",
+    "code": 98871,
+    "stateCode": 54
+  },
+  {
+    "name": " زیرکدان ",
+    "code": 98881,
+    "stateCode": 54
+  },
+  {
+    "name": " بیت اباد ",
+    "code": 98891,
+    "stateCode": 54
+  },
+  {
+    "name": " گوهرکوه ",
+    "code": 98931,
+    "stateCode": 54
+  },
+  {
+    "name": " ده پابید ",
+    "code": 98941,
+    "stateCode": 54
+  },
+  {
+    "name": " نازیل ",
+    "code": 98951,
+    "stateCode": 54
+  },
+  {
+    "name": " کوشه ",
+    "code": 98961,
+    "stateCode": 54
+  },
+  {
+    "name": " سنگان-سیستان و بلوچستان ",
+    "code": 98971,
+    "stateCode": 54
+  },
+  {
+    "name": " افضل اباد ",
+    "code": 98991,
+    "stateCode": 54
+  },
+  {
+    "name": " چانف ",
+    "code": 99331,
+    "stateCode": 54
+  },
+  {
+    "name": " اسماعیل کلگ ",
+    "code": 99341,
+    "stateCode": 54
+  },
+  {
+    "name": " پارود ",
+    "code": 99351,
+    "stateCode": 54
+  },
+  {
+    "name": " ایرافشان ",
+    "code": 99381,
+    "stateCode": 54
+  },
+  {
+    "name": " سرداب ",
+    "code": 99391,
+    "stateCode": 54
+  },
+  {
+    "name": " پیپ ",
+    "code": 99441,
+    "stateCode": 54
+  },
+  {
+    "name": " هودیان ",
+    "code": 99481,
+    "stateCode": 54
+  },
+  {
+    "name": " کوشکوک ",
+    "code": 99531,
+    "stateCode": 54
+  },
+  {
+    "name": " سردک ",
+    "code": 99551,
+    "stateCode": 54
+  },
+  {
+    "name": " اسفندک ",
+    "code": 99581,
+    "stateCode": 54
+  },
+  {
+    "name": " کوهک ",
+    "code": 99591,
+    "stateCode": 54
+  },
+  {
+    "name": " گشت-سیستان و بلوچستان ",
+    "code": 99631,
+    "stateCode": 54
+  },
+  {
+    "name": " پسکوه ",
+    "code": 99641,
+    "stateCode": 54
+  },
+  {
+    "name": " مهرستان ",
+    "code": 99661,
+    "stateCode": 54
+  },
+  {
+    "name": " هیدوچ ",
+    "code": 99671,
+    "stateCode": 54
+  },
+  {
+    "name": " طیس ",
+    "code": 99731,
+    "stateCode": 54
+  },
+  {
+    "name": " تلنگ ",
+    "code": 99741,
+    "stateCode": 54
+  },
+  {
+    "name": " پلان ",
+    "code": 99751,
+    "stateCode": 54
+  },
+  {
+    "name": " باهوکلات ",
+    "code": 99771,
+    "stateCode": 54
+  },
+  {
+    "name": " پسابندر ",
+    "code": 99781,
+    "stateCode": 54
+  },
+  {
+    "name": " پیرسهراب ",
+    "code": 99791,
+    "stateCode": 54
+  },
+  {
+    "name": " شهدادکهیر ",
+    "code": 99851,
+    "stateCode": 54
+  },
+  {
+    "name": " زراباد ",
+    "code": 99861,
+    "stateCode": 54
+  },
+  {
+    "name": " مسکوتان ",
+    "code": 99871,
+    "stateCode": 54
+  },
+  {
+    "name": " کتیج ",
+    "code": 99881,
+    "stateCode": 54
+  },
+  {
+    "name": " دستگرد-سیستان و بلوچستان ",
+    "code": 99891,
+    "stateCode": 54
+  },
+  {
+    "name": " محنت ",
+    "code": 99931,
+    "stateCode": 54
+  },
+  {
+    "name": " چاهان ",
+    "code": 99941,
+    "stateCode": 54
+  },
+  {
+    "name": " هیچان ",
+    "code": 99951,
+    "stateCode": 54
+  },
+  {
+    "name": " شگیم بالا ",
+    "code": 99971,
+    "stateCode": 54
+  },
+  {
+    "name": " کشیک ",
+    "code": 99981,
+    "stateCode": 54
+  },
+  {
+    "name": " ساربوک ",
+    "code": 99991,
+    "stateCode": 54
+  },
+  {
+    "name": "اردكان",
+    "code": 609,
+    "stateCode": 71
+  },
+  {
+    "name": "ارسنجان",
+    "code": 610,
+    "stateCode": 71
+  },
+  {
+    "name": "استهبان",
+    "code": 611,
+    "stateCode": 71
+  },
+  {
+    "name": "اسير",
+    "code": 612,
+    "stateCode": 71
+  },
+  {
+    "name": "اشكنان",
+    "code": 613,
+    "stateCode": 71
+  },
+  {
+    "name": "افزر",
+    "code": 614,
+    "stateCode": 71
+  },
+  {
+    "name": "اقليد",
+    "code": 615,
+    "stateCode": 71
+  },
+  {
+    "name": "امام شهر",
+    "code": 616,
+    "stateCode": 71
+  },
+  {
+    "name": "اوز",
+    "code": 617,
+    "stateCode": 71
+  },
+  {
+    "name": "اهل",
+    "code": 618,
+    "stateCode": 71
+  },
+  {
+    "name": "ايج",
+    "code": 619,
+    "stateCode": 71
+  },
+  {
+    "name": "ايزدخواست",
+    "code": 620,
+    "stateCode": 71
+  },
+  {
+    "name": "آباده",
+    "code": 621,
+    "stateCode": 71
+  },
+  {
+    "name": "آباده طشك",
+    "code": 622,
+    "stateCode": 71
+  },
+  {
+    "name": "باب انار",
+    "code": 623,
+    "stateCode": 71
+  },
+  {
+    "name": "بالاده",
+    "code": 624,
+    "stateCode": 71
+  },
+  {
+    "name": "بنارويه",
+    "code": 625,
+    "stateCode": 71
+  },
+  {
+    "name": "بوانات",
+    "code": 626,
+    "stateCode": 71
+  },
+  {
+    "name": "بهمن",
+    "code": 627,
+    "stateCode": 71
+  },
+  {
+    "name": "بيرم",
+    "code": 628,
+    "stateCode": 71
+  },
+  {
+    "name": "بيضا",
+    "code": 629,
+    "stateCode": 71
+  },
+  {
+    "name": "جنت شهر",
+    "code": 630,
+    "stateCode": 71
+  },
+  {
+    "name": "جويم",
+    "code": 631,
+    "stateCode": 71
+  },
+  {
+    "name": "جهرم",
+    "code": 632,
+    "stateCode": 71
+  },
+  {
+    "name": "حاجي آباد",
+    "code": 633,
+    "stateCode": 71
+  },
+  {
+    "name": "حسامي",
+    "code": 634,
+    "stateCode": 71
+  },
+  {
+    "name": "حسن آباد",
+    "code": 635,
+    "stateCode": 71
+  },
+  {
+    "name": "خانه زنيان",
+    "code": 636,
+    "stateCode": 71
+  },
+  {
+    "name": "خاوران",
+    "code": 637,
+    "stateCode": 71
+  },
+  {
+    "name": "خرامه",
+    "code": 638,
+    "stateCode": 71
+  },
+  {
+    "name": "خشت",
+    "code": 639,
+    "stateCode": 71
+  },
+  {
+    "name": "خنج",
+    "code": 640,
+    "stateCode": 71
+  },
+  {
+    "name": "خور",
+    "code": 641,
+    "stateCode": 71
+  },
+  {
+    "name": "خومه زار",
+    "code": 642,
+    "stateCode": 71
+  },
+  {
+    "name": "داراب",
+    "code": 643,
+    "stateCode": 71
+  },
+  {
+    "name": "داريان",
+    "code": 644,
+    "stateCode": 71
+  },
+  {
+    "name": "دبيران",
+    "code": 645,
+    "stateCode": 71
+  },
+  {
+    "name": "دژكرد",
+    "code": 646,
+    "stateCode": 71
+  },
+  {
+    "name": "دوبرجي",
+    "code": 647,
+    "stateCode": 71
+  },
+  {
+    "name": "دوزه",
+    "code": 648,
+    "stateCode": 71
+  },
+  {
+    "name": "دهرم",
+    "code": 649,
+    "stateCode": 71
+  },
+  {
+    "name": "رامجرد",
+    "code": 650,
+    "stateCode": 71
+  },
+  {
+    "name": "رونيز",
+    "code": 651,
+    "stateCode": 71
+  },
+  {
+    "name": "زاهدشهر",
+    "code": 652,
+    "stateCode": 71
+  },
+  {
+    "name": "زرقان",
+    "code": 653,
+    "stateCode": 71
+  },
+  {
+    "name": "سده",
+    "code": 654,
+    "stateCode": 71
+  },
+  {
+    "name": "سروستان",
+    "code": 655,
+    "stateCode": 71
+  },
+  {
+    "name": "سعادت شهر",
+    "code": 656,
+    "stateCode": 71
+  },
+  {
+    "name": "سورمق",
+    "code": 657,
+    "stateCode": 71
+  },
+  {
+    "name": "سيدان",
+    "code": 658,
+    "stateCode": 71
+  },
+  {
+    "name": "ششده",
+    "code": 659,
+    "stateCode": 71
+  },
+  {
+    "name": "شهر جديد صدرا",
+    "code": 660,
+    "stateCode": 71
+  },
+  {
+    "name": "شهرپير",
+    "code": 661,
+    "stateCode": 71
+  },
+  {
+    "name": "شيراز",
+    "code": 662,
+    "stateCode": 71
+  },
+  {
+    "name": "صغاد",
+    "code": 663,
+    "stateCode": 71
+  },
+  {
+    "name": "صفاشهر",
+    "code": 664,
+    "stateCode": 71
+  },
+  {
+    "name": "علامرودشت",
+    "code": 665,
+    "stateCode": 71
+  },
+  {
+    "name": "عمادده",
+    "code": 666,
+    "stateCode": 71
+  },
+  {
+    "name": "فدامي",
+    "code": 667,
+    "stateCode": 71
+  },
+  {
+    "name": "فراشبند",
+    "code": 668,
+    "stateCode": 71
+  },
+  {
+    "name": "فسا",
+    "code": 669,
+    "stateCode": 71
+  },
+  {
+    "name": "فيروزآباد",
+    "code": 670,
+    "stateCode": 71
+  },
+  {
+    "name": "قادرآباد",
+    "code": 671,
+    "stateCode": 71
+  },
+  {
+    "name": "قائميه",
+    "code": 672,
+    "stateCode": 71
+  },
+  {
+    "name": "قطب آباد",
+    "code": 673,
+    "stateCode": 71
+  },
+  {
+    "name": "قطرويه",
+    "code": 674,
+    "stateCode": 71
+  },
+  {
+    "name": "قير",
+    "code": 675,
+    "stateCode": 71
+  },
+  {
+    "name": "كارزين",
+    "code": 676,
+    "stateCode": 71
+  },
+  {
+    "name": "كازرون",
+    "code": 677,
+    "stateCode": 71
+  },
+  {
+    "name": "كامفيروز",
+    "code": 678,
+    "stateCode": 71
+  },
+  {
+    "name": "كره اي",
+    "code": 679,
+    "stateCode": 71
+  },
+  {
+    "name": "كنارتخته",
+    "code": 680,
+    "stateCode": 71
+  },
+  {
+    "name": "كوار",
+    "code": 681,
+    "stateCode": 71
+  },
+  {
+    "name": "كوهنجان",
+    "code": 682,
+    "stateCode": 71
+  },
+  {
+    "name": "گراش",
+    "code": 683,
+    "stateCode": 71
+  },
+  {
+    "name": "گله دار",
+    "code": 684,
+    "stateCode": 71
+  },
+  {
+    "name": "لار",
+    "code": 685,
+    "stateCode": 71
+  },
+  {
+    "name": "لامرد",
+    "code": 686,
+    "stateCode": 71
+  },
+  {
+    "name": "لپوئي",
+    "code": 687,
+    "stateCode": 71
+  },
+  {
+    "name": "لطيفي",
+    "code": 688,
+    "stateCode": 71
+  },
+  {
+    "name": "مبارك آباد",
+    "code": 689,
+    "stateCode": 71
+  },
+  {
+    "name": "مرودشت",
+    "code": 690,
+    "stateCode": 71
+  },
+  {
+    "name": "مشكان",
+    "code": 691,
+    "stateCode": 71
+  },
+  {
+    "name": "مصيري",
+    "code": 692,
+    "stateCode": 71
+  },
+  {
+    "name": "مهر",
+    "code": 693,
+    "stateCode": 71
+  },
+  {
+    "name": "ميمند",
+    "code": 694,
+    "stateCode": 71
+  },
+  {
+    "name": "نوبندگان",
+    "code": 695,
+    "stateCode": 71
+  },
+  {
+    "name": "نوجين",
+    "code": 696,
+    "stateCode": 71
+  },
+  {
+    "name": "نودان",
+    "code": 697,
+    "stateCode": 71
+  },
+  {
+    "name": "نورآباد",
+    "code": 698,
+    "stateCode": 71
+  },
+  {
+    "name": "ني ريز",
+    "code": 699,
+    "stateCode": 71
+  },
+  {
+    "name": "وراوي",
+    "code": 700,
+    "stateCode": 71
+  },
+  {
+    "name": "هماشهر",
+    "code": 701,
+    "stateCode": 71
+  },
+  {
+    "name": " بندامیر ",
+    "code": 71431,
+    "stateCode": 71
+  },
+  {
+    "name": " خیرابادتوللی ",
+    "code": 71451,
+    "stateCode": 71
+  },
+  {
+    "name": " کم جان ",
+    "code": 71491,
+    "stateCode": 71
+  },
+  {
+    "name": " شوریجه ",
+    "code": 71551,
+    "stateCode": 71
+  },
+  {
+    "name": " مهارلو ",
+    "code": 71561,
+    "stateCode": 71
+  },
+  {
+    "name": " سلطان آباد-فارس ",
+    "code": 71581,
+    "stateCode": 71
+  },
+  {
+    "name": " تفیهان ",
+    "code": 71591,
+    "stateCode": 71
+  },
+  {
+    "name": " طسوج ",
+    "code": 71641,
+    "stateCode": 71
+  },
+  {
+    "name": " اکبراباد ",
+    "code": 71651,
+    "stateCode": 71
+  },
+  {
+    "name": " مظفری ",
+    "code": 71661,
+    "stateCode": 71
+  },
+  {
+    "name": " کوشک بیدک ",
+    "code": 71671,
+    "stateCode": 71
+  },
+  {
+    "name": " فتح اباد-فارس ",
+    "code": 71681,
+    "stateCode": 71
+  },
+  {
+    "name": " ده شیب ",
+    "code": 71691,
+    "stateCode": 71
+  },
+  {
+    "name": " پاسگاه چنارراهدار ",
+    "code": 71781,
+    "stateCode": 71
+  },
+  {
+    "name": " موردراز ",
+    "code": 71881,
+    "stateCode": 71
+  },
+  {
+    "name": " کلاتون ",
+    "code": 73131,
+    "stateCode": 71
+  },
+  {
+    "name": " کلانی ",
+    "code": 73141,
+    "stateCode": 71
+  },
+  {
+    "name": " کمارج مرکزی ",
+    "code": 73151,
+    "stateCode": 71
+  },
+  {
+    "name": " مهبودی علیا ",
+    "code": 73161,
+    "stateCode": 71
+  },
+  {
+    "name": " حکیم باشی نصف میان (بالا) ",
+    "code": 73311,
+    "stateCode": 71
+  },
+  {
+    "name": " انارستان-فارس ",
+    "code": 73351,
+    "stateCode": 71
+  },
+  {
+    "name": " مهرنجان ",
+    "code": 73371,
+    "stateCode": 71
+  },
+  {
+    "name": " جره ",
+    "code": 73381,
+    "stateCode": 71
+  },
+  {
+    "name": " گویم ",
+    "code": 73491,
+    "stateCode": 71
+  },
+  {
+    "name": " بابامنیر ",
+    "code": 73531,
+    "stateCode": 71
+  },
+  {
+    "name": " اهنگری ",
+    "code": 73541,
+    "stateCode": 71
+  },
+  {
+    "name": " پرین ",
+    "code": 73551,
+    "stateCode": 71
+  },
+  {
+    "name": " کوپن ",
+    "code": 73560,
+    "stateCode": 71
+  },
+  {
+    "name": " حسین ابادرستم ",
+    "code": 73561,
+    "stateCode": 71
+  },
+  {
+    "name": " میشان سفلی ",
+    "code": 73591,
+    "stateCode": 71
+  },
+  {
+    "name": " بهرغان ",
+    "code": 73611,
+    "stateCode": 71
+  },
+  {
+    "name": " کمهر ",
+    "code": 73651,
+    "stateCode": 71
+  },
+  {
+    "name": " راشک علیا ",
+    "code": 73661,
+    "stateCode": 71
+  },
+  {
+    "name": " هرایجان ",
+    "code": 73671,
+    "stateCode": 71
+  },
+  {
+    "name": " بانش ",
+    "code": 73681,
+    "stateCode": 71
+  },
+  {
+    "name": " کوشک-فارس ",
+    "code": 73711,
+    "stateCode": 71
+  },
+  {
+    "name": " خانیمن ",
+    "code": 73731,
+    "stateCode": 71
+  },
+  {
+    "name": " کوشکک-فارس ",
+    "code": 73791,
+    "stateCode": 71
+  },
+  {
+    "name": " مزایجان ",
+    "code": 73810,
+    "stateCode": 71
+  },
+  {
+    "name": " خنجشت ",
+    "code": 73811,
+    "stateCode": 71
+  },
+  {
+    "name": " امامزاده اسماعیل ",
+    "code": 73831,
+    "stateCode": 71
+  },
+  {
+    "name": " مادرسلیمان ",
+    "code": 73840,
+    "stateCode": 71
+  },
+  {
+    "name": " اسپاس ",
+    "code": 73851,
+    "stateCode": 71
+  },
+  {
+    "name": " شهرمیان ",
+    "code": 73891,
+    "stateCode": 71
+  },
+  {
+    "name": " بندبست ",
+    "code": 74161,
+    "stateCode": 71
+  },
+  {
+    "name": " فیشور ",
+    "code": 74311,
+    "stateCode": 71
+  },
+  {
+    "name": " کهنه ",
+    "code": 74411,
+    "stateCode": 71
+  },
+  {
+    "name": " خوزی ",
+    "code": 74414,
+    "stateCode": 71
+  },
+  {
+    "name": " بنوان ",
+    "code": 74471,
+    "stateCode": 71
+  },
+  {
+    "name": " درب قلعه ",
+    "code": 74491,
+    "stateCode": 71
+  },
+  {
+    "name": " دنیان ",
+    "code": 74561,
+    "stateCode": 71
+  },
+  {
+    "name": " سروو ",
+    "code": 74571,
+    "stateCode": 71
+  },
+  {
+    "name": " مانیان ",
+    "code": 74581,
+    "stateCode": 71
+  },
+  {
+    "name": " به جان ",
+    "code": 74591,
+    "stateCode": 71
+  },
+  {
+    "name": " کوشک قاضی ",
+    "code": 74611,
+    "stateCode": 71
+  },
+  {
+    "name": " قره بلاغ-فارس ",
+    "code": 74650,
+    "stateCode": 71
+  },
+  {
+    "name": " قاسم ابادسفلی ",
+    "code": 74661,
+    "stateCode": 71
+  },
+  {
+    "name": " میانده-فارس ",
+    "code": 74681,
+    "stateCode": 71
+  },
+  {
+    "name": " صحرارود ",
+    "code": 74691,
+    "stateCode": 71
+  },
+  {
+    "name": " بایگان ",
+    "code": 74711,
+    "stateCode": 71
+  },
+  {
+    "name": " جوکان ",
+    "code": 74791,
+    "stateCode": 71
+  },
+  {
+    "name": " مادوان-فارس ",
+    "code": 74811,
+    "stateCode": 71
+  },
+  {
+    "name": " ماه سالاری ",
+    "code": 74831,
+    "stateCode": 71
+  },
+  {
+    "name": " رستاق ",
+    "code": 74841,
+    "stateCode": 71
+  },
+  {
+    "name": " چمن مروارید ",
+    "code": 74881,
+    "stateCode": 71
+  },
+  {
+    "name": " لای حنا ",
+    "code": 74911,
+    "stateCode": 71
+  },
+  {
+    "name": " قطاربنه ",
+    "code": 74941,
+    "stateCode": 71
+  },
+  {
+    "name": " هرگان ",
+    "code": 74991,
+    "stateCode": 71
+  },
+  {
+    "name": "ارداق",
+    "code": 702,
+    "stateCode": 28
+  },
+  {
+    "name": "اسفرورين",
+    "code": 703,
+    "stateCode": 28
+  },
+  {
+    "name": "اقباليه",
+    "code": 704,
+    "stateCode": 28
+  },
+  {
+    "name": "الوند",
+    "code": 705,
+    "stateCode": 28
+  },
+  {
+    "name": "آبگرم",
+    "code": 706,
+    "stateCode": 28
+  },
+  {
+    "name": "آبيك",
+    "code": 707,
+    "stateCode": 28
+  },
+  {
+    "name": "آوج",
+    "code": 708,
+    "stateCode": 28
+  },
+  {
+    "name": "بوئين زهرا",
+    "code": 709,
+    "stateCode": 28
+  },
+  {
+    "name": "بيدستان",
+    "code": 710,
+    "stateCode": 28
+  },
+  {
+    "name": "تاكستان",
+    "code": 711,
+    "stateCode": 28
+  },
+  {
+    "name": "خاكعلي",
+    "code": 712,
+    "stateCode": 28
+  },
+  {
+    "name": "خرمدشت",
+    "code": 713,
+    "stateCode": 28
+  },
+  {
+    "name": "دانسفهان",
+    "code": 714,
+    "stateCode": 28
+  },
+  {
+    "name": "رازميان",
+    "code": 715,
+    "stateCode": 28
+  },
+  {
+    "name": "سگزآباد",
+    "code": 716,
+    "stateCode": 28
+  },
+  {
+    "name": "سيردان",
+    "code": 717,
+    "stateCode": 28
+  },
+  {
+    "name": "شال",
+    "code": 718,
+    "stateCode": 28
+  },
+  {
+    "name": "شريفيه",
+    "code": 719,
+    "stateCode": 28
+  },
+  {
+    "name": "ضياءآباد",
+    "code": 720,
+    "stateCode": 28
+  },
+  {
+    "name": "قزوين",
+    "code": 721,
+    "stateCode": 28
+  },
+  {
+    "name": "كوهين",
+    "code": 722,
+    "stateCode": 28
+  },
+  {
+    "name": "محمديه",
+    "code": 723,
+    "stateCode": 28
+  },
+  {
+    "name": "محمودآبادنمونه",
+    "code": 724,
+    "stateCode": 28
+  },
+  {
+    "name": "معلم كلايه",
+    "code": 725,
+    "stateCode": 28
+  },
+  {
+    "name": "نرجه",
+    "code": 726,
+    "stateCode": 28
+  },
+  {
+    "name": " نصرت آباد-قزوین ",
+    "code": 34313,
+    "stateCode": 28
+  },
+  {
+    "name": " الولک ",
+    "code": 34331,
+    "stateCode": 28
+  },
+  {
+    "name": " کاکوهستان ",
+    "code": 34341,
+    "stateCode": 28
+  },
+  {
+    "name": " فلار ",
+    "code": 34351,
+    "stateCode": 28
+  },
+  {
+    "name": " مینودشت ",
+    "code": 34381,
+    "stateCode": 28
+  },
+  {
+    "name": " زوارک ",
+    "code": 34391,
+    "stateCode": 28
+  },
+  {
+    "name": " صمغ اباد ",
+    "code": 34431,
+    "stateCode": 28
+  },
+  {
+    "name": " ناصراباد-قزوین ",
+    "code": 34441,
+    "stateCode": 28
+  },
+  {
+    "name": " رشتقون ",
+    "code": 34461,
+    "stateCode": 28
+  },
+  {
+    "name": " قشلاق ",
+    "code": 34471,
+    "stateCode": 28
+  },
+  {
+    "name": " شهرک صنعتی لیا (قدیم ) ",
+    "code": 34491,
+    "stateCode": 28
+  },
+  {
+    "name": " عصمت اباد ",
+    "code": 34541,
+    "stateCode": 28
+  },
+  {
+    "name": " خرم اباد ",
+    "code": 34551,
+    "stateCode": 28
+  },
+  {
+    "name": " کلنجین ",
+    "code": 34631,
+    "stateCode": 28
+  },
+  {
+    "name": " استبلخ ",
+    "code": 34651,
+    "stateCode": 28
+  },
+  {
+    "name": " نیارج ",
+    "code": 34681,
+    "stateCode": 28
+  },
+  {
+    "name": " حصارولیعصر ",
+    "code": 34691,
+    "stateCode": 28
+  },
+  {
+    "name": " ماهین ",
+    "code": 34731,
+    "stateCode": 28
+  },
+  {
+    "name": " سیاهپوش ",
+    "code": 34761,
+    "stateCode": 28
+  },
+  {
+    "name": " نیارک ",
+    "code": 34781,
+    "stateCode": 28
+  },
+  {
+    "name": " اقابابا ",
+    "code": 34791,
+    "stateCode": 28
+  },
+  {
+    "name": " حسین اباد-قزوین ",
+    "code": 34871,
+    "stateCode": 28
+  },
+  {
+    "name": " رحیم اباد ",
+    "code": 34891,
+    "stateCode": 28
+  },
+  {
+    "name": " مهرگان ",
+    "code": 34913,
+    "stateCode": 28
+  },
+  {
+    "name": " یحیی اباد-قزوین ",
+    "code": 34941,
+    "stateCode": 28
+  },
+  {
+    "name": " نیکویه ",
+    "code": 34951,
+    "stateCode": 28
+  },
+  {
+    "name": "جعفريه",
+    "code": 727,
+    "stateCode": 25
+  },
+  {
+    "name": "دستجرد",
+    "code": 728,
+    "stateCode": 25
+  },
+  {
+    "name": "سلفچگان",
+    "code": 729,
+    "stateCode": 25
+  },
+  {
+    "name": "قم",
+    "code": 730,
+    "stateCode": 25
+  },
+  {
+    "name": "قنوات",
+    "code": 731,
+    "stateCode": 25
+  },
+  {
+    "name": "كهك",
+    "code": 732,
+    "stateCode": 25
+  },
+  {
+    "name": " امیرابادگنجی ",
+    "code": 37331,
+    "stateCode": 25
+  },
+  {
+    "name": " قمرود ",
+    "code": 37341,
+    "stateCode": 25
+  },
+  {
+    "name": " قلعه چم ",
+    "code": 37361,
+    "stateCode": 25
+  },
+  {
+    "name": " قاهان ",
+    "code": 37431,
+    "stateCode": 25
+  },
+  {
+    "name": " جنداب ",
+    "code": 37451,
+    "stateCode": 25
+  },
+  {
+    "name": "آرمرده",
+    "code": 733,
+    "stateCode": 87
+  },
+  {
+    "name": "بابارشاني",
+    "code": 734,
+    "stateCode": 87
+  },
+  {
+    "name": "بانه",
+    "code": 735,
+    "stateCode": 87
+  },
+  {
+    "name": "بلبان آباد",
+    "code": 736,
+    "stateCode": 87
+  },
+  {
+    "name": "بوئين سفلي",
+    "code": 737,
+    "stateCode": 87
+  },
+  {
+    "name": "بيجار",
+    "code": 738,
+    "stateCode": 87
+  },
+  {
+    "name": "چناره",
+    "code": 739,
+    "stateCode": 87
+  },
+  {
+    "name": "دزج",
+    "code": 740,
+    "stateCode": 87
+  },
+  {
+    "name": "دلبران",
+    "code": 741,
+    "stateCode": 87
+  },
+  {
+    "name": "دهگلان",
+    "code": 742,
+    "stateCode": 87
+  },
+  {
+    "name": "ديواندره",
+    "code": 743,
+    "stateCode": 87
+  },
+  {
+    "name": "زرينه",
+    "code": 744,
+    "stateCode": 87
+  },
+  {
+    "name": "سروآباد",
+    "code": 745,
+    "stateCode": 87
+  },
+  {
+    "name": "سريش آباد",
+    "code": 746,
+    "stateCode": 87
+  },
+  {
+    "name": "سقز",
+    "code": 747,
+    "stateCode": 87
+  },
+  {
+    "name": "سنندج",
+    "code": 748,
+    "stateCode": 87
+  },
+  {
+    "name": "شويشه",
+    "code": 749,
+    "stateCode": 87
+  },
+  {
+    "name": "صاحب",
+    "code": 750,
+    "stateCode": 87
+  },
+  {
+    "name": "قروه",
+    "code": 751,
+    "stateCode": 87
+  },
+  {
+    "name": "كامياران",
+    "code": 752,
+    "stateCode": 87
+  },
+  {
+    "name": "كاني دينار",
+    "code": 753,
+    "stateCode": 87
+  },
+  {
+    "name": "كاني سور",
+    "code": 754,
+    "stateCode": 87
+  },
+  {
+    "name": "مريوان",
+    "code": 755,
+    "stateCode": 87
+  },
+  {
+    "name": "موچش",
+    "code": 756,
+    "stateCode": 87
+  },
+  {
+    "name": "ياسوكند",
+    "code": 757,
+    "stateCode": 87
+  },
+  {
+    "name": " شاهینی ",
+    "code": 66331,
+    "stateCode": 87
+  },
+  {
+    "name": " طای ",
+    "code": 66341,
+    "stateCode": 87
+  },
+  {
+    "name": " گازرخانی ",
+    "code": 66351,
+    "stateCode": 87
+  },
+  {
+    "name": " نشورسفلی ",
+    "code": 66361,
+    "stateCode": 87
+  },
+  {
+    "name": " شیروانه ",
+    "code": 66371,
+    "stateCode": 87
+  },
+  {
+    "name": " خامسان ",
+    "code": 66381,
+    "stateCode": 87
+  },
+  {
+    "name": " شریف اباد ",
+    "code": 66431,
+    "stateCode": 87
+  },
+  {
+    "name": " کوله ",
+    "code": 66441,
+    "stateCode": 87
+  },
+  {
+    "name": " هزارکانیان ",
+    "code": 66451,
+    "stateCode": 87
+  },
+  {
+    "name": " گورباباعلی ",
+    "code": 66471,
+    "stateCode": 87
+  },
+  {
+    "name": " گاوشله ",
+    "code": 66481,
+    "stateCode": 87
+  },
+  {
+    "name": " خرکه ",
+    "code": 66491,
+    "stateCode": 87
+  },
+  {
+    "name": " توپ اغاج ",
+    "code": 66541,
+    "stateCode": 87
+  },
+  {
+    "name": " اق بلاغ طغامین ",
+    "code": 66551,
+    "stateCode": 87
+  },
+  {
+    "name": " خسرواباد-کردستان ",
+    "code": 66571,
+    "stateCode": 87
+  },
+  {
+    "name": " جعفراباد-کردستان ",
+    "code": 66591,
+    "stateCode": 87
+  },
+  {
+    "name": " کانی گنجی ",
+    "code": 66651,
+    "stateCode": 87
+  },
+  {
+    "name": " قوریچای ",
+    "code": 66681,
+    "stateCode": 87
+  },
+  {
+    "name": " نی ",
+    "code": 66731,
+    "stateCode": 87
+  },
+  {
+    "name": " برده رشه ",
+    "code": 66741,
+    "stateCode": 87
+  },
+  {
+    "name": " پیرخضران ",
+    "code": 66761,
+    "stateCode": 87
+  },
+  {
+    "name": " بیساران ",
+    "code": 66771,
+    "stateCode": 87
+  },
+  {
+    "name": " اورامان تخت ",
+    "code": 66791,
+    "stateCode": 87
+  },
+  {
+    "name": " سرا ",
+    "code": 66831,
+    "stateCode": 87
+  },
+  {
+    "name": " گل تپه-کردستان ",
+    "code": 66841,
+    "stateCode": 87
+  },
+  {
+    "name": " تیلکو ",
+    "code": 66851,
+    "stateCode": 87
+  },
+  {
+    "name": " خورخوره-کردستان ",
+    "code": 66871,
+    "stateCode": 87
+  },
+  {
+    "name": " کسنزان ",
+    "code": 66881,
+    "stateCode": 87
+  },
+  {
+    "name": " میرده ",
+    "code": 66891,
+    "stateCode": 87
+  },
+  {
+    "name": " ننور ",
+    "code": 66931,
+    "stateCode": 87
+  },
+  {
+    "name": " بوالحسن ",
+    "code": 66961,
+    "stateCode": 87
+  },
+  {
+    "name": " کوخان ",
+    "code": 66981,
+    "stateCode": 87
+  },
+  {
+    "name": " شوی ",
+    "code": 66991,
+    "stateCode": 87
+  },
+  {
+    "name": "اختيارآباد",
+    "code": 758,
+    "stateCode": 34
+  },
+  {
+    "name": "ارزوئيه",
+    "code": 759,
+    "stateCode": 34
+  },
+  {
+    "name": "امين شهر",
+    "code": 760,
+    "stateCode": 34
+  },
+  {
+    "name": "انار",
+    "code": 761,
+    "stateCode": 34
+  },
+  {
+    "name": "اندوهجرد",
+    "code": 762,
+    "stateCode": 34
+  },
+  {
+    "name": "باغين",
+    "code": 763,
+    "stateCode": 34
+  },
+  {
+    "name": "بافت",
+    "code": 764,
+    "stateCode": 34
+  },
+  {
+    "name": "بردسير",
+    "code": 765,
+    "stateCode": 34
+  },
+  {
+    "name": "بروات",
+    "code": 766,
+    "stateCode": 34
+  },
+  {
+    "name": "بزنجان",
+    "code": 767,
+    "stateCode": 34
+  },
+  {
+    "name": "بم",
+    "code": 768,
+    "stateCode": 34
+  },
+  {
+    "name": "بهرمان",
+    "code": 769,
+    "stateCode": 34
+  },
+  {
+    "name": "پاريز",
+    "code": 770,
+    "stateCode": 34
+  },
+  {
+    "name": "جبالبارز",
+    "code": 771,
+    "stateCode": 34
+  },
+  {
+    "name": "جوپار",
+    "code": 772,
+    "stateCode": 34
+  },
+  {
+    "name": "جوزم",
+    "code": 773,
+    "stateCode": 34
+  },
+  {
+    "name": "جيرفت",
+    "code": 774,
+    "stateCode": 34
+  },
+  {
+    "name": "چترود",
+    "code": 775,
+    "stateCode": 34
+  },
+  {
+    "name": "خاتون آباد",
+    "code": 776,
+    "stateCode": 34
+  },
+  {
+    "name": "خانوك",
+    "code": 777,
+    "stateCode": 34
+  },
+  {
+    "name": "خورسند",
+    "code": 778,
+    "stateCode": 34
+  },
+  {
+    "name": "درب بهشت",
+    "code": 779,
+    "stateCode": 34
+  },
+  {
+    "name": "دوساري",
+    "code": 780,
+    "stateCode": 34
+  },
+  {
+    "name": "دهج",
+    "code": 781,
+    "stateCode": 34
+  },
+  {
+    "name": "رابر",
+    "code": 782,
+    "stateCode": 34
+  },
+  {
+    "name": "راور",
+    "code": 783,
+    "stateCode": 34
+  },
+  {
+    "name": "راين",
+    "code": 784,
+    "stateCode": 34
+  },
+  {
+    "name": "رفسنجان",
+    "code": 785,
+    "stateCode": 34
+  },
+  {
+    "name": "رودبار",
+    "code": 786,
+    "stateCode": 34
+  },
+  {
+    "name": "ريحان شهر",
+    "code": 787,
+    "stateCode": 34
+  },
+  {
+    "name": "زرند",
+    "code": 788,
+    "stateCode": 34
+  },
+  {
+    "name": "زنگي آباد",
+    "code": 789,
+    "stateCode": 34
+  },
+  {
+    "name": "زيدآباد",
+    "code": 790,
+    "stateCode": 34
+  },
+  {
+    "name": "سرچشمه",
+    "code": 791,
+    "stateCode": 34
+  },
+  {
+    "name": "سيرجان",
+    "code": 792,
+    "stateCode": 34
+  },
+  {
+    "name": "شهداد",
+    "code": 793,
+    "stateCode": 34
+  },
+  {
+    "name": "شهربابك",
+    "code": 794,
+    "stateCode": 34
+  },
+  {
+    "name": "صفائيه",
+    "code": 795,
+    "stateCode": 34
+  },
+  {
+    "name": "عنبرآباد",
+    "code": 796,
+    "stateCode": 34
+  },
+  {
+    "name": "فارياب",
+    "code": 797,
+    "stateCode": 34
+  },
+  {
+    "name": "فهرج",
+    "code": 798,
+    "stateCode": 34
+  },
+  {
+    "name": "قلعه گنج",
+    "code": 799,
+    "stateCode": 34
+  },
+  {
+    "name": "كاظم آباد",
+    "code": 800,
+    "stateCode": 34
+  },
+  {
+    "name": "كرمان",
+    "code": 801,
+    "stateCode": 34
+  },
+  {
+    "name": "كشكوئيه",
+    "code": 802,
+    "stateCode": 34
+  },
+  {
+    "name": "كوهبنان",
+    "code": 803,
+    "stateCode": 34
+  },
+  {
+    "name": "كهنوج",
+    "code": 804,
+    "stateCode": 34
+  },
+  {
+    "name": "كيانشهر",
+    "code": 805,
+    "stateCode": 34
+  },
+  {
+    "name": "گلباف",
+    "code": 806,
+    "stateCode": 34
+  },
+  {
+    "name": "گلزار",
+    "code": 807,
+    "stateCode": 34
+  },
+  {
+    "name": "لاله زار",
+    "code": 808,
+    "stateCode": 34
+  },
+  {
+    "name": "ماهان",
+    "code": 809,
+    "stateCode": 34
+  },
+  {
+    "name": "محمدآباد",
+    "code": 810,
+    "stateCode": 34
+  },
+  {
+    "name": "محي آباد",
+    "code": 811,
+    "stateCode": 34
+  },
+  {
+    "name": "مردهك",
+    "code": 812,
+    "stateCode": 34
+  },
+  {
+    "name": "منوجان",
+    "code": 813,
+    "stateCode": 34
+  },
+  {
+    "name": "نجف شهر",
+    "code": 814,
+    "stateCode": 34
+  },
+  {
+    "name": "نرماشير",
+    "code": 815,
+    "stateCode": 34
+  },
+  {
+    "name": "نظام شهر",
+    "code": 816,
+    "stateCode": 34
+  },
+  {
+    "name": "نگار",
+    "code": 817,
+    "stateCode": 34
+  },
+  {
+    "name": "نودژ",
+    "code": 818,
+    "stateCode": 34
+  },
+  {
+    "name": "هجدك",
+    "code": 819,
+    "stateCode": 34
+  },
+  {
+    "name": "هماشهر",
+    "code": 820,
+    "stateCode": 34
+  },
+  {
+    "name": "يزدان شهر",
+    "code": 821,
+    "stateCode": 34
+  },
+  {
+    "name": " ده بالا ",
+    "code": 76331,
+    "stateCode": 34
+  },
+  {
+    "name": " جوشان ",
+    "code": 76431,
+    "stateCode": 34
+  },
+  {
+    "name": " کشیت ",
+    "code": 76471,
+    "stateCode": 34
+  },
+  {
+    "name": " فیض اباد ",
+    "code": 76541,
+    "stateCode": 34
+  },
+  {
+    "name": " دریجان ",
+    "code": 76641,
+    "stateCode": 34
+  },
+  {
+    "name": " برج معاز ",
+    "code": 76771,
+    "stateCode": 34
+  },
+  {
+    "name": " خانه خاتون ",
+    "code": 76831,
+    "stateCode": 34
+  },
+  {
+    "name": " ابارق ",
+    "code": 76841,
+    "stateCode": 34
+  },
+  {
+    "name": " گروه ",
+    "code": 76861,
+    "stateCode": 34
+  },
+  {
+    "name": " گزک ",
+    "code": 76871,
+    "stateCode": 34
+  },
+  {
+    "name": " تهرود ",
+    "code": 76941,
+    "stateCode": 34
+  },
+  {
+    "name": " میرابادارجمند ",
+    "code": 76951,
+    "stateCode": 34
+  },
+  {
+    "name": " داوران ",
+    "code": 77331,
+    "stateCode": 34
+  },
+  {
+    "name": " خنامان ",
+    "code": 77341,
+    "stateCode": 34
+  },
+  {
+    "name": " کبوترخان ",
+    "code": 77351,
+    "stateCode": 34
+  },
+  {
+    "name": " هرمزاباد ",
+    "code": 77361,
+    "stateCode": 34
+  },
+  {
+    "name": " گلشن-کرمان ",
+    "code": 77381,
+    "stateCode": 34
+  },
+  {
+    "name": " جوادیه الهیه نوق ",
+    "code": 77471,
+    "stateCode": 34
+  },
+  {
+    "name": " محمدابادبرفه ",
+    "code": 77541,
+    "stateCode": 34
+  },
+  {
+    "name": " خبر ",
+    "code": 77561,
+    "stateCode": 34
+  },
+  {
+    "name": " کمسرخ ",
+    "code": 77571,
+    "stateCode": 34
+  },
+  {
+    "name": " دشت خاک ",
+    "code": 77631,
+    "stateCode": 34
+  },
+  {
+    "name": " حتکن ",
+    "code": 77651,
+    "stateCode": 34
+  },
+  {
+    "name": " ریحان ",
+    "code": 77661,
+    "stateCode": 34
+  },
+  {
+    "name": " جرجافک ",
+    "code": 77671,
+    "stateCode": 34
+  },
+  {
+    "name": " شعبجره ",
+    "code": 77731,
+    "stateCode": 34
+  },
+  {
+    "name": " سیریز ",
+    "code": 77751,
+    "stateCode": 34
+  },
+  {
+    "name": " جور ",
+    "code": 77861,
+    "stateCode": 34
+  },
+  {
+    "name": " هوتک ",
+    "code": 77931,
+    "stateCode": 34
+  },
+  {
+    "name": " حرجند ",
+    "code": 77971,
+    "stateCode": 34
+  },
+  {
+    "name": " بلورد ",
+    "code": 78331,
+    "stateCode": 34
+  },
+  {
+    "name": " ملک اباد ",
+    "code": 78341,
+    "stateCode": 34
+  },
+  {
+    "name": " عماداباد ",
+    "code": 78361,
+    "stateCode": 34
+  },
+  {
+    "name": " قلعه عسکر ",
+    "code": 78461,
+    "stateCode": 34
+  },
+  {
+    "name": " مومن اباد-کرمان ",
+    "code": 78471,
+    "stateCode": 34
+  },
+  {
+    "name": " چناربرین ",
+    "code": 78481,
+    "stateCode": 34
+  },
+  {
+    "name": " کمال اباد ",
+    "code": 78491,
+    "stateCode": 34
+  },
+  {
+    "name": " امیراباد ",
+    "code": 78541,
+    "stateCode": 34
+  },
+  {
+    "name": " پتکان ",
+    "code": 78571,
+    "stateCode": 34
+  },
+  {
+    "name": " رضی ابادبالا ",
+    "code": 78691,
+    "stateCode": 34
+  },
+  {
+    "name": " میجان علیا ",
+    "code": 78731,
+    "stateCode": 34
+  },
+  {
+    "name": " حسین ابادجدید ",
+    "code": 78781,
+    "stateCode": 34
+  },
+  {
+    "name": " بلوک ",
+    "code": 78791,
+    "stateCode": 34
+  },
+  {
+    "name": " سرخ قلعه ",
+    "code": 78941,
+    "stateCode": 34
+  },
+  {
+    "name": " خیراباد-کرمان ",
+    "code": 78971,
+    "stateCode": 34
+  },
+  {
+    "name": "ازگله",
+    "code": 822,
+    "stateCode": 83
+  },
+  {
+    "name": "اسلام آبادغرب",
+    "code": 823,
+    "stateCode": 83
+  },
+  {
+    "name": "باينگان",
+    "code": 824,
+    "stateCode": 83
+  },
+  {
+    "name": "بيستون",
+    "code": 825,
+    "stateCode": 83
+  },
+  {
+    "name": "پاوه",
+    "code": 826,
+    "stateCode": 83
+  },
+  {
+    "name": "تازه آباد",
+    "code": 827,
+    "stateCode": 83
+  },
+  {
+    "name": "جوانرود",
+    "code": 828,
+    "stateCode": 83
+  },
+  {
+    "name": "حميل",
+    "code": 829,
+    "stateCode": 83
+  },
+  {
+    "name": "رباط",
+    "code": 830,
+    "stateCode": 83
+  },
+  {
+    "name": "روانسر",
+    "code": 831,
+    "stateCode": 83
+  },
+  {
+    "name": "سرپل ذهاب",
+    "code": 832,
+    "stateCode": 83
+  },
+  {
+    "name": "سرمست",
+    "code": 833,
+    "stateCode": 83
+  },
+  {
+    "name": "سطر",
+    "code": 834,
+    "stateCode": 83
+  },
+  {
+    "name": "سنقر",
+    "code": 835,
+    "stateCode": 83
+  },
+  {
+    "name": "سومار",
+    "code": 836,
+    "stateCode": 83
+  },
+  {
+    "name": "شاهو",
+    "code": 837,
+    "stateCode": 83
+  },
+  {
+    "name": "صحنه",
+    "code": 838,
+    "stateCode": 83
+  },
+  {
+    "name": "قصرشيرين",
+    "code": 839,
+    "stateCode": 83
+  },
+  {
+    "name": "كرمانشاه",
+    "code": 840,
+    "stateCode": 83
+  },
+  {
+    "name": "كرندغرب",
+    "code": 841,
+    "stateCode": 83
+  },
+  {
+    "name": "كنگاور",
+    "code": 842,
+    "stateCode": 83
+  },
+  {
+    "name": "كوزران",
+    "code": 843,
+    "stateCode": 83
+  },
+  {
+    "name": "گهواره",
+    "code": 844,
+    "stateCode": 83
+  },
+  {
+    "name": "گيلانغرب",
+    "code": 845,
+    "stateCode": 83
+  },
+  {
+    "name": "ميان راهان",
+    "code": 846,
+    "stateCode": 83
+  },
+  {
+    "name": "نودشه",
+    "code": 847,
+    "stateCode": 83
+  },
+  {
+    "name": "نوسود",
+    "code": 848,
+    "stateCode": 83
+  },
+  {
+    "name": "هرسين",
+    "code": 849,
+    "stateCode": 83
+  },
+  {
+    "name": "هلشي",
+    "code": 850,
+    "stateCode": 83
+  },
+  {
+    "name": " هفت اشیان ",
+    "code": 67331,
+    "stateCode": 83
+  },
+  {
+    "name": " دوردشت ",
+    "code": 67351,
+    "stateCode": 83
+  },
+  {
+    "name": " سنقراباد ",
+    "code": 67361,
+    "stateCode": 83
+  },
+  {
+    "name": " جعفراباد-کرمانشاه ",
+    "code": 67381,
+    "stateCode": 83
+  },
+  {
+    "name": " مرزبانی ",
+    "code": 67391,
+    "stateCode": 83
+  },
+  {
+    "name": " فش ",
+    "code": 67431,
+    "stateCode": 83
+  },
+  {
+    "name": " فرامان ",
+    "code": 67441,
+    "stateCode": 83
+  },
+  {
+    "name": " سلطان اباد-کرمانشاه ",
+    "code": 67451,
+    "stateCode": 83
+  },
+  {
+    "name": " قزوینه ",
+    "code": 67471,
+    "stateCode": 83
+  },
+  {
+    "name": " دهلقین ",
+    "code": 67481,
+    "stateCode": 83
+  },
+  {
+    "name": " درکه ",
+    "code": 67491,
+    "stateCode": 83
+  },
+  {
+    "name": " باوله ",
+    "code": 67531,
+    "stateCode": 83
+  },
+  {
+    "name": " گردکانه علیا ",
+    "code": 67541,
+    "stateCode": 83
+  },
+  {
+    "name": " اگاه علیا ",
+    "code": 67551,
+    "stateCode": 83
+  },
+  {
+    "name": " کیوه نان ",
+    "code": 67571,
+    "stateCode": 83
+  },
+  {
+    "name": " کرکسار ",
+    "code": 67581,
+    "stateCode": 83
+  },
+  {
+    "name": " کندوله ",
+    "code": 67591,
+    "stateCode": 83
+  },
+  {
+    "name": " زاوله علیا ",
+    "code": 67631,
+    "stateCode": 83
+  },
+  {
+    "name": " ریجاب ",
+    "code": 67651,
+    "stateCode": 83
+  },
+  {
+    "name": " قلعه شیان ",
+    "code": 67691,
+    "stateCode": 83
+  },
+  {
+    "name": " حسن اباد-کرمانشاه ",
+    "code": 67731,
+    "stateCode": 83
+  },
+  {
+    "name": " سراب ذهاب ",
+    "code": 67741,
+    "stateCode": 83
+  },
+  {
+    "name": " ترک ویس ",
+    "code": 67751,
+    "stateCode": 83
+  },
+  {
+    "name": " نساردیره ",
+    "code": 67781,
+    "stateCode": 83
+  },
+  {
+    "name": " تپه رش ",
+    "code": 67831,
+    "stateCode": 83
+  },
+  {
+    "name": " خسروی ",
+    "code": 67841,
+    "stateCode": 83
+  },
+  {
+    "name": " قیلان ",
+    "code": 67891,
+    "stateCode": 83
+  },
+  {
+    "name": " بانوره ",
+    "code": 67940,
+    "stateCode": 83
+  },
+  {
+    "name": " دولت اباد-کرمانشاه ",
+    "code": 67971,
+    "stateCode": 83
+  },
+  {
+    "name": " میراباد-کرمانشاه ",
+    "code": 67991,
+    "stateCode": 83
+  },
+  {
+    "name": "باشت",
+    "code": 851,
+    "stateCode": 74
+  },
+  {
+    "name": "پاتاوه",
+    "code": 852,
+    "stateCode": 74
+  },
+  {
+    "name": "چرام",
+    "code": 853,
+    "stateCode": 74
+  },
+  {
+    "name": "چيتاب",
+    "code": 854,
+    "stateCode": 74
+  },
+  {
+    "name": "دوگنبدان",
+    "code": 855,
+    "stateCode": 74
+  },
+  {
+    "name": "دهدشت",
+    "code": 856,
+    "stateCode": 74
+  },
+  {
+    "name": "ديشموك",
+    "code": 857,
+    "stateCode": 74
+  },
+  {
+    "name": "سوق",
+    "code": 858,
+    "stateCode": 74
+  },
+  {
+    "name": "سي سخت",
+    "code": 859,
+    "stateCode": 74
+  },
+  {
+    "name": "قلعه رئيسي",
+    "code": 860,
+    "stateCode": 74
+  },
+  {
+    "name": "گراب سفلي",
+    "code": 861,
+    "stateCode": 74
+  },
+  {
+    "name": "لنده",
+    "code": 862,
+    "stateCode": 74
+  },
+  {
+    "name": "ليكك",
+    "code": 863,
+    "stateCode": 74
+  },
+  {
+    "name": "مادوان",
+    "code": 864,
+    "stateCode": 74
+  },
+  {
+    "name": "مارگون",
+    "code": 865,
+    "stateCode": 74
+  },
+  {
+    "name": "ياسوج",
+    "code": 866,
+    "stateCode": 74
+  },
+  {
+    "name": " قلعه رییسی ",
+    "code": 75781,
+    "stateCode": 74
+  },
+  {
+    "name": " قلعه دختر ",
+    "code": 75791,
+    "stateCode": 74
+  },
+  {
+    "name": " باباکلان ",
+    "code": 75831,
+    "stateCode": 74
+  },
+  {
+    "name": " مظفراباد ",
+    "code": 75841,
+    "stateCode": 74
+  },
+  {
+    "name": " دیل ",
+    "code": 75851,
+    "stateCode": 74
+  },
+  {
+    "name": " شاه بهرام ",
+    "code": 75861,
+    "stateCode": 74
+  },
+  {
+    "name": " چاه تلخاب علیا ",
+    "code": 75871,
+    "stateCode": 74
+  },
+  {
+    "name": " سربیشه-کهگیلویه و بویراحمد ",
+    "code": 75891,
+    "stateCode": 74
+  },
+  {
+    "name": " مادوان-کهگیلویه و بویراحمد ",
+    "code": 75911,
+    "stateCode": 74
+  },
+  {
+    "name": " میمند-کهگیلویه و بویراحمد ",
+    "code": 75971,
+    "stateCode": 74
+  },
+  {
+    "name": " بندرترکمن ",
+    "code": 4891,
+    "stateCode": 17
+  },
+  {
+    "name": " تقی اباد-گلستان ",
+    "code": 49371,
+    "stateCode": 17
+  },
+  {
+    "name": " حاجیکلاته ",
+    "code": 49471,
+    "stateCode": 17
+  },
+  {
+    "name": " تاتارعلیا ",
+    "code": 49680,
+    "stateCode": 17
+  },
+  {
+    "name": " کرند ",
+    "code": 49791,
+    "stateCode": 17
+  },
+  {
+    "name": " عزیزاباد-گلستان ",
+    "code": 49981,
+    "stateCode": 17
+  },
+  {
+    "name": "انبارآلوم",
+    "code": 867,
+    "stateCode": 17
+  },
+  {
+    "name": "اينچه برون",
+    "code": 868,
+    "stateCode": 17
+  },
+  {
+    "name": "آزادشهر",
+    "code": 869,
+    "stateCode": 17
+  },
+  {
+    "name": "آق قلا",
+    "code": 870,
+    "stateCode": 17
+  },
+  {
+    "name": "بندرگز",
+    "code": 871,
+    "stateCode": 17
+  },
+  {
+    "name": "تركمن",
+    "code": 872,
+    "stateCode": 17
+  },
+  {
+    "name": "جلين",
+    "code": 873,
+    "stateCode": 17
+  },
+  {
+    "name": "خان ببين",
+    "code": 874,
+    "stateCode": 17
+  },
+  {
+    "name": "دلند",
+    "code": 875,
+    "stateCode": 17
+  },
+  {
+    "name": "راميان",
+    "code": 876,
+    "stateCode": 17
+  },
+  {
+    "name": "سرخنكلاته",
+    "code": 877,
+    "stateCode": 17
+  },
+  {
+    "name": "سيمين شهر",
+    "code": 878,
+    "stateCode": 17
+  },
+  {
+    "name": "علي آباد",
+    "code": 879,
+    "stateCode": 17
+  },
+  {
+    "name": "فاضل آباد",
+    "code": 880,
+    "stateCode": 17
+  },
+  {
+    "name": "كردكوي",
+    "code": 881,
+    "stateCode": 17
+  },
+  {
+    "name": "كلاله",
+    "code": 882,
+    "stateCode": 17
+  },
+  {
+    "name": "گاليكش",
+    "code": 883,
+    "stateCode": 17
+  },
+  {
+    "name": "گرگان",
+    "code": 884,
+    "stateCode": 17
+  },
+  {
+    "name": "گميش تپه",
+    "code": 885,
+    "stateCode": 17
+  },
+  {
+    "name": "گنبد كاووس",
+    "code": 886,
+    "stateCode": 17
+  },
+  {
+    "name": "مراوه تپه",
+    "code": 887,
+    "stateCode": 17
+  },
+  {
+    "name": "مينودشت",
+    "code": 888,
+    "stateCode": 17
+  },
+  {
+    "name": "نگين شهر",
+    "code": 889,
+    "stateCode": 17
+  },
+  {
+    "name": "نوده خاندوز",
+    "code": 890,
+    "stateCode": 17
+  },
+  {
+    "name": "نوكنده",
+    "code": 891,
+    "stateCode": 17
+  },
+  {
+    "name": "احمدسرگوراب",
+    "code": 892,
+    "stateCode": 13
+  },
+  {
+    "name": "اسالم",
+    "code": 893,
+    "stateCode": 13
+  },
+  {
+    "name": "اطاقور",
+    "code": 894,
+    "stateCode": 13
+  },
+  {
+    "name": "املش",
+    "code": 895,
+    "stateCode": 13
+  },
+  {
+    "name": "آستارا",
+    "code": 896,
+    "stateCode": 13
+  },
+  {
+    "name": "آستانه اشرفيه",
+    "code": 897,
+    "stateCode": 13
+  },
+  {
+    "name": "بازارجمعه",
+    "code": 898,
+    "stateCode": 13
+  },
+  {
+    "name": "بره سر",
+    "code": 899,
+    "stateCode": 13
+  },
+  {
+    "name": "بندرانزلي",
+    "code": 900,
+    "stateCode": 13
+  },
+  {
+    "name": "پره سر",
+    "code": 901,
+    "stateCode": 13
+  },
+  {
+    "name": "توتكابن",
+    "code": 902,
+    "stateCode": 13
+  },
+  {
+    "name": "جيرنده",
+    "code": 903,
+    "stateCode": 13
+  },
+  {
+    "name": "چابكسر",
+    "code": 904,
+    "stateCode": 13
+  },
+  {
+    "name": "چاف وچمخاله",
+    "code": 905,
+    "stateCode": 13
+  },
+  {
+    "name": "چوبر",
+    "code": 906,
+    "stateCode": 13
+  },
+  {
+    "name": "حويق",
+    "code": 907,
+    "stateCode": 13
+  },
+  {
+    "name": "خشكبيجار",
+    "code": 908,
+    "stateCode": 13
+  },
+  {
+    "name": "خمام",
+    "code": 909,
+    "stateCode": 13
+  },
+  {
+    "name": "ديلمان",
+    "code": 910,
+    "stateCode": 13
+  },
+  {
+    "name": "رانكوه",
+    "code": 911,
+    "stateCode": 13
+  },
+  {
+    "name": "رحيم آباد",
+    "code": 912,
+    "stateCode": 13
+  },
+  {
+    "name": "رستم آباد",
+    "code": 913,
+    "stateCode": 13
+  },
+  {
+    "name": "رشت",
+    "code": 914,
+    "stateCode": 13
+  },
+  {
+    "name": "رضوانشهر",
+    "code": 915,
+    "stateCode": 13
+  },
+  {
+    "name": "رودبار",
+    "code": 916,
+    "stateCode": 13
+  },
+  {
+    "name": "رودبنه",
+    "code": 917,
+    "stateCode": 13
+  },
+  {
+    "name": "رودسر",
+    "code": 918,
+    "stateCode": 13
+  },
+  {
+    "name": "سنگر",
+    "code": 919,
+    "stateCode": 13
+  },
+  {
+    "name": "سياهكل",
+    "code": 920,
+    "stateCode": 13
+  },
+  {
+    "name": "شفت",
+    "code": 921,
+    "stateCode": 13
+  },
+  {
+    "name": "شلمان",
+    "code": 922,
+    "stateCode": 13
+  },
+  {
+    "name": "صومعه سرا",
+    "code": 923,
+    "stateCode": 13
+  },
+  {
+    "name": "فومن",
+    "code": 924,
+    "stateCode": 13
+  },
+  {
+    "name": "كلاچاي",
+    "code": 925,
+    "stateCode": 13
+  },
+  {
+    "name": "كوچصفهان",
+    "code": 926,
+    "stateCode": 13
+  },
+  {
+    "name": "كومله",
+    "code": 927,
+    "stateCode": 13
+  },
+  {
+    "name": "كياشهر",
+    "code": 928,
+    "stateCode": 13
+  },
+  {
+    "name": "گوراب زرميخ",
+    "code": 929,
+    "stateCode": 13
+  },
+  {
+    "name": "لاهيجان",
+    "code": 930,
+    "stateCode": 13
+  },
+  {
+    "name": "لشت نشاء",
+    "code": 931,
+    "stateCode": 13
+  },
+  {
+    "name": "لنگرود",
+    "code": 932,
+    "stateCode": 13
+  },
+  {
+    "name": "لوشان",
+    "code": 933,
+    "stateCode": 13
+  },
+  {
+    "name": "لولمان",
+    "code": 934,
+    "stateCode": 13
+  },
+  {
+    "name": "لوندويل",
+    "code": 935,
+    "stateCode": 13
+  },
+  {
+    "name": "ليسار",
+    "code": 936,
+    "stateCode": 13
+  },
+  {
+    "name": "ماسال",
+    "code": 937,
+    "stateCode": 13
+  },
+  {
+    "name": "ماسوله",
+    "code": 938,
+    "stateCode": 13
+  },
+  {
+    "name": "مرجقل",
+    "code": 939,
+    "stateCode": 13
+  },
+  {
+    "name": "منجيل",
+    "code": 940,
+    "stateCode": 13
+  },
+  {
+    "name": "واجارگاه",
+    "code": 941,
+    "stateCode": 13
+  },
+  {
+    "name": "هشتپر",
+    "code": 942,
+    "stateCode": 13
+  },
+  {
+    "name": " ابکنار ",
+    "code": 4331,
+    "stateCode": 13
+  },
+  {
+    "name": " کپورچال ",
+    "code": 43331,
+    "stateCode": 13
+  },
+  {
+    "name": " جیرهنده ",
+    "code": 43341,
+    "stateCode": 13
+  },
+  {
+    "name": " لیچارکی حسن رود ",
+    "code": 43351,
+    "stateCode": 13
+  },
+  {
+    "name": " سراوان-گیلان ",
+    "code": 43381,
+    "stateCode": 13
+  },
+  {
+    "name": " خواچکین ",
+    "code": 43451,
+    "stateCode": 13
+  },
+  {
+    "name": " بلسبنه ",
+    "code": 43471,
+    "stateCode": 13
+  },
+  {
+    "name": " چاپارخانه ",
+    "code": 43481,
+    "stateCode": 13
+  },
+  {
+    "name": " جیرکویه ",
+    "code": 43491,
+    "stateCode": 13
+  },
+  {
+    "name": " ماکلوان ",
+    "code": 43513,
+    "stateCode": 13
+  },
+  {
+    "name": " ملاسرا ",
+    "code": 43551,
+    "stateCode": 13
+  },
+  {
+    "name": " گشت-گیلان ",
+    "code": 43581,
+    "stateCode": 13
+  },
+  {
+    "name": " طاهرگوراب ",
+    "code": 43651,
+    "stateCode": 13
+  },
+  {
+    "name": " ضیابر ",
+    "code": 43661,
+    "stateCode": 13
+  },
+  {
+    "name": " مرکیه ",
+    "code": 43671,
+    "stateCode": 13
+  },
+  {
+    "name": " هنده خاله ",
+    "code": 43681,
+    "stateCode": 13
+  },
+  {
+    "name": " نوخاله اکبری ",
+    "code": 43691,
+    "stateCode": 13
+  },
+  {
+    "name": " شیله وشت ",
+    "code": 43741,
+    "stateCode": 13
+  },
+  {
+    "name": " جوکندان بزرگ ",
+    "code": 43751,
+    "stateCode": 13
+  },
+  {
+    "name": " بازارخطبه سرا ",
+    "code": 43771,
+    "stateCode": 13
+  },
+  {
+    "name": " پلاسی ",
+    "code": 43791,
+    "stateCode": 13
+  },
+  {
+    "name": " پلنگ پاره ",
+    "code": 43871,
+    "stateCode": 13
+  },
+  {
+    "name": " شیخ محله ",
+    "code": 43931,
+    "stateCode": 13
+  },
+  {
+    "name": " ویرمونی ",
+    "code": 43941,
+    "stateCode": 13
+  },
+  {
+    "name": " سیبلی ",
+    "code": 43951,
+    "stateCode": 13
+  },
+  {
+    "name": " مشند ",
+    "code": 43971,
+    "stateCode": 13
+  },
+  {
+    "name": " کوته کومه ",
+    "code": 43981,
+    "stateCode": 13
+  },
+  {
+    "name": " حیران ",
+    "code": 43991,
+    "stateCode": 13
+  },
+  {
+    "name": " پایین محله پاشاکی ",
+    "code": 44331,
+    "stateCode": 13
+  },
+  {
+    "name": " گرماور ",
+    "code": 44341,
+    "stateCode": 13
+  },
+  {
+    "name": " لیش ",
+    "code": 44351,
+    "stateCode": 13
+  },
+  {
+    "name": " بارکوسرا ",
+    "code": 44361,
+    "stateCode": 13
+  },
+  {
+    "name": " شیرین نسا ",
+    "code": 44371,
+    "stateCode": 13
+  },
+  {
+    "name": " خرارود ",
+    "code": 44381,
+    "stateCode": 13
+  },
+  {
+    "name": " لسکوکلایه ",
+    "code": 44431,
+    "stateCode": 13
+  },
+  {
+    "name": " کیسم ",
+    "code": 44441,
+    "stateCode": 13
+  },
+  {
+    "name": " شیرکوه چهارده ",
+    "code": 44451,
+    "stateCode": 13
+  },
+  {
+    "name": " دهشال ",
+    "code": 44461,
+    "stateCode": 13
+  },
+  {
+    "name": " دستک ",
+    "code": 44481,
+    "stateCode": 13
+  },
+  {
+    "name": " پرگاپشت مهدی خانی ",
+    "code": 44491,
+    "stateCode": 13
+  },
+  {
+    "name": " بیورزین ",
+    "code": 44541,
+    "stateCode": 13
+  },
+  {
+    "name": " ویشان ",
+    "code": 44581,
+    "stateCode": 13
+  },
+  {
+    "name": " کلیشم ",
+    "code": 44591,
+    "stateCode": 13
+  },
+  {
+    "name": " علی اباد-گیلان ",
+    "code": 44631,
+    "stateCode": 13
+  },
+  {
+    "name": " کلشتر ",
+    "code": 44661,
+    "stateCode": 13
+  },
+  {
+    "name": " اسکولک ",
+    "code": 44681,
+    "stateCode": 13
+  },
+  {
+    "name": " کوکنه ",
+    "code": 44691,
+    "stateCode": 13
+  },
+  {
+    "name": " سلوش ",
+    "code": 44731,
+    "stateCode": 13
+  },
+  {
+    "name": " دیوشل ",
+    "code": 44771,
+    "stateCode": 13
+  },
+  {
+    "name": " پروش پایین ",
+    "code": 44781,
+    "stateCode": 13
+  },
+  {
+    "name": " حسن سرا ",
+    "code": 44841,
+    "stateCode": 13
+  },
+  {
+    "name": " طول لات ",
+    "code": 44851,
+    "stateCode": 13
+  },
+  {
+    "name": " جنگ سرا ",
+    "code": 44881,
+    "stateCode": 13
+  },
+  {
+    "name": " بلترک ",
+    "code": 44941,
+    "stateCode": 13
+  },
+  {
+    "name": " کجید ",
+    "code": 44971,
+    "stateCode": 13
+  },
+  {
+    "name": " گرمابدشت ",
+    "code": 44981,
+    "stateCode": 13
+  },
+  {
+    "name": " شوییل ",
+    "code": 44991,
+    "stateCode": 13
+  },
+  {
+    "name": " پونل ",
+    "code": 44992,
+    "stateCode": 13
+  },
+  {
+    "name": "ازنا",
+    "code": 943,
+    "stateCode": 66
+  },
+  {
+    "name": "اشترينان",
+    "code": 944,
+    "stateCode": 66
+  },
+  {
+    "name": "الشتر",
+    "code": 945,
+    "stateCode": 66
+  },
+  {
+    "name": "اليگودرز",
+    "code": 946,
+    "stateCode": 66
+  },
+  {
+    "name": "بروجرد",
+    "code": 947,
+    "stateCode": 66
+  },
+  {
+    "name": "پلدختر",
+    "code": 948,
+    "stateCode": 66
+  },
+  {
+    "name": "چالانچولان",
+    "code": 949,
+    "stateCode": 66
+  },
+  {
+    "name": "چغلوندي",
+    "code": 950,
+    "stateCode": 66
+  },
+  {
+    "name": "چقابل",
+    "code": 951,
+    "stateCode": 66
+  },
+  {
+    "name": "خرم آباد",
+    "code": 952,
+    "stateCode": 66
+  },
+  {
+    "name": "درب گنبد",
+    "code": 953,
+    "stateCode": 66
+  },
+  {
+    "name": "دورود",
+    "code": 954,
+    "stateCode": 66
+  },
+  {
+    "name": "زاغه",
+    "code": 955,
+    "stateCode": 66
+  },
+  {
+    "name": "سپيددشت",
+    "code": 956,
+    "stateCode": 66
+  },
+  {
+    "name": "سراب دوره",
+    "code": 957,
+    "stateCode": 66
+  },
+  {
+    "name": "شول آباد",
+    "code": 958,
+    "stateCode": 66
+  },
+  {
+    "name": "فيروزآباد",
+    "code": 959,
+    "stateCode": 66
+  },
+  {
+    "name": "كوناني",
+    "code": 960,
+    "stateCode": 66
+  },
+  {
+    "name": "كوهدشت",
+    "code": 961,
+    "stateCode": 66
+  },
+  {
+    "name": "گراب",
+    "code": 962,
+    "stateCode": 66
+  },
+  {
+    "name": "معمولان",
+    "code": 963,
+    "stateCode": 66
+  },
+  {
+    "name": "مؤمن آباد",
+    "code": 964,
+    "stateCode": 66
+  },
+  {
+    "name": "نورآباد",
+    "code": 965,
+    "stateCode": 66
+  },
+  {
+    "name": "ويسيان",
+    "code": 966,
+    "stateCode": 66
+  },
+  {
+    "name": "هفت چشمه",
+    "code": 967,
+    "stateCode": 66
+  },
+  {
+    "name": " ماسور ",
+    "code": 68141,
+    "stateCode": 66
+  },
+  {
+    "name": " بیرانوند ",
+    "code": 68181,
+    "stateCode": 66
+  },
+  {
+    "name": " برخوردار ",
+    "code": 68331,
+    "stateCode": 66
+  },
+  {
+    "name": " فرهاداباد ",
+    "code": 68341,
+    "stateCode": 66
+  },
+  {
+    "name": " دم باغ ",
+    "code": 68351,
+    "stateCode": 66
+  },
+  {
+    "name": " کهریزوروشت ",
+    "code": 68361,
+    "stateCode": 66
+  },
+  {
+    "name": " چشمه کیزاب علیا ",
+    "code": 68371,
+    "stateCode": 66
+  },
+  {
+    "name": " تقی اباد-لرستان ",
+    "code": 68391,
+    "stateCode": 66
+  },
+  {
+    "name": " خوشناموند ",
+    "code": 68431,
+    "stateCode": 66
+  },
+  {
+    "name": " اشتره گل گل ",
+    "code": 68441,
+    "stateCode": 66
+  },
+  {
+    "name": " سوری ",
+    "code": 68461,
+    "stateCode": 66
+  },
+  {
+    "name": " پاعلم (پل تنگ ) ",
+    "code": 68531,
+    "stateCode": 66
+  },
+  {
+    "name": " واشیان نصیرتپه ",
+    "code": 68541,
+    "stateCode": 66
+  },
+  {
+    "name": " چمشک زیرتنگ ",
+    "code": 68551,
+    "stateCode": 66
+  },
+  {
+    "name": " افرینه ",
+    "code": 68561,
+    "stateCode": 66
+  },
+  {
+    "name": " میان تاگان ",
+    "code": 68581,
+    "stateCode": 66
+  },
+  {
+    "name": " پل شوراب پایین ",
+    "code": 68591,
+    "stateCode": 66
+  },
+  {
+    "name": " شاهپوراباد ",
+    "code": 68631,
+    "stateCode": 66
+  },
+  {
+    "name": " چمن سلطان ",
+    "code": 68641,
+    "stateCode": 66
+  },
+  {
+    "name": " کیزاندره ",
+    "code": 68651,
+    "stateCode": 66
+  },
+  {
+    "name": " قلعه بزنوید ",
+    "code": 68661,
+    "stateCode": 66
+  },
+  {
+    "name": " حیه ",
+    "code": 68681,
+    "stateCode": 66
+  },
+  {
+    "name": " مرگ سر ",
+    "code": 68691,
+    "stateCode": 66
+  },
+  {
+    "name": " مومن آباد ",
+    "code": 68731,
+    "stateCode": 66
+  },
+  {
+    "name": " رازان ",
+    "code": 68741,
+    "stateCode": 66
+  },
+  {
+    "name": " سیاه گوشی (پل هرو) ",
+    "code": 68751,
+    "stateCode": 66
+  },
+  {
+    "name": " چاه ذوالفقار ",
+    "code": 68781,
+    "stateCode": 66
+  },
+  {
+    "name": " چم پلک ",
+    "code": 68791,
+    "stateCode": 66
+  },
+  {
+    "name": " ژان ",
+    "code": 68831,
+    "stateCode": 66
+  },
+  {
+    "name": " کاغه ",
+    "code": 68841,
+    "stateCode": 66
+  },
+  {
+    "name": " چم سنگر ",
+    "code": 68871,
+    "stateCode": 66
+  },
+  {
+    "name": " ایستگاه تنگ هفت ",
+    "code": 68881,
+    "stateCode": 66
+  },
+  {
+    "name": " مکینه حکومتی ",
+    "code": 68891,
+    "stateCode": 66
+  },
+  {
+    "name": " سراب سیاهپوش ",
+    "code": 68931,
+    "stateCode": 66
+  },
+  {
+    "name": " ده رحم ",
+    "code": 68951,
+    "stateCode": 66
+  },
+  {
+    "name": " بندیزه ",
+    "code": 68981,
+    "stateCode": 66
+  },
+  {
+    "name": " دره گرگ ",
+    "code": 68991,
+    "stateCode": 66
+  },
+  {
+    "name": "اميركلا",
+    "code": 968,
+    "stateCode": 11
+  },
+  {
+    "name": "ايزدشهر",
+    "code": 969,
+    "stateCode": 11
+  },
+  {
+    "name": "آلاشت",
+    "code": 970,
+    "stateCode": 11
+  },
+  {
+    "name": "آمل",
+    "code": 971,
+    "stateCode": 11
+  },
+  {
+    "name": "بابل",
+    "code": 972,
+    "stateCode": 11
+  },
+  {
+    "name": "بابلسر",
+    "code": 973,
+    "stateCode": 11
+  },
+  {
+    "name": "بلده",
+    "code": 974,
+    "stateCode": 11
+  },
+  {
+    "name": "بهشهر",
+    "code": 975,
+    "stateCode": 11
+  },
+  {
+    "name": "بهنمير",
+    "code": 976,
+    "stateCode": 11
+  },
+  {
+    "name": "پل سفيد",
+    "code": 977,
+    "stateCode": 11
+  },
+  {
+    "name": "پول",
+    "code": 978,
+    "stateCode": 11
+  },
+  {
+    "name": "تنكابن",
+    "code": 979,
+    "stateCode": 11
+  },
+  {
+    "name": "جويبار",
+    "code": 980,
+    "stateCode": 11
+  },
+  {
+    "name": "چالوس",
+    "code": 981,
+    "stateCode": 11
+  },
+  {
+    "name": "چمستان",
+    "code": 982,
+    "stateCode": 11
+  },
+  {
+    "name": "خرم آباد",
+    "code": 983,
+    "stateCode": 11
+  },
+  {
+    "name": "خليل شهر",
+    "code": 984,
+    "stateCode": 11
+  },
+  {
+    "name": "خوش رودپي",
+    "code": 985,
+    "stateCode": 11
+  },
+  {
+    "name": "دابودشت",
+    "code": 986,
+    "stateCode": 11
+  },
+  {
+    "name": "رامسر",
+    "code": 987,
+    "stateCode": 11
+  },
+  {
+    "name": "رستمكلا",
+    "code": 988,
+    "stateCode": 11
+  },
+  {
+    "name": "رويان",
+    "code": 989,
+    "stateCode": 11
+  },
+  {
+    "name": "رينه",
+    "code": 990,
+    "stateCode": 11
+  },
+  {
+    "name": "زرگر محله",
+    "code": 991,
+    "stateCode": 11
+  },
+  {
+    "name": "زيرآب",
+    "code": 992,
+    "stateCode": 11
+  },
+  {
+    "name": "ساري",
+    "code": 993,
+    "stateCode": 11
+  },
+  {
+    "name": "سرخرود",
+    "code": 994,
+    "stateCode": 11
+  },
+  {
+    "name": "سلمان شهر",
+    "code": 995,
+    "stateCode": 11
+  },
+  {
+    "name": "سورك",
+    "code": 996,
+    "stateCode": 11
+  },
+  {
+    "name": "شيرگاه",
+    "code": 997,
+    "stateCode": 11
+  },
+  {
+    "name": "شيرود",
+    "code": 998,
+    "stateCode": 11
+  },
+  {
+    "name": "عباس آباد",
+    "code": 999,
+    "stateCode": 11
+  },
+  {
+    "name": "فريدونكنار",
+    "code": 1000,
+    "stateCode": 11
+  },
+  {
+    "name": "فريم",
+    "code": 1001,
+    "stateCode": 11
+  },
+  {
+    "name": "قائم شهر",
+    "code": 1002,
+    "stateCode": 11
+  },
+  {
+    "name": "كتالم وسادات شهر",
+    "code": 1003,
+    "stateCode": 11
+  },
+  {
+    "name": "كلارآباد",
+    "code": 1004,
+    "stateCode": 11
+  },
+  {
+    "name": "كلاردشت",
+    "code": 1005,
+    "stateCode": 11
+  },
+  {
+    "name": "كله بست",
+    "code": 1006,
+    "stateCode": 11
+  },
+  {
+    "name": "كوهي خيل",
+    "code": 1007,
+    "stateCode": 11
+  },
+  {
+    "name": "كياسر",
+    "code": 1008,
+    "stateCode": 11
+  },
+  {
+    "name": "كياكلا",
+    "code": 1009,
+    "stateCode": 11
+  },
+  {
+    "name": "گتاب",
+    "code": 1010,
+    "stateCode": 11
+  },
+  {
+    "name": "گلوگاه",
+    "code": 1012,
+    "stateCode": 11
+  },
+  {
+    "name": " معلم کلا ",
+    "code": 46331,
+    "stateCode": 11
+  },
+  {
+    "name": " وسطی کلا ",
+    "code": 46351,
+    "stateCode": 11
+  },
+  {
+    "name": " سوا ",
+    "code": 46371,
+    "stateCode": 11
+  },
+  {
+    "name": " باییجان ",
+    "code": 46381,
+    "stateCode": 11
+  },
+  {
+    "name": " بنفشه ده ",
+    "code": 46441,
+    "stateCode": 11
+  },
+  {
+    "name": " رییس کلا ",
+    "code": 46451,
+    "stateCode": 11
+  },
+  {
+    "name": " اوز-مازندران ",
+    "code": 46461,
+    "stateCode": 11
+  },
+  {
+    "name": " تاکر ",
+    "code": 46481,
+    "stateCode": 11
+  },
+  {
+    "name": " گلندرود ",
+    "code": 46491,
+    "stateCode": 11
+  },
+  {
+    "name": " چلندر ",
+    "code": 46531,
+    "stateCode": 11
+  },
+  {
+    "name": " صلاح الدین کلا ",
+    "code": 46541,
+    "stateCode": 11
+  },
+  {
+    "name": " نارنج بن ",
+    "code": 46551,
+    "stateCode": 11
+  },
+  {
+    "name": " کجور ",
+    "code": 46571,
+    "stateCode": 11
+  },
+  {
+    "name": " لشکنار ",
+    "code": 46591,
+    "stateCode": 11
+  },
+  {
+    "name": " هیچرود ",
+    "code": 46631,
+    "stateCode": 11
+  },
+  {
+    "name": " کردیچال ",
+    "code": 46651,
+    "stateCode": 11
+  },
+  {
+    "name": " کلنو ",
+    "code": 46671,
+    "stateCode": 11
+  },
+  {
+    "name": " دلیر ",
+    "code": 46681,
+    "stateCode": 11
+  },
+  {
+    "name": " سیاه بیشه ",
+    "code": 46691,
+    "stateCode": 11
+  },
+  {
+    "name": " سرلنگا ",
+    "code": 46751,
+    "stateCode": 11
+  },
+  {
+    "name": " کترا ",
+    "code": 46761,
+    "stateCode": 11
+  },
+  {
+    "name": " گلعلی اباد ",
+    "code": 46771,
+    "stateCode": 11
+  },
+  {
+    "name": " میان کوه سادات ",
+    "code": 46781,
+    "stateCode": 11
+  },
+  {
+    "name": " مران سه هزار ",
+    "code": 46791,
+    "stateCode": 11
+  },
+  {
+    "name": " قلعه گردن ",
+    "code": 46841,
+    "stateCode": 11
+  },
+  {
+    "name": " سلیمان اباد ",
+    "code": 46871,
+    "stateCode": 11
+  },
+  {
+    "name": " کشکو ",
+    "code": 46881,
+    "stateCode": 11
+  },
+  {
+    "name": " لاک تراشان ",
+    "code": 46891,
+    "stateCode": 11
+  },
+  {
+    "name": " سادات محله ",
+    "code": 46931,
+    "stateCode": 11
+  },
+  {
+    "name": " اغوزکتی ",
+    "code": 46961,
+    "stateCode": 11
+  },
+  {
+    "name": " جواهرده ",
+    "code": 46971,
+    "stateCode": 11
+  },
+  {
+    "name": " جنت رودبار ",
+    "code": 46981,
+    "stateCode": 11
+  },
+  {
+    "name": " تمل ",
+    "code": 46991,
+    "stateCode": 11
+  },
+  {
+    "name": " اهنگرکلا ",
+    "code": 47341,
+    "stateCode": 11
+  },
+  {
+    "name": " گاوانکلا ",
+    "code": 47351,
+    "stateCode": 11
+  },
+  {
+    "name": " گلوگاه (بندپی شرقی) ",
+    "code": 47363,
+    "stateCode": 11
+  },
+  {
+    "name": " شورکش ",
+    "code": 47381,
+    "stateCode": 11
+  },
+  {
+    "name": " اینج دان ",
+    "code": 47391,
+    "stateCode": 11
+  },
+  {
+    "name": " عرب خیل ",
+    "code": 47431,
+    "stateCode": 11
+  },
+  {
+    "name": " کاسگرمحله ",
+    "code": 47451,
+    "stateCode": 11
+  },
+  {
+    "name": " بیشه سر ",
+    "code": 47471,
+    "stateCode": 11
+  },
+  {
+    "name": " درازکش ",
+    "code": 47541,
+    "stateCode": 11
+  },
+  {
+    "name": " گردرودبار ",
+    "code": 47551,
+    "stateCode": 11
+  },
+  {
+    "name": " شهیداباد ",
+    "code": 47571,
+    "stateCode": 11
+  },
+  {
+    "name": " بالاجنیدلاک پل ",
+    "code": 47631,
+    "stateCode": 11
+  },
+  {
+    "name": " خطیرکلا ",
+    "code": 47641,
+    "stateCode": 11
+  },
+  {
+    "name": " حاجی کلاصنم ",
+    "code": 47651,
+    "stateCode": 11
+  },
+  {
+    "name": " واسکس ",
+    "code": 47661,
+    "stateCode": 11
+  },
+  {
+    "name": " ریکنده ",
+    "code": 47681,
+    "stateCode": 11
+  },
+  {
+    "name": " ارطه ",
+    "code": 47691,
+    "stateCode": 11
+  },
+  {
+    "name": " بالادسته رکن کنار ",
+    "code": 47741,
+    "stateCode": 11
+  },
+  {
+    "name": " بیزکی ",
+    "code": 47751,
+    "stateCode": 11
+  },
+  {
+    "name": " سنگتاب ",
+    "code": 47781,
+    "stateCode": 11
+  },
+  {
+    "name": " رکابدارکلا ",
+    "code": 47791,
+    "stateCode": 11
+  },
+  {
+    "name": " شیرکلا ",
+    "code": 47831,
+    "stateCode": 11
+  },
+  {
+    "name": " لفور (لفورک ) ",
+    "code": 47851,
+    "stateCode": 11
+  },
+  {
+    "name": " اتو ",
+    "code": 47861,
+    "stateCode": 11
+  },
+  {
+    "name": " پالند ",
+    "code": 47881,
+    "stateCode": 11
+  },
+  {
+    "name": " چرات ",
+    "code": 47891,
+    "stateCode": 11
+  },
+  {
+    "name": " ده میان ",
+    "code": 47931,
+    "stateCode": 11
+  },
+  {
+    "name": " خشک دره ",
+    "code": 47941,
+    "stateCode": 11
+  },
+  {
+    "name": " امافت ",
+    "code": 47951,
+    "stateCode": 11
+  },
+  {
+    "name": " بالادواب ",
+    "code": 47961,
+    "stateCode": 11
+  },
+  {
+    "name": " ورسک ",
+    "code": 47971,
+    "stateCode": 11
+  },
+  {
+    "name": " کتی لته ",
+    "code": 47981,
+    "stateCode": 11
+  },
+  {
+    "name": " اروست ",
+    "code": 48331,
+    "stateCode": 11
+  },
+  {
+    "name": " سنگده ",
+    "code": 48351,
+    "stateCode": 11
+  },
+  {
+    "name": " قادیکلا ",
+    "code": 48361,
+    "stateCode": 11
+  },
+  {
+    "name": " تاکام ",
+    "code": 48371,
+    "stateCode": 11
+  },
+  {
+    "name": " پایین هولار ",
+    "code": 48390,
+    "stateCode": 11
+  },
+  {
+    "name": " بالاهولار ",
+    "code": 48391,
+    "stateCode": 11
+  },
+  {
+    "name": " اسبوکلا ",
+    "code": 48431,
+    "stateCode": 11
+  },
+  {
+    "name": " اسلام اباد-مازندران ",
+    "code": 48451,
+    "stateCode": 11
+  },
+  {
+    "name": " شهرک صنعتی گهرباران ",
+    "code": 48461,
+    "stateCode": 11
+  },
+  {
+    "name": " فرح اباد (خزراباد) ",
+    "code": 48471,
+    "stateCode": 11
+  },
+  {
+    "name": " دارابکلا ",
+    "code": 48481,
+    "stateCode": 11
+  },
+  {
+    "name": " ماچک پشت ",
+    "code": 48491,
+    "stateCode": 11
+  },
+  {
+    "name": " خورشید (امامیه ) ",
+    "code": 48531,
+    "stateCode": 11
+  },
+  {
+    "name": " زاغمرز ",
+    "code": 48541,
+    "stateCode": 11
+  },
+  {
+    "name": " چلمردی ",
+    "code": 48551,
+    "stateCode": 11
+  },
+  {
+    "name": " پایین زرندین ",
+    "code": 48571,
+    "stateCode": 11
+  },
+  {
+    "name": " بادابسر ",
+    "code": 48591,
+    "stateCode": 11
+  },
+  {
+    "name": " تیرتاش ",
+    "code": 48631,
+    "stateCode": 11
+  },
+  {
+    "name": " دامداری حسن ابوطالبی ",
+    "code": 48661,
+    "stateCode": 11
+  },
+  {
+    "name": " بیشه بنه ",
+    "code": 48671,
+    "stateCode": 11
+  },
+  {
+    "name": " سفیدچاه ",
+    "code": 48681,
+    "stateCode": 11
+  },
+  {
+    "name": " دامداری حاج عزیزمجریان ",
+    "code": 48691,
+    "stateCode": 11
+  },
+  {
+    "name": " میان دره ",
+    "code": 48841,
+    "stateCode": 11
+  },
+  {
+    "name": " بندپی ",
+    "code": 48872,
+    "stateCode": 11
+  },
+  {
+    "name": "اراك",
+    "code": 1020,
+    "stateCode": 86
+  },
+  {
+    "name": "آستانه",
+    "code": 1021,
+    "stateCode": 86
+  },
+  {
+    "name": "آشتيان",
+    "code": 1022,
+    "stateCode": 86
+  },
+  {
+    "name": "پرندك",
+    "code": 1023,
+    "stateCode": 86
+  },
+  {
+    "name": "تفرش",
+    "code": 1024,
+    "stateCode": 86
+  },
+  {
+    "name": "توره",
+    "code": 1025,
+    "stateCode": 86
+  },
+  {
+    "name": "جاورسيان",
+    "code": 1026,
+    "stateCode": 86
+  },
+  {
+    "name": "خشكرود",
+    "code": 1027,
+    "stateCode": 86
+  },
+  {
+    "name": "خمين",
+    "code": 1028,
+    "stateCode": 86
+  },
+  {
+    "name": "خنداب",
+    "code": 1029,
+    "stateCode": 86
+  },
+  {
+    "name": "داودآباد",
+    "code": 1030,
+    "stateCode": 86
+  },
+  {
+    "name": "دليجان",
+    "code": 1031,
+    "stateCode": 86
+  },
+  {
+    "name": "رازقان",
+    "code": 1032,
+    "stateCode": 86
+  },
+  {
+    "name": "زاويه",
+    "code": 1033,
+    "stateCode": 86
+  },
+  {
+    "name": "ساروق",
+    "code": 1034,
+    "stateCode": 86
+  },
+  {
+    "name": "ساوه",
+    "code": 1035,
+    "stateCode": 86
+  },
+  {
+    "name": "سنجان",
+    "code": 1036,
+    "stateCode": 86
+  },
+  {
+    "name": "شازند",
+    "code": 1037,
+    "stateCode": 86
+  },
+  {
+    "name": "شهرجديدمهاجران",
+    "code": 1038,
+    "stateCode": 86
+  },
+  {
+    "name": "غرق آباد",
+    "code": 1039,
+    "stateCode": 86
+  },
+  {
+    "name": "فرمهين",
+    "code": 1040,
+    "stateCode": 86
+  },
+  {
+    "name": "قورچي باشي",
+    "code": 1041,
+    "stateCode": 86
+  },
+  {
+    "name": "كرهرود",
+    "code": 1042,
+    "stateCode": 86
+  },
+  {
+    "name": "كميجان",
+    "code": 1043,
+    "stateCode": 86
+  },
+  {
+    "name": "مأمونيه",
+    "code": 1044,
+    "stateCode": 86
+  },
+  {
+    "name": "محلات",
+    "code": 1045,
+    "stateCode": 86
+  },
+  {
+    "name": "ميلاجرد",
+    "code": 1046,
+    "stateCode": 86
+  },
+  {
+    "name": "نراق",
+    "code": 1047,
+    "stateCode": 86
+  },
+  {
+    "name": "نوبران",
+    "code": 1048,
+    "stateCode": 86
+  },
+  {
+    "name": "نيمور",
+    "code": 1049,
+    "stateCode": 86
+  },
+  {
+    "name": "هندودر",
+    "code": 1050,
+    "stateCode": 86
+  },
+  {
+    "name": " رباطمراد ",
+    "code": 3891,
+    "stateCode": 86
+  },
+  {
+    "name": " مامونیه ",
+    "code": 3941,
+    "stateCode": 86
+  },
+  {
+    "name": " سلطان اباد-مرکزی ",
+    "code": 37731,
+    "stateCode": 86
+  },
+  {
+    "name": " اصفهانک ",
+    "code": 37741,
+    "stateCode": 86
+  },
+  {
+    "name": " حسین اباد-مرکزی ",
+    "code": 37751,
+    "stateCode": 86
+  },
+  {
+    "name": " حکیم اباد ",
+    "code": 37771,
+    "stateCode": 86
+  },
+  {
+    "name": " یحیی اباد-مرکزی ",
+    "code": 37781,
+    "stateCode": 86
+  },
+  {
+    "name": " صدراباد ",
+    "code": 37791,
+    "stateCode": 86
+  },
+  {
+    "name": " نخجیروان ",
+    "code": 37851,
+    "stateCode": 86
+  },
+  {
+    "name": " باقراباد ",
+    "code": 37861,
+    "stateCode": 86
+  },
+  {
+    "name": " بزیجان ",
+    "code": 37871,
+    "stateCode": 86
+  },
+  {
+    "name": " عیسی اباد ",
+    "code": 37881,
+    "stateCode": 86
+  },
+  {
+    "name": " خورهه ",
+    "code": 37891,
+    "stateCode": 86
+  },
+  {
+    "name": " کارچان ",
+    "code": 38361,
+    "stateCode": 86
+  },
+  {
+    "name": " ادشته ",
+    "code": 38461,
+    "stateCode": 86
+  },
+  {
+    "name": " استوه ",
+    "code": 38471,
+    "stateCode": 86
+  },
+  {
+    "name": " اناج ",
+    "code": 38491,
+    "stateCode": 86
+  },
+  {
+    "name": " وفس ",
+    "code": 38531,
+    "stateCode": 86
+  },
+  {
+    "name": " خسروبیگ ",
+    "code": 38541,
+    "stateCode": 86
+  },
+  {
+    "name": " سمقاور ",
+    "code": 38561,
+    "stateCode": 86
+  },
+  {
+    "name": " هزاوه ",
+    "code": 38571,
+    "stateCode": 86
+  },
+  {
+    "name": " قدمگاه-مرکزی ",
+    "code": 38631,
+    "stateCode": 86
+  },
+  {
+    "name": " هفته ",
+    "code": 38641,
+    "stateCode": 86
+  },
+  {
+    "name": " لنجرود ",
+    "code": 38651,
+    "stateCode": 86
+  },
+  {
+    "name": " کزاز ",
+    "code": 38671,
+    "stateCode": 86
+  },
+  {
+    "name": " کتیران بالا ",
+    "code": 38681,
+    "stateCode": 86
+  },
+  {
+    "name": " نهرمیان ",
+    "code": 38691,
+    "stateCode": 86
+  },
+  {
+    "name": " سرسختی بالا ",
+    "code": 38731,
+    "stateCode": 86
+  },
+  {
+    "name": " لوزدرعلیا ",
+    "code": 38741,
+    "stateCode": 86
+  },
+  {
+    "name": " تواندشت علیا ",
+    "code": 38771,
+    "stateCode": 86
+  },
+  {
+    "name": " مالمیر ",
+    "code": 38781,
+    "stateCode": 86
+  },
+  {
+    "name": " چهارچریک ",
+    "code": 38791,
+    "stateCode": 86
+  },
+  {
+    "name": " چهارچشمه ",
+    "code": 38841,
+    "stateCode": 86
+  },
+  {
+    "name": " لکان ",
+    "code": 38851,
+    "stateCode": 86
+  },
+  {
+    "name": " ورچه ",
+    "code": 38871,
+    "stateCode": 86
+  },
+  {
+    "name": " فرفهان ",
+    "code": 38881,
+    "stateCode": 86
+  },
+  {
+    "name": " امامزاده ورچه ",
+    "code": 38891,
+    "stateCode": 86
+  },
+  {
+    "name": " رباطکفسان ",
+    "code": 38931,
+    "stateCode": 86
+  },
+  {
+    "name": " ریحان علیا ",
+    "code": 38941,
+    "stateCode": 86
+  },
+  {
+    "name": " جزنق ",
+    "code": 38951,
+    "stateCode": 86
+  },
+  {
+    "name": " خوراوند ",
+    "code": 38961,
+    "stateCode": 86
+  },
+  {
+    "name": " میشیجان علیا ",
+    "code": 38971,
+    "stateCode": 86
+  },
+  {
+    "name": " گلدشت-مرکزی ",
+    "code": 38981,
+    "stateCode": 86
+  },
+  {
+    "name": " دهنو-مرکزی ",
+    "code": 38991,
+    "stateCode": 86
+  },
+  {
+    "name": " یل اباد ",
+    "code": 39351,
+    "stateCode": 86
+  },
+  {
+    "name": " الویر ",
+    "code": 39371,
+    "stateCode": 86
+  },
+  {
+    "name": " دوزج ",
+    "code": 39381,
+    "stateCode": 86
+  },
+  {
+    "name": " علیشار ",
+    "code": 39391,
+    "stateCode": 86
+  },
+  {
+    "name": " بالقلو ",
+    "code": 39431,
+    "stateCode": 86
+  },
+  {
+    "name": " چمران-مرکزی ",
+    "code": 39451,
+    "stateCode": 86
+  },
+  {
+    "name": " قاقان ",
+    "code": 39461,
+    "stateCode": 86
+  },
+  {
+    "name": " سامان-مرکزی ",
+    "code": 39471,
+    "stateCode": 86
+  },
+  {
+    "name": " دخان ",
+    "code": 39481,
+    "stateCode": 86
+  },
+  {
+    "name": " مراغه-مرکزی ",
+    "code": 39491,
+    "stateCode": 86
+  },
+  {
+    "name": " شهراب-مرکزی ",
+    "code": 39541,
+    "stateCode": 86
+  },
+  {
+    "name": " زاغر ",
+    "code": 39551,
+    "stateCode": 86
+  },
+  {
+    "name": " کهک-مرکزی ",
+    "code": 39561,
+    "stateCode": 86
+  },
+  {
+    "name": " فشک ",
+    "code": 39571,
+    "stateCode": 86
+  },
+  {
+    "name": " اهنگران ",
+    "code": 39581,
+    "stateCode": 86
+  },
+  {
+    "name": " مزرعه نو ",
+    "code": 39631,
+    "stateCode": 86
+  },
+  {
+    "name": " صالح اباد ",
+    "code": 39641,
+    "stateCode": 86
+  },
+  {
+    "name": " سیاوشان ",
+    "code": 39651,
+    "stateCode": 86
+  },
+  {
+    "name": " اهو ",
+    "code": 39661,
+    "stateCode": 86
+  },
+  {
+    "name": "ابوموسي",
+    "code": 1051,
+    "stateCode": 76
+  },
+  {
+    "name": "بستك",
+    "code": 1052,
+    "stateCode": 76
+  },
+  {
+    "name": "بندرجاسك",
+    "code": 1053,
+    "stateCode": 76
+  },
+  {
+    "name": "بندرچارك",
+    "code": 1054,
+    "stateCode": 76
+  },
+  {
+    "name": "بندرعباس",
+    "code": 1055,
+    "stateCode": 76
+  },
+  {
+    "name": "بندرلنگه",
+    "code": 1056,
+    "stateCode": 76
+  },
+  {
+    "name": "بيكاه",
+    "code": 1057,
+    "stateCode": 76
+  },
+  {
+    "name": "پارسيان",
+    "code": 1058,
+    "stateCode": 76
+  },
+  {
+    "name": "تخت",
+    "code": 1059,
+    "stateCode": 76
+  },
+  {
+    "name": "جناح",
+    "code": 1060,
+    "stateCode": 76
+  },
+  {
+    "name": "حاجي آباد",
+    "code": 1061,
+    "stateCode": 76
+  },
+  {
+    "name": "خمير",
+    "code": 1062,
+    "stateCode": 76
+  },
+  {
+    "name": "درگهان",
+    "code": 1063,
+    "stateCode": 76
+  },
+  {
+    "name": "دهبارز",
+    "code": 1064,
+    "stateCode": 76
+  },
+  {
+    "name": "رويدر",
+    "code": 1065,
+    "stateCode": 76
+  },
+  {
+    "name": "زيارتعلي",
+    "code": 1066,
+    "stateCode": 76
+  },
+  {
+    "name": "سردشت بشاگرد",
+    "code": 1067,
+    "stateCode": 76
+  },
+  {
+    "name": "سرگز",
+    "code": 1068,
+    "stateCode": 76
+  },
+  {
+    "name": "سندرك",
+    "code": 1069,
+    "stateCode": 76
+  },
+  {
+    "name": "سوزا",
+    "code": 1070,
+    "stateCode": 76
+  },
+  {
+    "name": "سيريك",
+    "code": 1071,
+    "stateCode": 76
+  },
+  {
+    "name": "فارغان",
+    "code": 1072,
+    "stateCode": 76
+  },
+  {
+    "name": "فين",
+    "code": 1073,
+    "stateCode": 76
+  },
+  {
+    "name": "قشم",
+    "code": 1074,
+    "stateCode": 76
+  },
+  {
+    "name": "قلعه قاضي",
+    "code": 1075,
+    "stateCode": 76
+  },
+  {
+    "name": "كنگ",
+    "code": 1076,
+    "stateCode": 76
+  },
+  {
+    "name": "كوشكنار",
+    "code": 1077,
+    "stateCode": 76
+  },
+  {
+    "name": "كيش",
+    "code": 1078,
+    "stateCode": 76
+  },
+  {
+    "name": "گوهران",
+    "code": 1079,
+    "stateCode": 76
+  },
+  {
+    "name": "ميناب",
+    "code": 1080,
+    "stateCode": 76
+  },
+  {
+    "name": "هرمز",
+    "code": 1081,
+    "stateCode": 76
+  },
+  {
+    "name": "هشتبندي",
+    "code": 1082,
+    "stateCode": 76
+  },
+  {
+    "name": " پشته ایسین ",
+    "code": 79331,
+    "stateCode": 76
+  },
+  {
+    "name": " پل شرقی ",
+    "code": 79341,
+    "stateCode": 76
+  },
+  {
+    "name": " سیاهو ",
+    "code": 79361,
+    "stateCode": 76
+  },
+  {
+    "name": " باغات ",
+    "code": 79381,
+    "stateCode": 76
+  },
+  {
+    "name": " ابگرم خورگو ",
+    "code": 79431,
+    "stateCode": 76
+  },
+  {
+    "name": " حسن لنگی پایین ",
+    "code": 79451,
+    "stateCode": 76
+  },
+  {
+    "name": " گروک ",
+    "code": 79460,
+    "stateCode": 76
+  },
+  {
+    "name": " گونمردی ",
+    "code": 79471,
+    "stateCode": 76
+  },
+  {
+    "name": " گوهرت ",
+    "code": 79491,
+    "stateCode": 76
+  },
+  {
+    "name": " جزیره لارک شهری ",
+    "code": 79561,
+    "stateCode": 76
+  },
+  {
+    "name": " هنگام جدید ",
+    "code": 79571,
+    "stateCode": 76
+  },
+  {
+    "name": " جزیره سیری ",
+    "code": 79581,
+    "stateCode": 76
+  },
+  {
+    "name": " پدل ",
+    "code": 79631,
+    "stateCode": 76
+  },
+  {
+    "name": " دژگان ",
+    "code": 79651,
+    "stateCode": 76
+  },
+  {
+    "name": " دهنگ ",
+    "code": 79671,
+    "stateCode": 76
+  },
+  {
+    "name": " کمشک ",
+    "code": 79691,
+    "stateCode": 76
+  },
+  {
+    "name": " گزیر ",
+    "code": 79731,
+    "stateCode": 76
+  },
+  {
+    "name": " بندرمغویه ",
+    "code": 79741,
+    "stateCode": 76
+  },
+  {
+    "name": " چارک ",
+    "code": 79751,
+    "stateCode": 76
+  },
+  {
+    "name": " دشتی ",
+    "code": 79761,
+    "stateCode": 76
+  },
+  {
+    "name": " جزیره لاوان ",
+    "code": 79781,
+    "stateCode": 76
+  },
+  {
+    "name": " بندر ",
+    "code": 79831,
+    "stateCode": 76
+  },
+  {
+    "name": " درپهن ",
+    "code": 79851,
+    "stateCode": 76
+  },
+  {
+    "name": " کلورجکدان ",
+    "code": 79861,
+    "stateCode": 76
+  },
+  {
+    "name": " سردشت-هرمزگان ",
+    "code": 79881,
+    "stateCode": 76
+  },
+  {
+    "name": " جغین ",
+    "code": 79931,
+    "stateCode": 76
+  },
+  {
+    "name": " ماشنگی ",
+    "code": 79951,
+    "stateCode": 76
+  },
+  {
+    "name": " گوربند ",
+    "code": 79961,
+    "stateCode": 76
+  },
+  {
+    "name": " تیاب ",
+    "code": 79971,
+    "stateCode": 76
+  },
+  {
+    "name": " بندزرک ",
+    "code": 79981,
+    "stateCode": 76
+  },
+  {
+    "name": "ازندريان",
+    "code": 1083,
+    "stateCode": 81
+  },
+  {
+    "name": "اسدآباد",
+    "code": 1084,
+    "stateCode": 81
+  },
+  {
+    "name": "برزول",
+    "code": 1085,
+    "stateCode": 81
+  },
+  {
+    "name": "بهار",
+    "code": 1086,
+    "stateCode": 81
+  },
+  {
+    "name": "تويسركان",
+    "code": 1087,
+    "stateCode": 81
+  },
+  {
+    "name": "جورقان",
+    "code": 1088,
+    "stateCode": 81
+  },
+  {
+    "name": "جوكار",
+    "code": 1089,
+    "stateCode": 81
+  },
+  {
+    "name": "دمق",
+    "code": 1090,
+    "stateCode": 81
+  },
+  {
+    "name": "رزن",
+    "code": 1091,
+    "stateCode": 81
+  },
+  {
+    "name": "زنگنه",
+    "code": 1092,
+    "stateCode": 81
+  },
+  {
+    "name": "سامن",
+    "code": 1093,
+    "stateCode": 81
+  },
+  {
+    "name": "سركان",
+    "code": 1094,
+    "stateCode": 81
+  },
+  {
+    "name": "شيرين سو",
+    "code": 1095,
+    "stateCode": 81
+  },
+  {
+    "name": "صالح آباد",
+    "code": 1096,
+    "stateCode": 81
+  },
+  {
+    "name": "فامنين",
+    "code": 1097,
+    "stateCode": 81
+  },
+  {
+    "name": "فرسفج",
+    "code": 1098,
+    "stateCode": 81
+  },
+  {
+    "name": "فيروزان",
+    "code": 1099,
+    "stateCode": 81
+  },
+  {
+    "name": "قروه در جزين",
+    "code": 1100,
+    "stateCode": 81
+  },
+  {
+    "name": "قهاوند",
+    "code": 1101,
+    "stateCode": 81
+  },
+  {
+    "name": "كبودرآهنگ",
+    "code": 1102,
+    "stateCode": 81
+  },
+  {
+    "name": "گل تپه",
+    "code": 1103,
+    "stateCode": 81
+  },
+  {
+    "name": "گيان",
+    "code": 1104,
+    "stateCode": 81
+  },
+  {
+    "name": "لالجين",
+    "code": 1105,
+    "stateCode": 81
+  },
+  {
+    "name": "مريانج",
+    "code": 1106,
+    "stateCode": 81
+  },
+  {
+    "name": "ملاير",
+    "code": 1107,
+    "stateCode": 81
+  },
+  {
+    "name": "نهاوند",
+    "code": 1108,
+    "stateCode": 81
+  },
+  {
+    "name": "همدان",
+    "code": 1109,
+    "stateCode": 81
+  },
+  {
+    "name": " دیناراباد ",
+    "code": 65341,
+    "stateCode": 81
+  },
+  {
+    "name": " همه کسی ",
+    "code": 65351,
+    "stateCode": 81
+  },
+  {
+    "name": " پرلوک ",
+    "code": 65371,
+    "stateCode": 81
+  },
+  {
+    "name": " حسین ابادبهارعاشوری ",
+    "code": 65381,
+    "stateCode": 81
+  },
+  {
+    "name": " مهاجران ",
+    "code": 65391,
+    "stateCode": 81
+  },
+  {
+    "name": " ویرایی ",
+    "code": 65431,
+    "stateCode": 81
+  },
+  {
+    "name": " جنت اباد-همدان ",
+    "code": 65441,
+    "stateCode": 81
+  },
+  {
+    "name": " موسی اباد-همدان ",
+    "code": 65451,
+    "stateCode": 81
+  },
+  {
+    "name": " چنارسفلی ",
+    "code": 65461,
+    "stateCode": 81
+  },
+  {
+    "name": " چنارعلیا ",
+    "code": 65471,
+    "stateCode": 81
+  },
+  {
+    "name": " آجین ",
+    "code": 65481,
+    "stateCode": 81
+  },
+  {
+    "name": " طویلان سفلی ",
+    "code": 65491,
+    "stateCode": 81
+  },
+  {
+    "name": " کوریجان ",
+    "code": 65531,
+    "stateCode": 81
+  },
+  {
+    "name": " کوهین-همدان ",
+    "code": 65541,
+    "stateCode": 81
+  },
+  {
+    "name": " قهوردسفلی ",
+    "code": 65551,
+    "stateCode": 81
+  },
+  {
+    "name": " اکنلو ",
+    "code": 65561,
+    "stateCode": 81
+  },
+  {
+    "name": " داق داق اباد ",
+    "code": 65591,
+    "stateCode": 81
+  },
+  {
+    "name": " تجرک ",
+    "code": 65641,
+    "stateCode": 81
+  },
+  {
+    "name": " کوزره ",
+    "code": 65651,
+    "stateCode": 81
+  },
+  {
+    "name": " چانگرین ",
+    "code": 65661,
+    "stateCode": 81
+  },
+  {
+    "name": " ازناو ",
+    "code": 65731,
+    "stateCode": 81
+  },
+  {
+    "name": " جوزان-همدان ",
+    "code": 65741,
+    "stateCode": 81
+  },
+  {
+    "name": " اورزمان ",
+    "code": 65771,
+    "stateCode": 81
+  },
+  {
+    "name": " اسلام اباد-همدان ",
+    "code": 65791,
+    "stateCode": 81
+  },
+  {
+    "name": " جعفریه (قلعه جعفربیک ) ",
+    "code": 65831,
+    "stateCode": 81
+  },
+  {
+    "name": " میانده-همدان ",
+    "code": 65851,
+    "stateCode": 81
+  },
+  {
+    "name": " ولاشجرد ",
+    "code": 65871,
+    "stateCode": 81
+  },
+  {
+    "name": " اشتران ",
+    "code": 65881,
+    "stateCode": 81
+  },
+  {
+    "name": " باباپیر ",
+    "code": 65891,
+    "stateCode": 81
+  },
+  {
+    "name": " جهان اباد ",
+    "code": 65931,
+    "stateCode": 81
+  },
+  {
+    "name": " باباقاسم ",
+    "code": 65941,
+    "stateCode": 81
+  },
+  {
+    "name": " بابارستم ",
+    "code": 65951,
+    "stateCode": 81
+  },
+  {
+    "name": " دهفول ",
+    "code": 65971,
+    "stateCode": 81
+  },
+  {
+    "name": " شهرک صنعتی بوعلی ",
+    "code": 65991,
+    "stateCode": 81
+  },
+  {
+    "name": " پایگاه نوژه ",
+    "code": 65992,
+    "stateCode": 81
+  },
+  {
+    "name": " علیصدر ",
+    "code": 65993,
+    "stateCode": 81
+  },
+  {
+    "name": " گنبد ",
+    "code": 65998,
+    "stateCode": 81
+  },
+  {
+    "name": " پادگان قهرمان ",
+    "code": 66000,
+    "stateCode": 81
+  },
+  {
+    "name": "ابركوه",
+    "code": 1110,
+    "stateCode": 35
+  },
+  {
+    "name": "احمدآباد",
+    "code": 1111,
+    "stateCode": 35
+  },
+  {
+    "name": "اردكان",
+    "code": 1112,
+    "stateCode": 35
+  },
+  {
+    "name": "اشكذر",
+    "code": 1113,
+    "stateCode": 35
+  },
+  {
+    "name": "بافق",
+    "code": 1114,
+    "stateCode": 35
+  },
+  {
+    "name": "بفروئيه",
+    "code": 1115,
+    "stateCode": 35
+  },
+  {
+    "name": "بهاباد",
+    "code": 1116,
+    "stateCode": 35
+  },
+  {
+    "name": "تفت",
+    "code": 1117,
+    "stateCode": 35
+  },
+  {
+    "name": "حميديا",
+    "code": 1118,
+    "stateCode": 35
+  },
+  {
+    "name": "خضرآباد",
+    "code": 1119,
+    "stateCode": 35
+  },
+  {
+    "name": "ديهوك",
+    "code": 1120,
+    "stateCode": 35
+  },
+  {
+    "name": "زارچ",
+    "code": 1121,
+    "stateCode": 35
+  },
+  {
+    "name": "شاهديه",
+    "code": 1122,
+    "stateCode": 35
+  },
+  {
+    "name": "طبس",
+    "code": 1123,
+    "stateCode": 35
+  },
+  {
+    "name": "عشق آباد",
+    "code": 1124,
+    "stateCode": 35
+  },
+  {
+    "name": "عقدا",
+    "code": 1125,
+    "stateCode": 35
+  },
+  {
+    "name": "مروست",
+    "code": 1126,
+    "stateCode": 35
+  },
+  {
+    "name": "مهردشت",
+    "code": 1127,
+    "stateCode": 35
+  },
+  {
+    "name": "مهريز",
+    "code": 1128,
+    "stateCode": 35
+  },
+  {
+    "name": "ميبد",
+    "code": 1129,
+    "stateCode": 35
+  },
+  {
+    "name": "ندوشن",
+    "code": 1130,
+    "stateCode": 35
+  },
+  {
+    "name": "نير",
+    "code": 1131,
+    "stateCode": 35
+  },
+  {
+    "name": "هرات",
+    "code": 1132,
+    "stateCode": 35
+  },
+  {
+    "name": "يزد",
+    "code": 1133,
+    "stateCode": 35
+  },
+  {
+    "name": " فراغه ",
+    "code": 89331,
+    "stateCode": 35
+  },
+  {
+    "name": " اسفنداباد ",
+    "code": 89361,
+    "stateCode": 35
+  },
+  {
+    "name": " فهرج-یزد ",
+    "code": 89441,
+    "stateCode": 35
+  },
+  {
+    "name": " انارستان-یزد ",
+    "code": 89571,
+    "stateCode": 35
+  },
+  {
+    "name": " زرین ",
+    "code": 89581,
+    "stateCode": 35
+  },
+  {
+    "name": " اسفیج ",
+    "code": 89731,
+    "stateCode": 35
+  },
+  {
+    "name": " مبارکه-یزد ",
+    "code": 89751,
+    "stateCode": 35
+  },
+  {
+    "name": " کوشک-یزد ",
+    "code": 89771,
+    "stateCode": 35
+  },
+  {
+    "name": " بنستان ",
+    "code": 89781,
+    "stateCode": 35
+  },
+  {
+    "name": " تنگ چنار (چنار) ",
+    "code": 89831,
+    "stateCode": 35
+  },
+  {
+    "name": " ارنان ",
+    "code": 89851,
+    "stateCode": 35
+  },
+  {
+    "name": " بهادران ",
+    "code": 89861,
+    "stateCode": 35
+  },
+  {
+    "name": " فتح اباد-یزد ",
+    "code": 89891,
+    "stateCode": 35
+  },
+  {
+    "name": " ناحیه صنعتی پیشکوه ",
+    "code": 89931,
+    "stateCode": 35
+  },
+  {
+    "name": " نصراباد ",
+    "code": 89941,
+    "stateCode": 35
+  },
+  {
+    "name": " علی اباد-یزد ",
+    "code": 89951,
+    "stateCode": 35
+  },
+  {
+    "name": " ناحیه صنعتی گاریزات ",
+    "code": 89981,
+    "stateCode": 35
+  },
+  {
+    "name": " دهشیر ",
+    "code": 89991,
+    "stateCode": 35
+  }
+]
